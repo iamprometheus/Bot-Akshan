@@ -120,7 +120,8 @@ const whoIsHandler = async function (whoIsMessage, userMessage) {
 
 const champHandler = async function (champMessage, userMessage) {
   let correctChamp;
-
+  const start = performance.now();
+  
   try {
     correctChamp = getCorrectAnswer(champMessage, 'campeon');
   } catch (error) {
@@ -133,7 +134,7 @@ const champHandler = async function (champMessage, userMessage) {
   const userChamp = getUserAnswer(userMessage);
   const correctAnswer = await ChampionsModel.getAttributes( {champ: correctChamp} );
   const answer = await ChampionsModel.getAttributes( {champ: userChamp} );
-  
+
   try {
     if (!answer) return userMessage.react('❓');
   } catch (error) {
@@ -170,6 +171,8 @@ const champHandler = async function (champMessage, userMessage) {
   updateDatabase(champMessage, userMessage).catch((error) =>
     console.log(error)
   );
+
+  const end = performance.now();
   return userMessage
     .reply(`¡Lo lograste! La respuesta era ${answer.Nombre}`)
     .catch((error) => handleErrors(userMessage, error));
@@ -180,38 +183,13 @@ const buildChampEmbed = function (answer, comparative) {
     .setColor(0x0099ff)
     .setTitle(answer.Nombre)
     .setDescription(
-      `
-  Genero:  ${comparative.Gender ? '🟢' : '🔴'} ${answer.Gender}\n
-  Linea:   ${
-    comparative.Positions == true
-      ? '🟢'
-      : comparative.Positions == 'partial'
-      ? '🟡'
-      : '🔴'
-  } ${answer.Positions}\n
-  Especie: ${
-    comparative.Species == true
-      ? '🟢'
-      : comparative.Species == 'partial'
-      ? '🟡'
-      : '🔴'
-  } ${answer.Species}\n
+  `Genero: ${comparative.Gender ? '🟢' : '🔴'} ${answer.Gender}\n
+        Linea: ${selectColor(comparative.Positions)} ${answer.Positions}\n
+   Especie: ${selectColor(comparative.Species)} ${answer.Species}\n
   Recurso: ${comparative.Resource ? '🟢' : '🔴'} ${answer.Resource}\n
-  Alcance: ${
-    comparative.RangeType == true
-      ? '🟢'
-      : comparative.RangeType == 'partial'
-      ? '🟡'
-      : '🔴'
-  } ${answer.RangeType}\n
-  Region:  ${
-    comparative.Region == true
-      ? '🟢'
-      : comparative.Region == 'partial'
-      ? '🟡'
-      : '🔴'
-  } ${answer.Region}\n
-  Año:     ${comparative.ReleaseYear ? '🟢' : '🔴'} ${answer.ReleaseYear}
+   Alcance: ${selectColor(comparative.RangeType)} ${answer.RangeType}\n
+     Region: ${selectColor(comparative.Region)} ${answer.Region}\n
+          Año: ${comparative.ReleaseYear ? '🟢' : '🔴'} ${answer.ReleaseYear}
   `
     )
     .setThumbnail(answer.IconUrl)
@@ -219,61 +197,44 @@ const buildChampEmbed = function (answer, comparative) {
   return champEmbed
 }
 
-const arraysShareItem = function (answer, correctAnswer) {
+const selectColor = function (element) {
+  if (element === true) return '🟢'
+  if (element === 'partial') return '🟡'
+  return '🔴'
+}
+
+export const arraysShareItem = function (answer, correctAnswer) {
   // Ambas variables no son array
   if (!Array.isArray(answer) && !Array.isArray(correctAnswer))
-    return answer === correctAnswer;
+    return answer === correctAnswer
 
   // Ambas variables son array
   if (Array.isArray(answer) && Array.isArray(correctAnswer)) {
-    for (const value of answer.values()) {
-      if (correctAnswer.some((element) => element === value)) return true;
-    }
+    if (answer.every((element) => correctAnswer.includes(element))) return true
+    if (correctAnswer.some((element) => answer.includes(element))) return 'partial'
+    return false
   }
   // La primera variable no es array
   if (!Array.isArray(answer) && Array.isArray(correctAnswer)) {
-    if (correctAnswer.some((element) => element === answer)) return true;
+    if (correctAnswer.includes(answer)) return 'partial'
+    return false
   }
   // La segunda variable no es array
   if (Array.isArray(answer) && !Array.isArray(correctAnswer)) {
-    for (const value of answer.values()) {
-      if (correctAnswer === value) return true;
-    }
+    if (answer.includes(correctAnswer)) return 'partial'
   }
-  return false;
+  return false
 };
 
 const compareAnswers = function (answer, correctAnswer) {
   let correct = {};
-
   correct.Gender = answer.Gender === correctAnswer.Gender ? true : false;
-  correct.Positions =
-    answer.Positions === correctAnswer.Positions
-      ? true
-      : arraysShareItem(answer.Positions, correctAnswer.Positions)
-      ? 'partial'
-      : false;
-  correct.Species =
-    answer.Species === correctAnswer.Species
-      ? true
-      : arraysShareItem(answer.Species, correctAnswer.Species)
-      ? 'partial'
-      : false;
+  correct.Positions = arraysShareItem(answer.Positions, correctAnswer.Positions)
+  correct.Species = arraysShareItem(answer.Species, correctAnswer.Species)
   correct.Resource = answer.Resource === correctAnswer.Resource ? true : false;
-  correct.RangeType =
-    answer.RangeType === correctAnswer.RangeType
-      ? true
-      : arraysShareItem(answer.RangeType, correctAnswer.RangeType)
-      ? 'partial'
-      : false;
-  correct.Region =
-    answer.Region === correctAnswer.Region
-      ? true
-      : arraysShareItem(answer.Region, correctAnswer.Region)
-      ? 'partial'
-      : false;
-  correct.ReleaseYear =
-    answer.ReleaseYear == correctAnswer.ReleaseYear ? true : false;
+  correct.RangeType = arraysShareItem(answer.RangeType, correctAnswer.RangeType)
+  correct.Region = arraysShareItem(answer.Region, correctAnswer.Region)
+  correct.ReleaseYear = answer.ReleaseYear === correctAnswer.ReleaseYear ? true : false;
 
   return correct;
 };
