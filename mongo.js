@@ -1,6 +1,6 @@
 import { MongoClient } from 'mongodb';
-const uri =
-  'mongodb+srv://kanieloutis:s3s3sf28@cluster0.ek7xlxp.mongodb.net/sample_airbnb?retryWrites=true&w=majority';
+import 'dotenv/config'
+const uri = process.env.MONGO_URI
 export const mclient = new MongoClient(uri, { useNewUrlParser: true });
 const database = mclient.db('bot_akshan');
 const userRecords = database.collection('userRecords');

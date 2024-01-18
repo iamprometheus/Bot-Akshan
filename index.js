@@ -1,9 +1,10 @@
 import { readdirSync } from 'node:fs';
 import { Client, Collection, GatewayIntentBits } from 'discord.js';
-import { readJSON } from './utilities.js'
 import { mclient } from './mongo.js';
 
-const {token} = readJSON('./config.json')
+import 'dotenv/config'
+
+const token = process.env.TOKEN
 
 // Create a new client instance
 const client = new Client({ intents: [

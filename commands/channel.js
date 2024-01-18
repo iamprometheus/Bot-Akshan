@@ -51,7 +51,7 @@ export async function execute(interaction) {
 
   let channelExists = false;
 
-  for (channel of interaction.guild.channels.cache.values()) {
+  for (let channel of interaction.guild.channels.cache.values()) {
     if (channel.type === 0 && channel.name === 'bot-akshan') {
       channelExists = true;
       break;
