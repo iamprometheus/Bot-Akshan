@@ -1,6 +1,6 @@
 import { SlashCommandBuilder, EmbedBuilder } from 'discord.js';
 import { ChampionsModel } from '../models/champions.js';
-import { getNextChamp, handleErrors } from '../utilities.js';
+import { getNextChamp, handleErrors } from '../utils.js';
 
 export const data = new SlashCommandBuilder()
   .setName('campeon')
@@ -19,7 +19,7 @@ export async function execute(interaction) {
 
   const champEmbed = new EmbedBuilder().setColor(0xffffff).setAuthor({
     name: 'Escribe el nombre de un campeón para empezar.',
-    iconURL: result.CriptedChampIconUrl,
+    iconURL: result.EncryptedChampIconUrl,
   });
 
   return interaction.editReply({ embeds: [champEmbed] }).catch((error) => {

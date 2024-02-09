@@ -6,8 +6,13 @@ export const normalizeName = function (name) {
 }
 
 export class ChampionsModel {
-  static async getAllChamps() {
+  static async getAllData() {
     return champs
+  }
+
+  static async getAllChamps(){
+    for(let champ of champs)
+      console.log(champ)
   }
 
   static async getChampByName( {champ} ) {
@@ -16,7 +21,7 @@ export class ChampionsModel {
 
   static async getAbilities( {champ} ) {
     let champObject = champs.find(c => normalizeName(c.Nombre) === normalizeName(champ))
-    return [champObject.CriptedChampIconUrl, champObject.Abilities]
+    return [champObject.EncryptedChampIconUrl, champObject.Abilities]
   }
 
   static async getAbilitiesIconsUrl( {champ} ) {
@@ -26,17 +31,17 @@ export class ChampionsModel {
 
   static async getEmojis( {champ} ) {
     let champObject = champs.find(c => normalizeName(c.Nombre) === normalizeName(champ))
-    return [champObject.CriptedChampIconUrl, champObject.Emojis]
+    return [champObject.EncryptedChampIconUrl, champObject.Emojis]
   }
 
   static async getQuotes( {champ} ) {
     let champObject = champs.find(c => normalizeName(c.Nombre) === normalizeName(champ))
-    return [champObject.CriptedQuoteIconUrl, champObject.Frases]
+    return [champObject.EncryptedQuoteIconUrl, champObject.Frases]
   }
 
   static async getAka( {champ} ) {
     let champObject = champs.find(c => normalizeName(c.Nombre) === normalizeName(champ))
-    return [champObject.CriptedChampIconUrl, champObject.Aka]
+    return [champObject.EncryptedChampIconUrl, champObject.Aka]
   }
 
   static async getAttributes( {champ} ) {

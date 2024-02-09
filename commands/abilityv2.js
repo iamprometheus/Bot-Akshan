@@ -1,6 +1,6 @@
 import { SlashCommandBuilder, EmbedBuilder } from 'discord.js';
 import { ChampionsModel } from '../models/champions.js';
-import { getRandomItem, getNextChamp, handleErrors } from '../utilities.js';
+import { getRandomItem, getNextChamp, handleErrors } from '../utils.js';
 
 export const data = new SlashCommandBuilder()
   .setName('habilidadv2')

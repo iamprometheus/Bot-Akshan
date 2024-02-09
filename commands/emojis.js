@@ -1,6 +1,6 @@
 import { SlashCommandBuilder, EmbedBuilder } from 'discord.js';
 import { ChampionsModel } from '../models/champions.js';
-import { getNextChamp, getRandomItem, handleErrors } from '../utilities.js';
+import { getNextChamp, getRandomItem, handleErrors } from '../utils.js';
 
 export const data = new SlashCommandBuilder()
   .setName('emojis')

@@ -1,7 +1,7 @@
 import { Events } from 'discord.js';
 import { getUserStats, updateUserTokens } from '../mongo.js';
 import { getCommand } from './messageCreate.js';
-import { handleErrors } from '../utilities.js';
+import { handleErrors } from '../utils.js';
 import { getCorrectAnswer } from '../controllers/responseMessage.js';
 
 const HOW_TO_PLAY = `Ya tengo el bot, ¿cómo lo uso?\n

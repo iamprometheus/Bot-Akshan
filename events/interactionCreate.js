@@ -1,5 +1,5 @@
 import { Events, Collection } from 'discord.js';
-import { handleErrors } from '../utilities.js';
+import { handleErrors } from '../utils.js';
 
 const filterMessages = function (interaction, messages) {
   messages = messages.filter((m) => m.interaction?.id !== interaction.id);

@@ -1,6 +1,6 @@
 import { SlashCommandBuilder, EmbedBuilder } from 'discord.js';
 import { ChampionsModel } from '../models/champions.js';
-import { getRandomItem, getNextChamp } from '../utilities.js';
+import { getRandomItem, getNextChamp } from '../utils.js';
 
 export const data = new SlashCommandBuilder()
   .setName('frase')

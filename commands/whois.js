@@ -1,6 +1,6 @@
 import { SlashCommandBuilder, EmbedBuilder } from 'discord.js';
 import { ChampionsModel } from '../models/champions.js';
-import { getNextChamp } from '../utilities.js';
+import { getNextChamp } from '../utils.js';
 
 export const data = new SlashCommandBuilder()
   .setName('quienes')
