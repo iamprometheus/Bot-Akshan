@@ -1,4 +1,4 @@
-import { readJSON } from '../utilities.js'
+import { readJSON } from '../utils.js'
 const champs = readJSON('./data/attributes.json')
 
 export const normalizeName = function (name) {

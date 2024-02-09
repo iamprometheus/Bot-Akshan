@@ -1,2 +1,3 @@
 # Bot-Akshan
-Discord bot that implements loldle-type gamesto discord.
+
+Discord bot that implements loldle-type games to discord.

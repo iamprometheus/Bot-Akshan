@@ -1,5 +1,5 @@
 import { ChampionsModel } from "../models/champions.js";
-import { caesarCipher } from "../utilities.js";
+import { caesarCipher } from "../utils.js";
 import { updateDatabase } from '../mongo.js';
 import { EmbedBuilder } from "discord.js";
 
@@ -32,21 +32,18 @@ const abilityV1Handler = async function (abilityMessage, userMessage) {
     ability: '',
   };
 
-  let encriptedInfo;
-  try {
-    encriptedInfo = getCorrectAnswer(abilityMessage, 'habilidadv1');
-  } catch (error) {
+  let encriptedInfo = await getCorrectAnswer(abilityMessage, 'habilidadv1').catch(e =>
     userMessage.channel
       .send('Espera que cargue la habilidad, ¡velocista!')
-      .catch((error) => handleErrors(userMessage, error));
-  }
+      .catch((error) => handleErrors(userMessage, error))
+  )
 
   correctAnswer.champ = encriptedInfo.slice(0, -1)
   correctAnswer.ability = encriptedInfo.slice(-1)
 
   if (!correctAnswer.ability || !correctAnswer.champ) return;
 
-  const userAnswer = getUserAnswer(userMessage);
+  const userAnswer = strCleaner(userMessage.content);
   if (!correctAnswer.champ.includes(userAnswer)) {
     return onWrongAnswer(abilityMessage.commandName, userMessage);
   }
@@ -54,42 +51,32 @@ const abilityV1Handler = async function (abilityMessage, userMessage) {
 };
 
 const abilityV2Handler = async function (abilityMessage, userMessage) {
-  const correctAnswer = {
-    champ: '',
-    ability: '',
-  };
-
-  try {
-    correctAnswer.champ = getCorrectAnswer(abilityMessage, 'habilidadv2');
-  } catch (error) {
+  const correctAnswer = await getCorrectAnswer(abilityMessage, 'habilidadv2').catch( e => 
     userMessage.channel
       .send('Espera que cargue la habilidad, ¡velocista!')
-      .catch((error) => handleErrors(userMessage, error));
+      .catch((error) => handleErrors(userMessage, error))
+  )
+
+  if (!correctAnswer) return
+
+  const userAnswer = strCleaner(userMessage.content)
+
+  if (!correctAnswer.includes(userAnswer)) {
+    return onWrongAnswer(abilityMessage.commandName, userMessage)
   }
-  if (!correctAnswer.champ) return;
 
-  const userAnswer = getUserAnswer(userMessage);
-
-  if (!correctAnswer.champ.includes(userAnswer)) {
-    return onWrongAnswer(abilityMessage.commandName, userMessage);
-  }
-
-  return onCorrectAnswer(abilityMessage, userMessage);
+  return onCorrectAnswer(abilityMessage, userMessage)
 };
 
 const quoteHandler = async function (quoteMessage, userMessage) {
-  let correctAnswer;
-  
-  try {
-    correctAnswer = getCorrectAnswer(quoteMessage, 'frase');
-  } catch (error) {
-    return userMessage.channel
+  let correctAnswer = await getCorrectAnswer(quoteMessage, 'frase').catch(e => 
+    userMessage.channel
       .send('Espera que cargue la frase, ¡velocista!')
-      .catch((error) => handleErrors(userMessage, error));
-  }
-
+      .catch((error) => handleErrors(userMessage, error))
+  )
+  
   if (!correctAnswer) return;
-  const userAnswer = getUserAnswer(userMessage);
+  const userAnswer = strCleaner(userMessage.content);
 
   if (!correctAnswer.includes(userAnswer)) {
     return onWrongAnswer(quoteMessage.commandName, userMessage);
@@ -99,47 +86,36 @@ const quoteHandler = async function (quoteMessage, userMessage) {
 };
 
 const whoIsHandler = async function (whoIsMessage, userMessage) {
-  let correctAnswer;
-  try {
-    correctAnswer = getCorrectAnswer(whoIsMessage, 'quienes');
-  } catch (error) {
+  let correctAnswer = await getCorrectAnswer(whoIsMessage, 'quienes').catch(e => 
     userMessage.channel
       .send('Espera que cargue el apodo, ¡velocista!')
-      .catch((error) => handleErrors(userMessage, error));
-  }
+      .catch((error) => handleErrors(userMessage, error))
+  )
 
   if (!correctAnswer) return;
-  const userAnswer = getUserAnswer(userMessage);
+  const userAnswer = strCleaner(userMessage.content)
 
-  if (!correctAnswer.includes(userAnswer)) {
-    return onWrongAnswer(whoIsMessage.commandName, userMessage);
-  }
+  if (!correctAnswer.includes(userAnswer))
+    return onWrongAnswer(whoIsMessage.commandName, userMessage)
 
-  return onCorrectAnswer(whoIsMessage, userMessage);
+  return onCorrectAnswer(whoIsMessage, userMessage)
 };
 
 const champHandler = async function (champMessage, userMessage) {
-  let correctChamp;
   const start = performance.now();
   
-  try {
-    correctChamp = getCorrectAnswer(champMessage, 'campeon');
-  } catch (error) {
+  let correctChamp = await getCorrectAnswer(champMessage, 'campeon').catch(e =>
     userMessage.channel
       .send('Espera que cargue el campeón, ¡velocista!')
-      .catch((error) => handleErrors(userMessage, error));
-  }
+      .catch((error) => handleErrors(userMessage, error))
+  )
   if (!correctChamp) return;
 
-  const userChamp = getUserAnswer(userMessage);
+  const userChamp = strCleaner(userMessage.content);
   const correctAnswer = await ChampionsModel.getAttributes( {champ: correctChamp} );
   const answer = await ChampionsModel.getAttributes( {champ: userChamp} );
 
-  try {
-    if (!answer) return userMessage.react('❓');
-  } catch (error) {
-    console.log(error);
-  }
+  if (!answer) return userMessage.react('❓').catch(e => console.error(e)) 
   
   //Comparar respuestas
   let comparativa;
@@ -169,7 +145,7 @@ const champHandler = async function (champMessage, userMessage) {
   }
 
   updateDatabase(champMessage, userMessage).catch((error) =>
-    console.log(error)
+    console.error(error)
   );
 
   const end = performance.now();
@@ -245,20 +221,17 @@ const emojisHandler = async function (emojisMessage, userMessage) {
     cache: true,
   });
 
-  let correctAnswer;
-  try {
-    correctAnswer = getCorrectAnswer(emojisMessage, 'emojis');
-  } catch (error) {
-    return userMessage.channel
+  let correctAnswer = await getCorrectAnswer(emojisMessage, 'emojis').catch(e => 
+    userMessage.channel
       .send('Espera que carguen los emojis, ¡velocista!')
-      .catch((error) => handleErrors(userMessage, error));
-  }
+      .catch((error) => handleErrors(userMessage, error))
+  )
 
   let actualEmojis = messages.filter((m) =>
     m.content.startsWith(':white_small_square:')
   );
 
-  const userAnswer = getUserAnswer(userMessage);
+  const userAnswer = strCleaner(userMessage.content);
   const emojis = await ChampionsModel.getEmojis({ champ: correctAnswer });
 
   if (!correctAnswer.includes(userAnswer)) {
@@ -331,15 +304,15 @@ const showAllEmojis = function (actualEmojis, correctEmojis) {
   });
 };
 
-const getUserAnswer = function (userMessage) {
-  return userMessage.content
+export const strCleaner = function (str) {
+  return str
     .toLowerCase()
     .replaceAll(`'`, '')
     .replaceAll(' ', '')
     .replaceAll('.', '');
 };
 
-export const getCorrectAnswer = function (commandMsg, command) {
+export const getCorrectAnswer = async function (commandMsg, command) {
   if (command != 'habilidadv1')
     return caesarCipher(
       commandMsg.embeds[0].data.author.icon_url.split('/')[5].split('.p')[0]

@@ -1,13 +1,13 @@
 import { Events } from 'discord.js';
-import { readJSON } from '../utilities.js';
 import { readFileSync } from 'fs';
 const rawChamps = readFileSync('./data/campeones.txt', 'utf-8');
 const champs = rawChamps.split(/\r?\n/g);
 import { handleErrors } from '../utilities.js';
 import { gamesHandler } from '../controllers/responseMessage.js';
 import { normalizeName } from '../models/champions.js';
+import 'dotenv/config'
 
-const { clientId } = readJSON('./config.json')
+const clientId = process.env.CLIENT_ID
 
 const commands = [
   'habilidadv1',

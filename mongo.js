@@ -1,6 +1,6 @@
 import { MongoClient } from 'mongodb';
 import 'dotenv/config'
-const uri = process.env.MONGO_URI
+const uri = process.env.MONGO_URI2
 export const mclient = new MongoClient(uri, { useNewUrlParser: true });
 const database = mclient.db('bot_akshan');
 const userRecords = database.collection('userRecords');
