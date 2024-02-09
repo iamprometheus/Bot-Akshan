@@ -1,13 +1,10 @@
-import { Events } from 'discord.js';
-import { readFileSync } from 'fs';
-const rawChamps = readFileSync('./data/campeones.txt', 'utf-8');
-const champs = rawChamps.split(/\r?\n/g);
-import { handleErrors } from '../utils.js';
-import { gamesHandler } from '../controllers/responseMessage.js';
-import { normalizeName, ChampionsModel } from '../models/champions.js';
+import { Events } from 'discord.js'
+import { handleErrors } from '../utils.js'
+import { gamesHandler } from '../controllers/responseMessage.js'
+import { normalizeName, ChampionsModel } from '../models/champions.js'
 import 'dotenv/config'
-let test = ChampionsModel.getAllChamps();
-//console.log(test);
+
+const champs = ChampionsModel.getAllChamps()
 const clientId = process.env.CLIENT_ID
 
 const commands = [

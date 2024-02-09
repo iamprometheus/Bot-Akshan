@@ -11,8 +11,10 @@ export class ChampionsModel {
   }
 
   static async getAllChamps(){
+    let listOfChampions = []
     for(let champ of champs)
-      console.log(champ)
+      listOfChampions.push(normalizeName(champ.Nombre))
+    return listOfChampions
   }
 
   static async getChampByName( {champ} ) {
