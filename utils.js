@@ -25,6 +25,14 @@ export const caesarCipher = function (str) {
   return output
 }
 
+export const strCleaner = function (str) {
+  return str
+    .toLowerCase()
+    .replaceAll(`'`, '')
+    .replaceAll(' ', '')
+    .replaceAll('.', '')
+}
+
 export const handleErrors = function (interaction, error) {
   console.log(error.rawError || error)
   if (error.code === ERROR_DELETING_MESSAGES)
@@ -124,7 +132,7 @@ function randomizeChampions () {
     'nidalee',
     'nilah',
     'nocturne',
-    'nunuywillump',
+    'nunu',
     'olaf',
     'orianna',
     'ornn',
@@ -137,7 +145,7 @@ function randomizeChampions () {
     'rammus',
     'reksai',
     'rell',
-    'renataglasc',
+    'renata',
     'renekton',
     'rengar',
     'riven',
@@ -211,14 +219,38 @@ function randomizeChampions () {
 
 export const getNextChamp = function () {
   const champ = champsList[counter]
-
-  if (counter < 161) {
+  console.log(champ)
+  if (counter < champsList.length) {
     counter++
     return champ
   }
   counter = 0
   champsList = randomizeChampions()
   return champ
+}
+
+export const arraysShareItem = function (answer, correctAnswer) {
+  // Ambas variables no son array
+  if (!Array.isArray(answer) && !Array.isArray(correctAnswer))
+    return answer === correctAnswer
+
+  // Ambas variables son array
+  if (Array.isArray(answer) && Array.isArray(correctAnswer)) {
+    if (answer.every(element => correctAnswer.includes(element))) return true
+    if (correctAnswer.some(element => answer.includes(element)))
+      return 'partial'
+    return false
+  }
+  // La primera variable no es array
+  if (!Array.isArray(answer) && Array.isArray(correctAnswer)) {
+    if (correctAnswer.includes(answer)) return 'partial'
+    return false
+  }
+  // La segunda variable no es array
+  if (Array.isArray(answer) && !Array.isArray(correctAnswer)) {
+    if (answer.includes(correctAnswer)) return 'partial'
+  }
+  return false
 }
 
 export const readJSON = path => require(path)
