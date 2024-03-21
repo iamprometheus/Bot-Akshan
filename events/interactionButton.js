@@ -1,8 +1,8 @@
-import { Events } from 'discord.js';
-import { getUserStats, updateUserTokens } from '../mongo.js';
-import { getCommand } from './messageCreate.js';
-import { handleErrors } from '../utils.js';
-import { getCorrectAnswer } from '../controllers/responseMessage.js';
+import { Events } from 'discord.js'
+import { getUserStats, updateUserTokens } from '../mongo.js'
+import { getCommand } from './messageCreate.js'
+import { handleErrors } from '../utils.js'
+import { getCorrectAnswer } from '../controllers/responseMessage.js'
 
 const HOW_TO_PLAY = `Ya tengo el bot, ¿cómo lo uso?\n
 Escribe uno de los siguientes comandos para empezar a jugar.
@@ -19,7 +19,7 @@ Si la reacción es ❓ significa que el bot no reconoce el campeón que trataste
 Si la reacción es ✅ significa que encontraste la respuesta correcta.\n
 Es recomendable que el mensaje que persiste en el canal sea el que resulta del comando /iniciar.\n
 Para multiples juegos en un mismo servidor, es posible crear mas canales de nombre 'bot-akshan', cada canal será independiente de los demás.
-  `;
+  `
 
 const INFORMATION = `Sobre Akshan.
 Akshan es un bot que te permite jugar minijuegos sobre campeones de LoL con tus amigos desde Discord.\n
@@ -40,26 +40,26 @@ El bot dejo de funcionar, ¿cómo hago qué funcione de vuelta? Es posible que s
 Encontré un bug o errata, ¿donde puedo reportarla? Manda mensaje a Kaniel Outis#2772.\n
 ¿Cómo agrego el bot a mi servidor? Usando el siguiente enlace https://discord.com/api/oauth2/authorize?client_id=983675368655429682&permissions=2147560464&scope=bot%20applications.commands.\n
 Me gusto mucho su trabajo y me gustaría apoyar con el crecimiento del bot, ¿cómo lo hago? Usa el botón de donaciones que aparece con el menu del comando /iniciar.
-`;
+`
 
 const howToPlayPressed = function (interaction) {
   interaction
     .reply({
       content: HOW_TO_PLAY,
-      ephemeral: true,
+      ephemeral: true
     })
-    .catch((error) => handleErrors(interaction, error));
-};
+    .catch(error => handleErrors(interaction, error))
+}
 
 const statsPressed = async function (interaction) {
-  const userStats = await getUserStats(interaction.user.id);
+  const userStats = await getUserStats(interaction.user.id)
   if (userStats === null) {
     interaction
       .reply({
         content: `No tienes victorias registradas aún.`,
-        ephemeral: true,
+        ephemeral: true
       })
-      .catch((error) => handleErrors(interaction, error));
+      .catch(error => handleErrors(interaction, error))
   } else {
     interaction
       .reply({
@@ -72,68 +72,66 @@ Habilidadv2: ${userStats.games.habilidadv2}
 Emojis: ${userStats.games.emojis}
 Tokens: ${userStats.tokens}
 `,
-        ephemeral: true,
+        ephemeral: true
       })
-      .catch((error) => handleErrors(interaction, error));
+      .catch(error => handleErrors(interaction, error))
   }
-};
+}
 
 const HintPressed = async function (interaction) {
-  const userStats = await getUserStats(interaction.user.id);
+  const userStats = await getUserStats(interaction.user.id)
   if (userStats.tokens < 3)
     return interaction.reply({
       content: `Necesitas almenos 3 tokens para revelar la pista, tienes ${userStats.tokens} tokens.`,
-      ephemeral: true,
-    });
+      ephemeral: true
+    })
 
-  const command = await getCommand(interaction);
-  if (!(command ?? false)) return;
+  const command = await getCommand(interaction)
+  if (!(command ?? false)) return
 
-  const answer = getCorrectAnswer(command[1], command[0]);
+  const answer = await getCorrectAnswer(command[1], command[0])
 
-  if (!answer) return;
+  if (!answer) return
 
-  await updateUserTokens(interaction.user.id);
-
+  await updateUserTokens(interaction.user.id)
   interaction
     .reply({
       content: `El campeón empieza con la letra: ${answer
         .slice(0, 1)
         .toUpperCase()}.`,
-      ephemeral: true,
+      ephemeral: true
     })
-    .catch((error) => handleErrors(interaction, error));
-};
+    .catch(error => handleErrors(interaction, error))
+}
 
 const infoPressed = function (interaction) {
   interaction
     .reply({
       content: INFORMATION,
-      ephemeral: true,
+      ephemeral: true
     })
-    .catch((error) => handleErrors(interaction, error));
-};
+    .catch(error => handleErrors(interaction, error))
+}
 
-export const name = Events.InteractionCreate;
-export async function execute(interaction) {
+export const name = Events.InteractionCreate
+export async function execute (interaction) {
   try {
     if (interaction.guild.members.me.isCommunicationDisabled())
       return interaction
         .reply('Lo siento, estoy aislado por ahora.')
-        .catch((error) => handleErrors(interaction, error));
+        .catch(error => handleErrors(interaction, error))
   } catch (error) {
-    console.log('Interaction Button error', error);
+    console.log('Interaction Button error', error)
   }
 
-  if (!interaction.isButton()) return;
+  if (!interaction.isButton()) return
 
-  if (interaction.customId === 'comojugar')
-    return howToPlayPressed(interaction);
+  if (interaction.customId === 'comojugar') return howToPlayPressed(interaction)
 
-  if (interaction.customId === 'stats') return statsPressed(interaction);
+  if (interaction.customId === 'stats') return statsPressed(interaction)
 
-  if (interaction.customId === 'hint') return HintPressed(interaction);
+  if (interaction.customId === 'hint') return HintPressed(interaction)
 
-  if (interaction.customId === 'info') return infoPressed(interaction);
-  return;
+  if (interaction.customId === 'info') return infoPressed(interaction)
+  return
 }
