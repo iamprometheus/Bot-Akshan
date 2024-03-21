@@ -1,39 +1,39 @@
 import { createRequire } from 'node:module'
 const require = createRequire(import.meta.url)
 
-const ERROR_DELETING_MESSAGES = 50034;
+const ERROR_DELETING_MESSAGES = 50034
 
-let champsList = randomizeChampions();
-let counter = 0;
+let champsList = randomizeChampions()
+let counter = 0
 
 export const getRandomItem = function (property) {
-  return property[Math.floor(Math.random() * property.length)];
-};
+  return property[Math.floor(Math.random() * property.length)]
+}
 
 export const caesarCipher = function (str) {
-  if (15 < 0) return caesarShift(str, 15 + 26);
-  var output = '';
-  str = str.toLowerCase();
+  if (15 < 0) return caesarShift(str, 15 + 26)
+  var output = ''
+  str = str.toLowerCase()
 
   for (var i = 0; i < str.length; i++) {
-    var c = str[i];
-    var code = str.charCodeAt(i);
-    c = String.fromCharCode(((code - 97 + 15) % 26) + 97);
-    output += c;
+    var c = str[i]
+    var code = str.charCodeAt(i)
+    c = String.fromCharCode(((code - 97 + 15) % 26) + 97)
+    output += c
   }
 
-  return output;
-};
+  return output
+}
 
 export const handleErrors = function (interaction, error) {
-  console.log(error.rawError || error);
+  console.log(error.rawError || error)
   if (error.code === ERROR_DELETING_MESSAGES)
     return interaction.channel.send(
       'No puedo borrar los mensajes enviados hace mas de 14 dias en este canal.'
-    );
-};
+    )
+}
 
-function randomizeChampions() {
+function randomizeChampions () {
   const champsOrdered = [
     'aatrox',
     'ahri',
@@ -198,31 +198,30 @@ function randomizeChampions() {
     'ziggs',
     'zilean',
     'zoe',
-    'zyra',
-  ];
+    'zyra'
+  ]
 
   const champsShuffled = champsOrdered
-    .map((value) => ({ value, sort: Math.random() }))
+    .map(value => ({ value, sort: Math.random() }))
     .sort((a, b) => a.sort - b.sort)
-    .map(({ value }) => value);
+    .map(({ value }) => value)
 
-  return champsShuffled;
+  return champsShuffled
 }
 
 export const getNextChamp = function () {
-  const champ = champsList[counter];
+  const champ = champsList[counter]
 
   if (counter < 161) {
-    counter++;
-    return champ;
+    counter++
+    return champ
   }
-  counter = 0;
-  champsList = randomizeChampions();
-  return champ;
-};
+  counter = 0
+  champsList = randomizeChampions()
+  return champ
+}
 
-export const readJSON = (path) => require(path)
-
+export const readJSON = path => require(path)
 
 // const getRandomAbilityV1 = function () {
 //   return this.AbilitiesIconsUrl[
