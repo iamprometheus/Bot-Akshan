@@ -1,0 +1,1659 @@
+{
+  
+  "sombrerorabadon": {
+    "nombre": "Sombrero Mortifero de Rabadon",
+    "costo": 3600,
+    "tipo": ["Amplificación de daño mágico"],
+    "defensas": ["Ninguna"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Ninguna"]
+  },
+
+  "cuchillasnavori": {
+    "nombre": "Cuchillas Raudas de Navori",
+    "costo": 3400,
+    "tipo": ["Reducir Enfriamientos"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque", "Golpe Crítico"],
+    "otros": ["Aceleración de Habilidad"]
+  },
+
+  "arcoescudo": {
+    "nombre": "Arcoescudo Inmortal",
+    "costo": 3400,
+    "tipo": ["Supervivencia", "Escudos", "Mítico"],
+    "defensas": ["Vida"],
+    "daños": ["Daño de Ataque","Golpe Crítico"],
+    "otros": ["Robo de Vida","Vel. Ataque"]
+  },
+
+  "matakrakens": {
+    "nombre": "Matakrakens",
+    "costo": 3400,
+    "tipo": ["Antitanques","Mítico"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque", "Daño Verdadero"],
+    "otros": ["Vel. Ataque"]
+  },
+
+  "fuerzadelviento": {
+    "nombre": "Fuerza del Viento",
+    "costo": 3400,
+    "tipo": ["Movilidad", "Mítico"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque","Golpe Crítico"],
+    "otros": ["Vel. Ataque", "Vel. Movimiento"]
+  },
+
+  "shojin": {
+    "nombre": "Lanza de Shojin",
+    "costo": 3400,
+    "tipo": ["Reducir Enfriamientos"],
+    "defensas": ["Vida"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Aceleración de Habilidad"]
+  },
+
+  "hidravoraz": {
+    "nombre": "Hidra Voraz",
+    "costo": 3400,
+    "tipo": ["Vampirismo", "Daño en Área"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Robo de Vida","Aceleración de Habilidad"]
+  },
+
+  "filoinfinito": {
+    "nombre": "Filo del Infinito",
+    "costo": 3400,
+    "tipo": ["Amplificación de Críticos"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque", "Golpe Crítico"],
+    "otros": ["Ninguna"]
+  },
+
+  "trinidad": {
+    "nombre": "Fuerza de la Trinidad",
+    "costo": 3333,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "cercenadordivino": {
+    "nombre": "Cercenador Divino",
+    "costo": 3300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "rompeavances": {
+    "nombre": "Rompeavances",
+    "costo": 3300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "bebedor": {
+    "nombre": "Bebedor de Sangre",
+    "costo": 3300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "danza": {
+    "nombre": "Danza de la Muerte",
+    "costo": 3300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "hidratitanica": {
+    "nombre": "Hidra Titánica",
+    "costo": 3300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "reyarruinado": {
+    "nombre": "Espada del Rey Arruinado",
+    "costo": 3300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "serylda": {
+    "nombre": "Rencor de Serylda",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "virtudradiante": {
+    "nombre": "Virtud Radiante",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "jaksho": {
+    "nombre": "Jack'Sho, el Proteico",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "luden": {
+    "nombre": "Tempestad de Luden",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "liandry": {
+    "nombre": "Angustia de Liandry",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "cosechadornocturno": {
+    "nombre": "Cosechador Nocturno",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "agrietdor": {
+    "nombre": "Agrietador",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "armadurapetrea": {
+    "nombre": "Armadura Pétrea",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "cinturoncohete": {
+    "nombre": "Cinturón Cohete Hextech",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "corazondeacero": {
+    "nombre": "Corazón de Acero",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "sanguinaria": {
+    "nombre": "La Sanguinaria",
+    "costo": 3200,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "garradelmerodeador": {
+    "nombre": "Garra del Merodeador",
+    "costo": 3100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "eclipse": {
+    "nombre": "Eclipse",
+    "costo": 3100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "draktharr": {
+    "nombre": "Hoja Crepuscular de Draktharr",
+    "costo": 3100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "filodelacordura": {
+    "nombre": "Al Filo de la Cordura",
+    "costo": 3100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "cuchillaoscura": {
+    "nombre": "Cuchilla Oscura",
+    "costo": 3100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "sterak": {
+    "nombre": "Guantelete de Sterak",
+    "costo": 3100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "mascaraabisal": {
+    "nombre": "Máscara Abisal",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "arcoaxiomatico": {
+    "nombre": "Arco Axiomatico",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "collecionista": {
+    "nombre": "El Coleccionista",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "guanteletedehielo": {
+    "nombre": "Guantelete del Hijo del Hielo",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "amanecerplateado": {
+    "nombre": "Amanecer Plateado",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "lumbria": {
+    "nombre": "Lumbría",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "abrazodemoniaco": {
+    "nombre": "Abrazo Demoniaco",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "impulsocosmico": {
+    "nombre": "Impulso Cósmico",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "enfoquealhorizonte": {
+    "nombre": "Enfoque al Horizonte",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "morellonomicon": {
+    "nombre": "Morellonomicón",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "relojzhonya": {
+    "nombre": "Reloj de Arena Zhonya",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "randuin": {
+    "nombre": "Presagio de Randuin",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "youmuu": {
+    "nombre": "Espada Fantasma de Youmuu",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "cimitarra": {
+    "nombre": "Cimitarra Mercurial",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "dientedenashor": {
+    "nombre": "Diente de Nashor",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "liche": {
+    "nombre": "Maldición de Liche",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "warmog": {
+    "nombre": "Armadura de Warmog",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "lorddominik": {
+    "nombre": "Recuerdos de Lord Dominik",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "recordatoriomortal": {
+    "nombre": "Recordatorio Mortal",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "angelguardian": {
+    "nombre": "Ángel Guardián",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "baculodearcangel": {
+    "nombre": "Báculo de Arcángel",
+    "costo": 3000,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "fuerzadelanaturaleza": {
+    "nombre": "Fuerza de la Naturaleza",
+    "costo": 2900,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "filodelanoche": {
+    "nombre": "Filo de la Noche",
+    "costo": 2900,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "placadelhombremuerto": {
+    "nombre": "Placa del Hombre Muerto",
+    "costo": 2900,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "saqueadordeescencia": {
+    "nombre": "Saqueador de Esencias",
+    "costo": 2900,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "malmortius": {
+    "nombre": "Fauces de Malmortius",
+    "costo": 2900,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "aparienciaespiritual": {
+    "nombre": "Apariencia Espiritual",
+    "costo": 2900,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "manamunemuramana": {
+    "nombre": "Manamune/Muramana",
+    "costo": 2900,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "quimotanque": {
+    "nombre": "Quimotanque Turbo",
+    "costo": 2800,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "varadelasedades": {
+    "nombre": "Vara de las Edades",
+    "costo": 2800,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "hieloeterno": {
+    "nombre": "Hielo Eterno",
+    "costo": 2800,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "sierraespadaquimopunk": {
+    "nombre": "Sierraespada Quimopunk",
+    "costo": 2800,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "corona": {
+    "nombre": "Corona de la Reina Fragmentada",
+    "costo": 2800,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "rompecascos": {
+    "nombre": "Rompecascos",
+    "costo": 2800,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "baculodelvacio": {
+    "nombre": "Báculo del Vacío",
+    "costo": 2800,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "corazondehielo": {
+    "nombre": "Corazón de Hielo",
+    "costo": 2700,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "filodelatormena": {
+    "nombre": "Filo de la Tormenta",
+    "costo": 2700,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "cotadeespinas": {
+    "nombre": "Cota de Espinas",
+    "costo": 2700,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "egidasolar": {
+    "nombre": "Égida de Fuego Solar",
+    "costo": 2700,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "colmillodeserpiente": {
+    "nombre": "Colmillo de Serpiente",
+    "costo": 2600,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "guinsoo": {
+    "nombre": "Espadafuria de Guinsoo",
+    "costo": 2600,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "umbraldelinvierno": {
+    "nombre": "Umbral del Invierno",
+    "costo": 2600,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "rylai": {
+    "nombre": "Cetro de Cristal de Rylai",
+    "costo": 2600,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "banshee": {
+    "nombre": "Velo de la Banshee",
+    "costo": 2600,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "runaan": {
+    "nombre": "Huracán de Runaan",
+    "costo": 2600,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "bailarin": {
+    "nombre": "Bailarín Espectral",
+    "costo": 2600,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "cadenasdeanatema": {
+    "nombre": "Cadenas de Anatema",
+    "costo": 2500,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "piedralunar": {
+    "nombre": "Renovador de Piedra Lunar",
+    "costo": 2500,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "mandatoimperial": {
+    "nombre": "Mandato Imperial",
+    "costo": 2500,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "solari": {
+    "nombre": "Relicario de los Solari de Hierro",
+    "costo": 2500,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "cañondefuegorapido": {
+    "nombre": "Cañón de Fuego Rapido",
+    "costo": 2500,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "mantodelocaso": {
+    "nombre": "Manto del Ocaso",
+    "costo": 2500,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "shurelya": {
+    "nombre": "Canto de Guerra de Shurelya",
+    "costo": 2500,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "zeke": {
+    "nombre": "Convergencia de Zeke",
+    "costo": 2400,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "baculodeaguafluyente": {
+    "nombre": "Báculo de Agua Fluyente",
+    "costo": 2300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "pebetero": {
+    "nombre": "Pebetero Ardiente",
+    "costo": 2300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "mikael": {
+    "nombre": "Bendición de Mikael",
+    "costo": 2300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "espadadelapenumbra": {
+    "nombre": "Espada de la Penumbra",
+    "costo": 2300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "promesadelcaballero": {
+    "nombre": "Promesa del Caballero",
+    "costo": 2300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "redencion": {
+    "nombre": "Redención",
+    "costo": 2300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "putrificadorquimtech": {
+    "nombre": "Putrificador Quimtech",
+    "costo": 2300,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "mejai": {
+    "nombre": "Robaalmas de Mejai",
+    "costo": 1600,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "ultimosuspiro": {
+    "nombre": "Último Suspiro",
+    "costo": 1450,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "carcaj": {
+    "nombre": "Carcaj de Mediodía",
+    "costo": 1300,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "miradaabsorbente": {
+    "nombre": "Mirada Absorvente",
+    "costo": 1300,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "capituloperdido": {
+    "nombre": "Capítulo Perdido",
+    "costo": 1300,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "sorbechizos": {
+    "nombre": "Sorbechizos",
+    "costo": 1300,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "fajin": {
+    "nombre": "Fajín de Mercurio",
+    "costo": 1300,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "espadon": {
+    "nombre": "Espadón",
+    "costo": 1300,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "joyamaldita": {
+    "nombre": "Joya Maldita",
+    "costo": 1250,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "habitodelespectro": {
+    "nombre": "Hábito del Espectro",
+    "costo": 1250,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "varainnecesariamentegrande": {
+    "nombre": "Vara Innecesariamente Grande",
+    "costo": 1250,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "egidadelalegion": {
+    "nombre": "Égida de la Legión",
+    "costo": 1200,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "tiamat": {
+    "nombre": "Tiamat",
+    "costo": 1200,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "latigoferreo": {
+    "nombre": "Látigo Férreo",
+    "costo": 1100,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "piedravigia": {
+    "nombre": "Piedravigía Observadora",
+    "costo": 1100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "catalizador": {
+    "nombre": "Catalizador de Eones",
+    "costo": 1100,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "puñalserrado": {
+    "nombre": "Puñal Serrado",
+    "costo": 1100,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "martillodeguerra": {
+    "nombre": "Martillo de Guerra de Caulfield",
+    "costo": 1100,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "botasdemercurio": {
+    "nombre": "Botas de Mercurio",
+    "costo": 1100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "tabispunterasdeacero": {
+    "nombre": "Punteras de Acero Revestidas",
+    "costo": 1100,
+    "tipo": [],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "bacteriofago": {
+    "nombre": "Bacteriófago",
+    "costo": 1100,
+    "tipo": ["Componente"],
+    "defensas": [],
+    "daños": [],
+    "otros": []
+  },
+
+  "botasdehechizero": {
+    "nombre": "Botas de Hechizero",
+    "costo": 1100,
+    "tipo": ["Movilidad"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Penetración Mágica"]
+  },
+
+  "grebasdeberserker": {
+    "nombre": "Grebas de Berserker",
+    "costo": 1100,
+    "tipo": ["Movilidad"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Vel. Ataque"]
+  },
+
+  "alternadorhextech": {
+    "nombre": "Alternador Hextech",
+    "costo": 1050,
+    "tipo": ["Componente"],
+    "defensas": ["Vida"],
+    "daños": ["Poder de Habilidad", "Daño Extra al Golpear Campeones"],
+    "otros": ["Ninguna"]
+  },
+
+  "fervor": {
+    "nombre": "Fervor",
+    "costo": 1050,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Golpe Crítico"],
+    "otros": ["Vel. Ataque","Vel. Movimiento"]
+  },
+
+  "cenizadebami": {
+    "nombre": "Ceniza de Bami",
+    "costo": 1000,
+    "tipo": ["Componente"],
+    "defensas": ["Vida"],
+    "daños": ["Daño Pasivo en Peleas"],
+    "otros": ["Ninguna"]
+  },
+
+  "barreraesmeralda": {
+    "nombre": "Barrera Esmeralda",
+    "costo": 1000,
+    "tipo": ["Componente", "Progresivo"],
+    "defensas": ["Resistencia Mágica"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Ninguna"]
+  },
+
+  "guardabrazo": {
+    "nombre": "Guardabrazo del Buscador",
+    "costo": 1000,
+    "tipo": ["Componente", "Progresivo"],
+    "defensas": ["Armadura"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Ninguna"]
+  },
+
+  "botasdemovilidad": {
+    "nombre": "Botas de Movilidad",
+    "costo": 1000,
+    "tipo": ["Movilidad"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Vel. Movimiento"]
+  },
+
+  "cotadelguardabosques": {
+    "nombre": "Cota del Guardabosques",
+    "costo": 1000,
+    "tipo": ["Componente", "Reducción de Daño"],
+    "defensas": ["Armadura"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "hachahogareña": {
+    "nombre": "Hacha Hogareña",
+    "costo": 1000,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Vel. Ataque", "Vel. Movimiento"]
+  },
+
+  "arcorecurvado": {
+    "nombre": "Arco Recurvado",
+    "costo": 1000,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño al Impacto"],
+    "otros": ["Vel. Ataque"]
+  },
+
+  "espejodevitrobandle": {
+    "nombre": "Espejo de Vitrobandle",
+    "costo": 950,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Reg. Maná", "Aceleración de Habilidad"]
+  },
+
+  "botasjoniasdelucidez": {
+    "nombre": "Botas Jonias de Lucidez",
+    "costo": 950,
+    "tipo": ["Movilidad"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Aceleración de Habilidad"]
+  },
+
+  "codicediabolico": {
+    "nombre": "Códice Diabólico",
+    "costo": 900,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Aceleración de Habilidad"]
+  },
+
+  "escudoglacial": {
+    "nombre": "Escudo Glacial",
+    "costo": 900,
+    "tipo": ["Componente"],
+    "defensas": ["Armadura"],
+    "daños": ["Ninguna"],
+    "otros": ["Maná", "Aceleración de Habilidad"]
+  },
+
+  "botasderapidez": {
+    "nombre": "Botas de Rapidez",
+    "costo": 900,
+    "tipo": ["Movilidad"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Vel. Movimiento"]
+  },
+
+  "capadenegatrones": {
+    "nombre": "Capa de Negatrones",
+    "costo": 900,
+    "tipo": ["Componente"],
+    "defensas": ["Resistencia Mágica"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "cetrovampirico": {
+    "nombre": "Cetro Vampírico",
+    "costo": 900,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Robo de Vida"]
+  },
+
+  "cinturondegigante": {
+    "nombre": "Cinturón de Gigante",
+    "costo": 900,
+    "tipo": ["Componente"],
+    "defensas": ["Vida"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "picacha": {
+    "nombre": "Picacha",
+    "costo": 875,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Ninguna"]
+  },
+
+  "brisadeeter": {
+    "nombre": "Brisa de Éter",
+    "costo": 850,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Vel. Movimiento"]
+  },
+
+  "varitaexplosiva": {
+    "nombre": "Varita Explosiva",
+    "costo": 850,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Ninguna"]
+  },
+
+  "cuchilladefuria": {
+    "nombre": "Cuchillo de Furia",
+    "costo": 800,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño al Impacto"],
+    "otros": ["Vel. Ataque"]
+  },
+
+  "orbedelolvido": {
+    "nombre": "Orbe del Olvido",
+    "costo": 800,
+    "tipo": ["Componente","Reducción de Curaciones"],
+    "defensas": ["Ninguna"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Ninguna"]
+  },
+
+  "brazalcristalino": {
+    "nombre": "Brazal Cristalino",
+    "costo": 800,
+    "tipo": ["Componente"],
+    "defensas": ["Vida"],
+    "daños": ["Ninguna"],
+    "otros": ["Reg. Vida"]
+  },
+
+  "verdugo": {
+    "nombre": "El Llamado del Verdugo",
+    "costo": 800,
+    "tipo": ["Componente", "Reducción de Curaciones"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Ninguna"]
+  },
+
+  "idoloprohibido": {
+    "nombre": "Ídolo Prohibido",
+    "costo": 800,
+    "tipo": ["Componente", "Potencia Escudos", "Potencia Curaciones"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Reg. Maná"]
+  },
+
+  "vestaespinoza": {
+    "nombre": "Vesta Espinoza",
+    "costo": 800,
+    "tipo": ["Componente", "Reducción de Curaciones"],
+    "defensas": ["Armadura"],
+    "daños": ["Daño al Impacto"],
+    "otros": ["Ninguna"]
+  },
+
+  "gemaluz": {
+    "nombre": "Gema Luz",
+    "costo": 800,
+    "tipo": ["Componente"],
+    "defensas": ["Vida"],
+    "daños": ["Ninguna"],
+    "otros": ["Aceleración de Habilidad"]
+  },
+
+  "placalunaralada": {
+    "nombre": "Placa Lunar Alada",
+    "costo": 800,
+    "tipo": ["Componente"],
+    "defensas": ["Vida"],
+    "daños": ["Ninguna"],
+    "otros": ["Vel. Movimiento"]
+  },
+
+  "cotademalla": {
+    "nombre": "Cota de Malla",
+    "costo": 800,
+    "tipo": ["Componente"],
+    "defensas": ["Armadura"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "cronometro": {
+    "nombre": "Cronómetro",
+    "costo": 750,
+    "tipo": ["Componente", "Supervivencia"],
+    "defensas": ["Invulnerabilidad"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "brillo": {
+    "nombre": "Brillo",
+    "costo": 700,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ataque Básico Mejorado"],
+    "otros": ["Ninguna"]
+  },
+
+  "fragmentodekircheis": {
+    "nombre": "Fragmento de Kircheis",
+    "costo": 700,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ataque Básico Mejorado"],
+    "otros": ["Vel. Ataque"]
+  },
+
+  "capadeagilidad": {
+    "nombre": "Capa de Agilidad",
+    "costo": 600,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Golpe Crítico"],
+    "otros": ["Ninguna"]
+  },
+
+  "elixirdefuria": {
+    "nombre": "Elixir de Furia",
+    "costo": 500,
+    "tipo": ["Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Vampirismo"]
+  },
+
+  "elixirdebrujeria": {
+    "nombre": "Elixir de Brujeria",
+    "costo": 500,
+    "tipo": ["Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Reg. Maná"]
+  },
+
+  "elixirdehierro": {
+    "nombre": "Elixir de Hierro",
+    "costo": 500,
+    "tipo": ["Consumible"],
+    "defensas": ["Vida"],
+    "daños": ["Ninguna"],
+    "otros": ["Tenacidad"]
+  },
+
+  "pociondecorrupcion": {
+    "nombre": "Poción de Corrupción",
+    "costo": 500,
+    "tipo": ["Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Reg. Vida", "Reg. Maná"]
+  },
+
+  "retoñodepisamusgo": {
+    "nombre": "Retoño de Pisamusgo",
+    "costo": 450,
+    "tipo": ["Primer Compra","Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Mejora de Smite"]
+  },
+
+  "criadetrotabrisas": {
+    "nombre": "Cria de Trotabrisas",
+    "costo": 450,
+    "tipo": ["Primer Compra","Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Mejora de Smite"]
+  },
+
+  "cachorroderasgafuegos": {
+    "nombre": "Cachorro de Rasgafuegos",
+    "costo": 450,
+    "tipo": ["Primer Compra","Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Mejora de Smite"]
+  },
+
+  "sacrificar": {
+    "nombre": "Sacrificar",
+    "costo": 450,
+    "tipo": ["Progresivo","Primer Compra"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Oro Pasivo"]
+  },
+
+  "espadadedoran": {
+    "nombre": "Espada de Doran",
+    "costo": 450,
+    "tipo": ["Primer Compra"],
+    "defensas": ["Vida"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Omnivampirismo"]
+  },
+
+  "mantoanulamagia": {
+    "nombre": "Manto Anulamagia",
+    "costo": 450,
+    "tipo": ["Componente"],
+    "defensas": ["Resistencia Mágica"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "libroamplificador": {
+    "nombre": "Libro Amplificador",
+    "costo": 435,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Ninguna"]
+  },
+
+  "hozespectral": {
+    "nombre": "Hoz Espectral",
+    "costo": 400,
+    "tipo": ["Progresivo", "Primer Compra"],
+    "defensas": ["Vida"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Reg. Maná", "Oro Pasivo"]
+  },
+
+  "escudoreliquia": {
+    "nombre": "Escudo Reliquia",
+    "costo": 400,
+    "tipo": ["Progresivo", "Primer Compra"],
+    "defensas": ["Vida"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Reg. Vida", "Oro Pasivo"]
+  },
+
+  "hombrerasdeacero": {
+    "nombre": "Hombreras de Acero",
+    "costo": 400,
+    "tipo": ["Progresivo", "Primer Compra"],
+    "defensas": ["Vida"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Reg. Vida", "Oro Pasivo"]
+  },
+
+  "filodelrobahechizos": {
+    "nombre": "Filo del Robahechizos",
+    "costo": 400,
+    "tipo": ["Progresivo", "Primer Compra"],
+    "defensas": ["Vida"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Reg. Maná", "Oro Pasivo"]
+  },
+
+  "lagrima": {
+    "nombre": "Lágrima de la Diosa",
+    "costo": 400,
+    "tipo": ["Componente", "Progresivo", "Primer Compra"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Maná"]
+  },
+
+  "sortijadedoran": {
+    "nombre": "Sortija de Doran",
+    "costo": 400,
+    "tipo": ["Primer Compra"],
+    "defensas": ["Vida"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Reg. Maná"]
+  },
+
+  "escudodedoran": {
+    "nombre": "Escudo de Doran",
+    "costo": 450,
+    "tipo": ["Primer Compra"],
+    "defensas": ["Vida"],
+    "daños": ["Ninguna"],
+    "otros": ["Reg. Vida"]
+  },
+
+  "cristalderubi": {
+    "nombre": "Cristal de Rubi",
+    "costo": 400,
+    "tipo": ["Componente"],
+    "defensas": ["Vida"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "sellodelaoscuridad": {
+    "nombre": "El Sello de la Oscuridad",
+    "costo": 350,
+    "tipo": ["Componente", "Progresivo", "Snowball"],
+    "defensas": ["Vida"],
+    "daños": ["Poder de Habilidad"],
+    "otros": ["Ninguna"]
+  },
+
+  "espadalarga": {
+    "nombre": "Espada Larga",
+    "costo": 350,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Daño de Ataque"],
+    "otros": ["Ninguna"]
+  },
+
+  "cristaldezafiro": {
+    "nombre": "Cristal de Zafiro",
+    "costo": 350,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Maná"]
+  },
+
+  "daga": {
+    "nombre": "Daga",
+    "costo": 300,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Vel. Ataque"]
+  },
+
+  "armaduradetela": {
+    "nombre": "Armadura de Tela",
+    "costo": 300,
+    "tipo": ["Componente"],
+    "defensas": ["Armadura"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "perladerejuvenecimiento": {
+    "nombre": "Perla de Rejuvenecimiento",
+    "costo": 300,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Reg. Vida"]
+  },
+
+  "botas": {
+    "nombre": "Botas",
+    "costo": 300,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Vel. Movimiento"]
+  },
+
+  "amuletodelashadas": {
+    "nombre": "Amuleto de las Hadas",
+    "costo": 250,
+    "tipo": ["Componente"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Reg. Maná"]
+  },
+
+  "pocionreutlizable": {
+    "nombre": "Poción Reutilizable",
+    "costo": 150,
+    "tipo": ["Componente", "Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Reg. Vida"]
+  },
+
+  "centineladecontrol": {
+    "nombre": "Centinela de Control",
+    "costo": 75,
+    "tipo": ["Consumible", "Visión"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "pociondevida": {
+    "nombre": "Poción de Vida",
+    "costo": 50,
+    "tipo": ["Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Reg. Vida"]
+  },
+
+  "centinelainvisible": {
+    "nombre": "Centinela Invisible",
+    "costo": 0,
+    "tipo": ["Visión"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "lentedeloraculo": {
+    "nombre": "Lente de Oráculo",
+    "costo": 0,
+    "tipo": ["Visión"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "centineladevisionlejana": {
+    "nombre": "Centinela de Visión Lejana",
+    "costo": 0,
+    "tipo": ["Visión"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "efigiedeespantapajaros": {
+    "nombre": "Efigie de Espantapájaros",
+    "costo": 0,
+    "tipo": ["Visión"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Ninguna"]
+  },
+
+  "lanzanegra": {
+    "nombre": "Lanza Negra de Kalista",
+    "costo": 0,
+    "tipo": ["Consumible"],
+    "defensas": ["Ninguna"],
+    "daños": ["Ninguna"],
+    "otros": ["Vinculo"]
+  }
+
+}

@@ -1,8 +1,18 @@
 {
   "dependencies": {
+    "@discordjs/node-pre-gyp": "^0.4.5",
+    "@discordjs/voice": "^0.16.1",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
-    "mongodb": "^5.9.2"
+    "libsodium-wrappers": "^0.7.13",
+    "mongodb": "^5.9.2",
+    "node-pre-gyp": "^0.17.0",
+    "opusscript": "^0.0.8",
+    "rebuild": "^0.1.2",
+    "tweetnacl": "^1.0.3",
+    "validator": "^13.11.0",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
   },
   "name": "akshan-bot",
   "type": "module",
@@ -14,6 +24,15 @@
   },
   "scripts": {
     "test": "node --test"
+  },
+  "imports": {
+    "#commands/*": "./src/commands/*",
+    "#events/*": "./src/events/*",
+    "#controllers/*": "./src/controllers/*",
+    "#utils": "./src/utils/utils.js",
+    "#mongo": "./src/database/mongo.js",
+    "#embeds": "./src/embeds/embeds.js",
+    "#localChampionModel": "./src/models/champions.js"
   },
   "author": "Aly Castro",
   "license": "ISC"

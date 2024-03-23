@@ -1,0 +1,4795 @@
+{
+  "aatrox": {
+    "Nombre": "Aatrox",
+    "CriptedName": "lleczi",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Darkin",
+    "Resource": "Ninguno",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Runeterra", "Shurima"],
+    "ReleaseYear": "2013",
+    "IconUrl": "https://www.dropbox.com/s/mx655n4pgezeq5k/Aatrox.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/epcfr8cf4a0s6jo/lleczi.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/i1vf17fznctl8y7/lleczi.png?dl=1",
+    "Abilities": [
+      "Heraldo de la Destrucción",
+      "La Espada Darkin",
+      "Cadenas Infernales",
+      "Impulso Siniestro",
+      "Destructor de Mundos"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La guerra saca a relucir nuestro verdadero ser.",
+      "Sé lo que se esconde en el corazón de los hombres.",
+      "Que el miedo se vuelva furia.",
+      "El dolor es temporal, la victoria es eterna.",
+      "Tryndamere... Mi mayor creación."
+    ]
+  },
+
+  "ahri": {
+    "Nombre": "Ahri",
+    "CriptedName": "lsct",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": "Vastaya",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Jonia",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/6gmjk78ygidbq2j/Ahri.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/p96vdlstm87a5zw/lsct.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/vvdnqtpg2o667g2/lsct.png?dl=1",
+    "Abilities": [
+      "Ladrona de Esencias",
+      "Orbe del Engaño",
+      "Fuego Zorruno",
+      "Encanto",
+      "Impulso Espiritual"
+    ],
+    "Emojis": "🦊",
+    "Frases": [
+      "Ven a probar suerte, si crees que juegas en mí liga.",
+      "¿Qué es lo que deseas?",
+      "Cuéntame un secreto.",
+      "¿No confías en mí?",
+      "No te detengas.",
+      "Han agotado su utilidad.",
+      "Nadie se interpondrá en mí camino.",
+      "Vamos a pasarla en grande.",
+      "Ya no sirve de nada la piedad.",
+      "Ahora son míos.",
+      "Se acabaron los juegos."
+    ]
+  },
+
+  "akali": {
+    "Nombre": "Akali",
+    "CriptedName": "lvlwt",
+    "Gender": "Femenino",
+    "Positions": ["Central", "Superior"],
+    "Species": "Humano",
+    "Resource": "Energia",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/1r8zoc6gln7f4jg/Akali.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/lz3du9ps6nzwdvg/lvlwt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/rt71wqhhyy3onea/lvlwt.png?dl=1",
+    "Abilities": [
+      "Marca de la Asesina",
+      "Ráfaga de los Cinco Filos",
+      "Manto Crepuscular",
+      "Maniobra de Shuriken",
+      "Ejecución Perfecta"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Te sugiero que corras, quiero saborear esto.",
+      "Como dicta el equilibrio.",
+      "Demasiados novatos, ¿se alcanzará alguna vez el equilibrio en los emparejamientos?"
+    ]
+  },
+
+  "akshan": {
+    "Nombre": "Akshan",
+    "CriptedName": "lvdsly",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Superior"],
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Shurima",
+    "ReleaseYear": "2021",
+    "IconUrl": "https://www.dropbox.com/s/xzcmfjciylmeevq/Akshan.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ilohx145cwf5xmy/lvdsly.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/oyj6lh4vs6ey4qs/lvdsly.png?dl=1",
+    "Abilities": [
+      "Pelea Sucio",
+      "Venganzarang",
+      "Contra las Reglas",
+      "Pirueta Heroica",
+      "Tu Merecido"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Shadya aprobaría esto creo... Nunca se sabía con ella.",
+      "Con que así se siente tener amigos.",
+      "Esta capa no cumple con las normas de los centinelas. Aunque, tampoco el gancho. Ni el Boomerang.",
+      "No estamos indefensos somos los que forjamos nuestro destino. ¡Ahora a dispararles a los villanos en la cara!",
+      "No existe el destino. Pero sí existe Akshan.",
+      "Es importante avanzar hacia el viento. Para que la capa ondee dramáticamente.",
+      "La venganza no es un impulso saludable. ¡Salud por lo no saludable!",
+      "La gente dice que soy muy rencoroso. Pero esa gente está muerta.",
+      "¿Qué más puedo agregarle a esta arma? Tal vez vez una pala. ¡No! Una escalera.",
+      "¿Cómo es que el Boomerang regresa? Algún día aprenderé sus secretos.",
+      "\"No uses la redentora\", dijeron. \"Nadie debe empuñar un arma así\", agh, difiero."
+    ]
+  },
+
+  "alistar": {
+    "Nombre": "Alistar",
+    "CriptedName": "lwtdelc",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": "Minotauro",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Runeterra",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/mugushqylvv3eom/Alistar.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/kcmvmoxo6pbc41x/lwtdelc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/utueoebpgxcpuml/lwtdelc.png?dl=1",
+    "Abilities": [
+      "Rugido Triunfal",
+      "Pulverizar",
+      "Testarazo",
+      "Pisotear",
+      "Voluntad Inquebrantable"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡No hay nada que me detenga!",
+      "No puedes ordeñar estas.",
+      "Si te metes con el toro recibirás una cornada."
+    ]
+  },
+
+  "amumu": {
+    "Nombre": "Amumu",
+    "CriptedName": "lxfxf",
+    "Gender": "Masculino",
+    "Positions": ["Jungla", "Soporte"],
+    "Species": ["No Muerto", "Yordle"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Shurima",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/9ll1knj1x4kmy0t/Amumu.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/qruhlhv9wx6sff6/lxfxf.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/0cdg95hrcdxtjx2/lxfxf.png?dl=1",
+    "Abilities": [
+      "Toque Maldito",
+      "Lanzamiento de Vendas",
+      "Desesperanza",
+      "Berrinche",
+      "Maldición de la Momia Triste"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Vamos a buscar amigos",
+      "Juega conmigo",
+      "¿Adónde vamos?",
+      "Déjame abrazarte",
+      "Seremos amigos para siempre",
+      "¡Juguemos de nuevo alguna vez!"
+    ]
+  },
+
+  "anivia": {
+    "Nombre": "Anivia",
+    "CriptedName": "lytgtl",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": ["Dios", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Fréljord",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/dfi4q5zlf5qwwbt/Anivia.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/eevr5jdsayusmie/lytgtl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/j4lebwj2xoxb3zi/lytgtl.png?dl=1",
+    "Abilities": [
+      "Renacimiento",
+      "Destello Helado",
+      "Cristalizar",
+      "Quemadura Gélida",
+      "Tormenta Glacial"
+    ],
+    "Emojis": "",
+    "Frases": ["Sobre mis alas.", "Soy la nieve, el viento y el hielo."]
+  },
+
+  "annie": {
+    "Nombre": "Annie",
+    "CriptedName": "lyytp",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Noxus", "Runeterra"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/wgm37legbyawl0u/Annie.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/592o4em93d62hur/lyytp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/7hcnijwsokuqn86/lyytp.png?dl=1",
+    "Abilities": [
+      "Piromanía",
+      "Desintegrar",
+      "Incinerar",
+      "Escudo Fundido",
+      "Invocar: Tibbers"
+    ],
+    "Emojis": "",
+    "Frases": ["¿Has visto a mi oso Tibbers?", "No seas miedica."]
+  },
+
+  "aphelios": {
+    "Nombre": "Aphelios",
+    "CriptedName": "laspwtzd",
+    "Gender": "Masculino",
+    "Positions": "Inferior",
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Targón",
+    "ReleaseYear": "2019",
+    "IconUrl": "https://www.dropbox.com/s/k5mbzd1vdp9kfn3/Aphelios.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/2drz4ac5k2g5m3w/laspwtzd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/h065w5d1qkx2dx8/laspwtzd.png?dl=1",
+    "Abilities": [
+      "El Victimario y la Vidente",
+      "Habilidades de armas",
+      "Cambio de Arma",
+      "Sistema de armas en serie",
+      "Vigilia de Luz Lunar"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Para convertirse en un receptáculo de los cielos, sólo se necesita fe.",
+      "Los solari nos llaman herejes. Pero cuando llegue la oscuridad hermano, necesitarán nuestra luz.",
+      "Te transformas en un arma para no sentir, pero no eres un arma, eres mi hermano.",
+      "Incluso desde el velo celestial, estaré contigo, hermano.",
+      "Incluso con los ojos cerrados, jamás desviaré la mirada.",
+      "Avanzamos a través de la violencia, nacidos de la sombra y de la luz.",
+      "Si lo que nos espera en la oscuridad es el dolor, hermano, debemos ir hacia ella sin miedo.",
+      "Recorres el camino de la oscuridad, pero no lo haces solo hermano.",
+      "Mientras más brille mi luz, mas poderosa será tu sombra.",
+      "Lo que queremos, lo que necesitamos, lo que debemos hacer...envidio a los ignorantes.",
+      "Ver más allá del velo celestial, lo que llamamos verdad, es sombra."
+    ]
+  },
+
+  "ashe": {
+    "Nombre": "Ashe",
+    "CriptedName": "ldsp",
+    "Gender": "Femenino",
+    "Positions": ["Inferior", "Soporte"],
+    "Species": ["Humano", "Hijo(a) Del Hielo"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Fréljord",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/iql3lumnqnn77us/Ashe.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/agohxrv5x3v23y9/ldsp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/x7r2n263px8itb0/ldsp.png?dl=1",
+    "Abilities": [
+      "Tiro Escarchado",
+      "Concentración de la Guardabosques",
+      "Descarga",
+      "Tiro de Halcón",
+      "Flecha de Cristal Encantada"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Sigue mirando, pero no mires detrás de ti.",
+      "Abre bien los ojos, será lo último que veras.",
+      "¿Más veloz que mi flecha? No lo creo.",
+      "¿Te gustan las curvas? Me refiero al arco.",
+      "Busco la paz y si tengo que matar, te mato."
+    ]
+  },
+
+  "aurelionsol": {
+    "Nombre": "Aurelion Sol",
+    "CriptedName": "lfcpwtzydzw",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": ["Celestial", "Dragon"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Runeterra", "Targón"],
+    "ReleaseYear": "2016",
+    "IconUrl": "https://www.dropbox.com/s/6y59xphiy8kva81/AurelionSol.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/31v6dhnla76kdcm/lfcpwtzydzw.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/kh2gy2cks29m2tf/lfcpwtzydzw.png?dl=1",
+    "Abilities": [
+      "Creador Cósmico",
+      "Aliento Luminoso",
+      "Vuelo Astral",
+      "Cometa Legendario",
+      "Singularidad",
+      "Descenso Celestial"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Supongo que su destino ya estaba escrito en las estrellas.",
+      "¡Las estrellas lloran por ti... es broma! ¡Ya olvidé tu nombre!",
+      "Nada de lo que construyan, perdurará más que el firmamento celestial.",
+      "Con una vida tan ridículamente corta como la tuya, supongo que puedo permitirte disfrutar del triunfo al menos una vez...",
+      "Relájate, la destrucción no tiene por qué ser un asunto tan sentimental.",
+      "Los magos son mentes infantiles, tratando de manipular la maquinaria detrás de la realidad. Al menos tú tienes una excusa válida.",
+      "Humanidad: sorprendentemente hábil para sobrevivir y escapar de las garras de la extinción.",
+      "Esa alegría de los organismos inferiores sublevándose para matar a sus superiores... sin tan solo supieran de la impermanencia del ser o de mi permanencia.",
+      "¿Por qué la gente pide deseos a las estrellas?",
+      "Mi hogar está en el cosmos, entre mis estrellas."
+    ]
+  },
+
+  "azir": {
+    "Nombre": "Azir",
+    "CriptedName": "lktc",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": "Dios Guerrero",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Shurima",
+    "ReleaseYear": "2014",
+    "IconUrl": "https://www.dropbox.com/s/wp1tjs1e9fkddoh/Azir.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/7gfnfi8uu4q5z29/lktc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/hwxw0d7gu3pwy1i/lktc.png?dl=1",
+    "Abilities": [
+      "Legado de Shurima",
+      "Conquistador de las Arenas",
+      "¡Levántense!",
+      "Arenas Movedizas",
+      "División Imperial"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¿Y qué es el desierto? Sino las cenizas de mis enemigos.",
+      "Nunca traiciones a un emperador.",
+      "No hay rival para un emperador Xerath, solo responsabilidades.",
+      "Este mundo aletargado... debe despertar.",
+      "Desterraremos lo que ha sido corrompido."
+    ]
+  },
+
+  "bardo": {
+    "Nombre": "Bardo",
+    "CriptedName": "mlcoz",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": "Celestial",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Runeterra",
+    "ReleaseYear": "2015",
+    "IconUrl": "https://www.dropbox.com/s/t4b9z2bz9vc6vdc/Bardo.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/hh9cyr6a93u01bj/mlcoz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/hza8xi0mhesgwfp/mlcoz.png?dl=1",
+    "Abilities": [
+      "Llamado del Viajero",
+      "Amarre Cósmico",
+      "Altar del Guardián",
+      "Viaje Místico",
+      "Destino Apacible"
+    ],
+    "Emojis": "",
+    "Frases": ["Campanadas 🔔🔔🔔", "*Campanadas del Bardo*."]
+  },
+
+  "belveth": {
+    "Nombre": "Bel'Veth",
+    "CriptedName": "mpwgpes",
+    "Gender": "Femenino",
+    "Positions": "Jungla",
+    "Species": "Ser Del Vacio",
+    "Resource": "Ninguno",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "El Vacío",
+    "ReleaseYear": "2022",
+    "IconUrl": "https://www.dropbox.com/s/m9jnftuor8lmedc/Belveth.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/8ebl9aseo1zn0b6/mpwgpes.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/3deg3iw66r8igmk/mpwgpes.png?dl=1",
+    "Abilities": [
+      "Muerte Lavanda ",
+      "Embate del Vacío",
+      "Ascenso y Descenso",
+      "Vorágine Imperial",
+      "Banquete Infinito"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "No escucharon tu advertencia, Heraldo de la grieta.",
+      "Dame tu poder, Dragon.",
+      "Todo será arrasado.",
+      "Estas son las emociones que busco.",
+      "El vacío deseaba una emperatriz... y soy la manifestación de esa voluntad."
+    ]
+  },
+
+  "blitzcrank": {
+    "Nombre": "Blitzcrank",
+    "CriptedName": "mwteknclyv",
+    "Gender": "Otro",
+    "Positions": "Soporte",
+    "Species": "Golem",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Zaun",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/jwcomrexra9jh7s/Blitzcrank.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ylvqebzll1rgsio/mwteknclyv.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/nnpsoly395yup8n/mwteknclyv.png?dl=1",
+    "Abilities": [
+      "Barrera de Maná",
+      "Agarre Cohete",
+      "Sobremarcha",
+      "Puño de Poder",
+      "Campo Estático"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Golem que duerme se lo lleva la corriente.",
+      "Encendido y listo para el servicio.",
+      "La hora del hombre ha llegado a su fin.",
+      "El metal es más duro que la carne.",
+      "¡EXTERMINIO... EXTERMINIO!"
+    ]
+  },
+
+  "brand": {
+    "Nombre": "Brand",
+    "CriptedName": "mclyo",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Runeterra",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/r1se5pbwo7e9lmz/Brand.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/xoo2c64x80dwfff/mclyo.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/zacv0j5fnvjr30m/mclyo.png?dl=1",
+    "Abilities": [
+      "Llamarada",
+      "Abrasar",
+      "Columna de Fuego",
+      "Conflagración",
+      "Piroclasma"
+    ],
+    "Emojis": "🔥👨",
+    "Frases": ["¡¿Y si quemamos el mundo?!"]
+  },
+
+  "braum": {
+    "Nombre": "Braum",
+    "CriptedName": "mclfx",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": ["Humano", "Hijo(a) Del Hielo"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2014",
+    "IconUrl": "https://www.dropbox.com/s/ba05924a21tbz56/Braum.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/4im76kefxtjfgup/mclfx.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/qmbd11h97iec52y/mclfx.png?dl=1",
+    "Abilities": [
+      "Golpes Conmocionantes",
+      "Rigor del Invierno",
+      "Detrás de Mí",
+      "Inquebrantable",
+      "Fisura Glacial"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Un corazón helado solo necesita una sonrisa cálida.",
+      "Hasta las puertas más pesadas puede ser abiertas.",
+      "Entre más negra la noche más brillan las estrellas.",
+      "Alistar, tengo una vaca que deberías conocer.",
+      "¡Si insisten en pelear, les voy a dar el gusto!"
+    ]
+  },
+
+  "caitlyn": {
+    "Nombre": "Caitlyn",
+    "CriptedName": "nltewjy",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Piltóver",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/48jpxldyk1ozaj3/Caitlyn.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/6xuv9gbdrfinj2l/nltewjy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/akaeo7nxw730pnn/nltwejy.png?dl=1",
+    "Abilities": [
+      "Disparo a la Cabeza",
+      "Pacificadora de Piltóver",
+      "Trampa para Yordles",
+      "Red Calibre 90",
+      "As bajo la Mira"
+    ],
+    "Emojis": "",
+    "Frases": ["¿Disparos? Y ¿Qué tal un puñetazo en la cara?"]
+  },
+
+  "camille": {
+    "Nombre": "Camille",
+    "CriptedName": "nlxtwwp",
+    "Gender": "Femenino",
+    "Positions": "Superior",
+    "Species": ["Cyborg", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Piltóver",
+    "ReleaseYear": "2016",
+    "IconUrl": "https://www.dropbox.com/s/24l01aacf38qm3i/Camille.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/kue8fklmpjr77oo/nlxtwwp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/q8jja18w0roan2x/nlxtwwp.png?dl=1",
+    "Abilities": [
+      "Defensas Flexibles",
+      "Protocolo de Precisión",
+      "Barrido Táctico",
+      "Gancho",
+      "El Ultimátum Hextech"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La venganza se puede comprar por el precio de un alma.",
+      "Aveces las cicatrices son el atuendo más elegante que puedes lucir.",
+      "La moralidad es un bello sirviente y un peligroso maestro.",
+      "Una espada veloz gana la batalla , pero na mente aguda gana la guerra.",
+      "La mediocridad es la raíz de todos los males.",
+      "El progreso está por encima del sufrimiento.",
+      "La hostilidad funciona cuando la cortesía falla.",
+      "La virtud de un arma se demuestra en el combate."
+    ]
+  },
+
+  "cassiopeia": {
+    "Nombre": "Cassiopeia",
+    "CriptedName": "nlddtzaptl",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Noxus", "Shurima"],
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/lhwo1aocxomr2ya/Cassiopeia.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/rcttyzcx8yaai8m/nlddtzaptl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/46lhq61p9t8k5d4/nlddtzaptl.png?dl=1",
+    "Abilities": [
+      "Gracia Serpentina",
+      "Explosión Nociva",
+      "Miasma",
+      "Colmillos Gemelos",
+      "Mirada Petrificante"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Me encontraste hermosa, una vez.",
+      "La violencia es tan desordenada.",
+      "Mantén a tus enemigos cerca y a mí más cerca.",
+      "No existe antídoto contra mí.",
+      "Piensa en todo lo que te puedo ofrecer.",
+      "Cada problema es una oportunidad."
+    ]
+  },
+
+  "chogath": {
+    "Nombre": "Cho'Gath",
+    "CriptedName": "nszrles",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Ser Del Vacio",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "El Vacío",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/jfzjaqevje530ra/Chogath.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/35svf7vnkp64csp/nszrles.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/4vdof1fd7c52jvq/nszrles.png?dl=1",
+    "Abilities": [
+      "Carnívoro",
+      "Ruptura",
+      "Grito Salvaje",
+      "Clavos Vorpalinos",
+      "Festín"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Tu sufrimiento no tendrá fin.",
+      "La muerte no será el fin.",
+      "La moral es un desperdicio de memoria."
+    ]
+  },
+
+  "corki": {
+    "Nombre": "Corki",
+    "CriptedName": "nzcvt",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Ciudad De Bandle",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/5nsfkd5a2zw6x5d/Corki.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/g4asx6tnuz3rqyx/nzcvt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/7dsr5npfvjjycjz/nzcvt.png?dl=1",
+    "Abilities": [
+      "Munición Hextech",
+      "Bomba Fosfórica",
+      "Valquiria",
+      "Cañón de Repetición",
+      "Descarga de Misiles"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Soy muy bueno y mi vehiculo es aun mejor!",
+      "¡No son enchiladas!"
+    ]
+  },
+
+  "darius": {
+    "Nombre": "Darius",
+    "CriptedName": "olctfd",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Noxus",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/3mucvyimb2wkg7a/Darius.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ne25wxfasm787co/olctfd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/cronzio9jdsku7u/olctfd.png?dl=1",
+    "Abilities": [
+      "Hemorragia",
+      "Diezmar",
+      "Golpe Incapacitante",
+      "Aprehender",
+      "Guillotina Noxiana"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Hagan lo que quieran con los demás, yo me encargo de Garen.",
+      "El rey tirano vino para morir, cumplamos su deseo.",
+      "Nunca le des la espalda a un lobo.",
+      "¡Yo puedo llevarlos a la victoria!",
+      "Bajo tierra, con los otros debiluchos.",
+      "Los adverarios dignos son las piedras que afilan nuestras garras.",
+      "¡Sean testigos de la verdadera fuerza!",
+      "¡Un poder inigualable!",
+      "Se arrepentirán de enfrentarse a mí."
+    ]
+  },
+
+  "diana": {
+    "Nombre": "Diana",
+    "CriptedName": "otlyl",
+    "Gender": "Femenino",
+    "Positions": ["Jungla", "Central"],
+    "Species": ["Aspecto", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Targón",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/tjpuu5kwflcgh2w/Diana.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/4t5kullc51ykq6r/otlyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/1kqsff4cujmr457/otlyl.png?dl=1",
+    "Abilities": [
+      "Navaja de Lunaplata",
+      "Golpe Creciente",
+      "Cascada Pálida",
+      "Impulso Lunar",
+      "Caída de la Luna"
+    ],
+    "Emojis": "",
+    "Frases": ["Ciegos ante la verdad."]
+  },
+
+  "draven": {
+    "Nombre": "Draven",
+    "CriptedName": "oclgpy",
+    "Gender": "Masculino",
+    "Positions": "Inferior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Noxus",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/rvl76u9b8g2qe8e/Draven.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/wwbjegeij2n74d6/oclgpy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/uihgbkwmttysjw8/oclgpy.png?dl=1",
+    "Abilities": [
+      "League of Draven",
+      "Hacha Giratoria",
+      "Impulso Sangriento",
+      "Apártate",
+      "Muerte Rodante"
+    ],
+    "Emojis": "🪓🪓👨📈",
+    "Frases": [
+      "La excelencia está allá donde yo decida poner el listón cada día.",
+      "Estas hachas necesitan víctimas."
+    ]
+  },
+
+  "drmundo": {
+    "Nombre": "Dr. Mundo",
+    "CriptedName": "ocxfyoz",
+    "Gender": "Masculino",
+    "Positions": ["Superior", "Jungla"],
+    "Species": ["Alterado Quimicamente", "Humano"],
+    "Resource": "Vida",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Zaun",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/mrqzvwlu3iqtmcl/DrMundo.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/eptsvczzp2ymte3/ocxfyoz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/i8w0q2isbtjagou/ocxfyoz.png?dl=1",
+    "Abilities": [
+      "Ir a Donde Dar Gana",
+      "Sierra Infectada",
+      "Desfibrilador",
+      "Trauma Contundente",
+      "Dosis Máxima"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¿Tú ser paciente o donante? No importar, yo proceder igual.",
+      "Tener suerte aminal, yo también ser doctor de aminales.",
+      "¡Pacientes! ¿Dónde estar?"
+    ]
+  },
+
+  "ekko": {
+    "Nombre": "Ekko",
+    "CriptedName": "pvvz",
+    "Gender": "Masculino",
+    "Positions": ["Jungla", "Central"],
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Zaun",
+    "ReleaseYear": "2015",
+    "IconUrl": "https://www.dropbox.com/s/ir7lipzkbqvtq4p/Ekko.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/enrb0ex4xvfip5x/pvvz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/bqc7f2131ncgi5z/pvvz.png?dl=1",
+    "Abilities": [
+      "Resonancia Pulsar-Z",
+      "Rebobinador de Tiempo",
+      "Convergencia Paralela",
+      "Salto de Fase",
+      "Cronorruptura"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Mi segunda primera vez.",
+      "He visto tu futuro y está lleno de huesos rotos.",
+      "El viaje en el cerebro no me afecta el tiempo.",
+      "Si no eres capaz de aprovechar cada momento no mereces un solo segundo mas.",
+      "La gente desperdicia mucho tiempo, y luego quieren más. Desean más horas en sus días, más días en sus años, más años en sus vidas.",
+      "Yo no necesito días, horas, años, ¡solo segundos!",
+      "El tiempo no sana todas las heridas.",
+      "El tiempo va curando todas las heridas, pero algunas las escondemos nosotros mismos..."
+    ]
+  },
+
+  "elise": {
+    "Nombre": "Elise",
+    "CriptedName": "pwtdp",
+    "Gender": "Femenino",
+    "Positions": "Jungla",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": ["Cuerpo A Cuerpo", "De Rango"],
+    "Region": ["Noxus", "Islas De La Sombra"],
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/e491kns11fveznt/Elise.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ibt714muy1s80bg/pwtdp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/38xo44mg2igm8ls/pwtdp.png?dl=1",
+    "Abilities": [
+      "Reina de las Arañas",
+      "Neurotoxina / Mordida Venenosa",
+      "Araña Volátil / Raudo Frenesí",
+      "Capullo / Rápel",
+      "Forma Arácnida"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Me servirás... de una forma u otra.",
+      "Solo la araña está a salvo en su tela.",
+      "Adelante... jueguen con su comida.",
+      "Suave como la seda.",
+      "Mi auténtica belleza está bajo mi piel."
+    ]
+  },
+
+  "evelynn": {
+    "Nombre": "Evelynn",
+    "CriptedName": "pgpwjyy",
+    "Gender": "Femenino",
+    "Positions": "Jungla",
+    "Species": ["Demonio", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Runeterra",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/o20zzlrco97ppic/Evelynn.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ldkv89fy5c55ixb/pgpwjyy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/vhtaca439ne926e/pgpwjyy.png?dl=1",
+    "Abilities": [
+      "Sombra Demoníaca",
+      "Púas de Odio",
+      "Seducción",
+      "Latigazo",
+      "Última Caricia"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Sangre fría... como yo.",
+      "Les hago daño hasta que dejan de sentir.",
+      "La miseria ama lo que yo le diga.",
+      "Un solo toque, con deseo... es lo único que necesito.",
+      "Algún día me amarán por quien realmente soy.",
+      "Veamos... ¿a quién le arruinaré la vida hoy?",
+      "Oooh, tantas personas felices a quienes lastimar.",
+      "Te había echado un ojo. Ahora arrancaré los tuyos.",
+      "Tu piel luce muy bien, pero se vería mejor en el suelo de mi habitación.",
+      "En realidad no tengo amigos. Solo personas a las que aún no he destripado.",
+      "¿Sabes qué es divertido también? Sacarte la lengua por el cuello.",
+      "Me encanta cuando hablan sucio. ¡No! ¡Por favor! ¡Deja de torturarme!"
+    ]
+  },
+
+  "ezreal": {
+    "Nombre": "Ezreal",
+    "CriptedName": "pkcplw",
+    "Gender": "Masculino",
+    "Positions": "Inferior",
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Piltóver",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/ijzr1xrci2wkqss/Ezreal.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/b8i60fa5nbmt5s8/pkcplw.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ji96y8nbg3h87gu/pkcplw.png?dl=1",
+    "Abilities": [
+      "Fuerza de Hechizo Creciente",
+      "Disparo Místico",
+      "Flujo de Esencia",
+      "Desplazamiento Arcano",
+      "Descarga de Tiros Certeros"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Los exploradores auténticos siguen la brújula de su corazón.",
+      "Casi nunca se lo que estoy buscando, pero siempre lo encuentro."
+    ]
+  },
+
+  "fiddlesticks": {
+    "Nombre": "Fiddlesticks",
+    "CriptedName": "qtoowpdetnvd",
+    "Gender": "Otro",
+    "Positions": "Jungla",
+    "Species": ["Demonio", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Runeterra",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/ommb1dcyp76feto/Fiddlesticks.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/e7df57ggjnja6j9/qtoowpdetnvd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/otdbfj35nxhnp28/qtoowpdetnvd.png?dl=1",
+    "Abilities": [
+      "Un Espantapájaros Inofensivo",
+      "Aterrorizar",
+      "Extracción Abundante",
+      "Cosechar",
+      "Tormenta de Cuervos"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Maderos podridos y decadentes; Tela y metal; Cuervos y dientes."
+    ]
+  },
+
+  "fiora": {
+    "Nombre": "Fiora",
+    "CriptedName": "qtzcl",
+    "Gender": "Femenino",
+    "Positions": "Superior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Demacia",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/76g5cph6rn848h5/Fiora.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/t9hpvrl991t6ix2/qtzcl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/rbbyo1frrvydmdy/qtzcl.png?dl=1",
+    "Abilities": [
+      "Baile de Duelista",
+      "Embestida",
+      "Estocada",
+      "Esgrima",
+      "Gran Duelo"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Me agradas, odio tener que matarte.",
+      "Soy una artista con la espada en todos los sentidos.",
+      "¿Seguro que esto es un desafío?",
+      "Los demás lo intentan, yo lo logro.",
+      "Hoja afilada, astucia sin igual."
+    ]
+  },
+
+  "fizz": {
+    "Nombre": "Fizz",
+    "CriptedName": "qtkk",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/2ivai5i681t0h47/Fizz.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ndto3pfdyytovwy/qtkk.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/jniswi2271zrk1y/qtkk.png?dl=1",
+    "Abilities": [
+      "Luchador Veloz",
+      "Golpe Travierizo",
+      "Tridente Piedramar",
+      "Juguetón / Bromista",
+      "Carnada para Tiburones"
+    ],
+    "Emojis": "",
+    "Frases": ["¡Déjamelos a mí!"]
+  },
+
+  "missfortune": {
+    "Nombre": "Miss Fortune",
+    "CriptedName": "xtddqzcefyp",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/5bwk34henwilebz/MissFortune.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/oifucl2fk0owqov/xtddqzcefyp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/xiuk9tuc1uprk5u/xtddqzcefyp.png?dl=1",
+    "Abilities": [
+      "Toque de Amor",
+      "Doble Bala",
+      "Alarde",
+      "Lluvia de Plomo",
+      "Balacera"
+    ],
+    "Emojis": "",
+    "Frases": ["Vigila esa lengua joven, o te mando a casa a regenerarte."]
+  },
+
+  "twistedfate": {
+    "Nombre": "Twisted Fate",
+    "CriptedName": "ehtdepoqlep",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/xqdblz7etebh185/TwistedFate.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/tj7mj9fhdnvigck/ehtdepoqlep.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/zhfh1xtg6z6dgft/ehtdepoqlep.png?dl=1",
+    "Abilities": [
+      "Dados Cargados",
+      "Comodines",
+      "Escoge una Carta",
+      "Baraja Trucada",
+      "Destino"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Solo hay dos bufones en la baraja.... y me tocas tú.",
+      "Tramposo es una forma bonita de decir ganador.",
+      "Solo un tonto juega con la mano que le dan.",
+      "La fortuna me sonríe.",
+      "No hay nada peor que un idiota jugando fuerte.",
+      "No es una apuesta si no puedes perder..."
+    ]
+  },
+
+  "galio": {
+    "Nombre": "Galio",
+    "CriptedName": "rlwtz",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Soporte"],
+    "Species": "Golem",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Demacia",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/wf80t7m24d0jfjt/Galio.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/9k0s9kh1ibuk6lg/rlwtz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/vlg19lmjsxd39in/rlwtz.png?dl=1",
+    "Abilities": [
+      "Golpe Colosal",
+      "Vientos de Guerra",
+      "Escudo de Durand",
+      "Golpe Justiciero",
+      "Entrada Heroica"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Es hora de dejarlos impactados.",
+      "De regreso a dormir.",
+      "¡Desde el telar helado! Sea lo que sea."
+    ]
+  },
+
+  "gangplank": {
+    "Nombre": "Gangplank",
+    "CriptedName": "rlyrawlyv",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/xl43eg15kmjsyox/Gangplank.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/56lyvmw0rfr37hd/rlyrawlyv.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/wgxbgo4bhi92ezh/rlyrawlyv.png?dl=1",
+    "Abilities": [
+      "Prueba de Fuego",
+      "Parrrlamentar",
+      "Eliminar Escorbuto",
+      "Barril de Pólvora",
+      "Descarga de Cañones"
+    ],
+    "Emojis": "",
+    "Frases": ["Ni las llamas, ni las profundidades... pudieron reclamarme."]
+  },
+
+  "garen": {
+    "Nombre": "Garen",
+    "CriptedName": "rlcpy",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Humano",
+    "Resource": "Ninguno",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Demacia",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/8ekmurwwgsyvdd7/Garen.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/t75g45pw28zre02/rlcpy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/eyotpgjjs0zcbde/rlcpy.png?dl=1",
+    "Abilities": [
+      "Perseverancia",
+      "Golpe Decisivo",
+      "Coraje",
+      "Juicio",
+      "Justicia Demaciana"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Mi corazón y espada siempre por Demacia!",
+      "El miedo es el primero de muchos enemigos."
+    ]
+  },
+
+  "gnar": {
+    "Nombre": "Gnar",
+    "CriptedName": "rylc",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Yordle",
+    "Resource": "Furia",
+    "RangeType": ["Cuerpo A Cuerpo", "De Rango"],
+    "Region": "Fréljord",
+    "ReleaseYear": "2014",
+    "IconUrl": "https://www.dropbox.com/s/biks9wv2yqybvto/Gnar.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/u9ca0x553dsjy7i/rylc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/rs22xtewp8drxsi/rylc.png?dl=1",
+    "Abilities": [
+      "Gen de la Furia",
+      "Búmeran / Pedrada",
+      "Hiper / Aplastar",
+      "Brinco / Salto Bestial",
+      "¡GNAR!"
+    ],
+    "Emojis": "",
+    "Frases": ["Shubbanuffa.", "¡Gnar gada!", "Shugi shugi shugi!"]
+  },
+
+  "gragas": {
+    "Nombre": "Gragas",
+    "CriptedName": "rclrld",
+    "Gender": "Masculino",
+    "Positions": ["Jungla", "Superior"],
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/zhptz1tmpboqvah/Gragas.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/8l8unxhl4x53hcd/rclrld.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/g25z9i2igx39a0t/rclrld.png?dl=1",
+    "Abilities": [
+      "Hora Feliz",
+      "Barril Rodante",
+      "Furia Ebria",
+      "Lanzamiento de Barriga",
+      "Tonel Explosivo"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Si me pagas una ronda, me apunto.",
+      "Solo tengo problemas con la bebida cuando se me acaba."
+    ]
+  },
+
+  "graves": {
+    "Nombre": "Graves",
+    "CriptedName": "rclgpd",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/1bo26lpq49qbhy6/Graves.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/jb0ibmncgdocuw9/rclgpd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/nymcu0eflwb60a7/rclgpd.png?dl=1",
+    "Abilities": [
+      "Nuevo Destino",
+      "Fin del Trayecto",
+      "Pantalla de Humo",
+      "Disparo Veloz",
+      "Daño Colateral"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Me gustan dos tipos de enemigos, los muertos y aspirantes a difunto.",
+      "Todo el mundo es un héroe, hasta que les disparas en una o dos piernas."
+    ]
+  },
+
+  "gwen": {
+    "Nombre": "Gwen",
+    "CriptedName": "rhpy",
+    "Gender": "Femenino",
+    "Positions": "Superior",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Camavor", "Islas De La Sombra"],
+    "ReleaseYear": "2021",
+    "IconUrl": "https://www.dropbox.com/s/idb59rahc65buzk/Gwen.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/7lz4ou1v8m9b8i9/rhpy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/90mfhknaiv7x6n6/rhpy.png?dl=1",
+    "Abilities": [
+      "Mil Cortes",
+      "¡A Cortar!",
+      "Niebla Sagrada",
+      "Costura Letal",
+      "Ráfaga de Agujas"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Frente en alto, espalda recta, tijeras listas.",
+      "¿Por qué no? mis tijeras no muerden.",
+      "Yo puedo lograrlo, por ella y por todos.",
+      "Esas torretas parecen sólidas. Será divertido cortarlas por la mitas."
+    ]
+  },
+
+  "renataglasc": {
+    "Nombre": "Renata Glasc",
+    "CriptedName": "cpylelrwldn",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Alterado Quimicamente", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Zaun",
+    "ReleaseYear": "2022",
+    "IconUrl": "https://www.dropbox.com/s/eqymx5ufehsfvhd/Renata.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/rfteceaa34aq75l/cpylelrwldn.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/8tbbjwasclyeke7/cpylelrwldn.png?dl=1",
+    "Abilities": [
+      "Ventaja",
+      "Apretón",
+      "Préstamo",
+      "Cliente Frecuente",
+      "Asuntos Pendientes"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Muy bien, tengo empresas que comprar y una ciudad que aplastar. Hagamos esto rápido.",
+      "\"Te haré matar a tus seres queridos\". Es más amenazante que cualquier arma.",
+      "La sangre es muy costosa. Por suerte soy muy rica.",
+      "¿El dinero no compra la felicidad? Solo alguien que haya nacido rico diría eso."
+    ]
+  },
+
+  "hecarim": {
+    "Nombre": "Hecarim",
+    "CriptedName": "spnlctx",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "No Muerto",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Camavor", "Islas De La Sombra"],
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/p2dbqz6kikxzzpd/Hecarim.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/nd82d41rzhyqgin/spnlctx.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/tp4vm489q8l7wqq/spnlctx.png?dl=1",
+    "Abilities": [
+      "Sendero de Guerra",
+      "Ataque de Furia",
+      "Espíritu del Terror",
+      "Carga Devastadora",
+      "Avalancha de Sombras"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Aplasténlos bajo los pies!",
+      "Contemplen el poder de las Islas de la Sombra",
+      "Nunca descanso."
+    ]
+  },
+
+  "heimerdinger": {
+    "Nombre": "Heimerdinger",
+    "CriptedName": "sptxpcotyrpc",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Superior", "Soporte"],
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Piltóver",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/cqup41u22gzw211/Heimerdinger.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/2xknn15rboyql9n/sptxpcotyrpc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/zx6zs3omvtwrka5/sptxpcotyrpc.png?dl=1",
+    "Abilities": [
+      "Afinidad Hextech",
+      "Torreta Evolutiva H-28 G",
+      "Microcohetes Hextech",
+      "Granada de Tormenta de Electrones CH-2",
+      "¡ACTUALIZACIÓN!"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Preferiría una batalla de intelectos pero no cuentas con ese tipo de arma.",
+      "Una revolucionaria innovación hextecnológica puesta al servicio de, los puños."
+    ]
+  },
+
+  "illaoi": {
+    "Nombre": "Illaoi",
+    "CriptedName": "twwlzt",
+    "Gender": "Femenino",
+    "Positions": "Superior",
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2015",
+    "IconUrl": "https://www.dropbox.com/s/byr50z89gn3dw8m/Illaoi.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/9078ktfhycaylgd/twwlzt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/h768hl3ovvlagqm/twwlzt.png?dl=1",
+    "Abilities": [
+      "Profeta de un Dios Ancestral",
+      "Tentáculo Aplastante",
+      "Dura Lección",
+      "Prueba de Espíritu",
+      "Salto de Fe"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Vivir es pelear, Vive tu vida, busca lo que deseas que más podría importar.",
+      "Vive tu vida, busca lo deseas, que más podría importar."
+    ]
+  },
+
+  "irelia": {
+    "Nombre": "Irelia",
+    "CriptedName": "tcpwtl",
+    "Gender": "Femenino",
+    "Positions": ["Superior", "Central"],
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/ny9vzopapo4die5/Irelia.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/38koej5b2ok2dk3/tcpwtl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/fpvw0ld2fygdy5e/tcpwtl.png?dl=1",
+    "Abilities": [
+      "Fervor Jonio",
+      "Embate de Cuchillas",
+      "Danza de Insurrección",
+      "Dueto Perfecto",
+      "Filo de Vanguardia"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Melodías inefables dictan mis movimientos.",
+      "Para lograr la paz a veces es necesario que corra sangre.",
+      "La paz requiere de dos participantes.",
+      "¡Lucha por las Tierras Originarias!",
+      "¡Tirano!",
+      "Nos sostienen los huesos de nuestros predecesores. Por ellos, ¡peleamos!.",
+      "¡Que vengan! Estas tierras serán su tumba.",
+      "Recuerda todo lo que se ha perdido. Pelea por lo que aún prevalece.",
+      "Vinieron por nuestra magia. Pagarán con sus vidas.",
+      "Si me capturan me quitarán la vida. Si me capturan...",
+      "Estos son nuestros términos: vete y vivirás.",
+      "Todos somos creaciones del espíritu. Sin embargo, debo matarte.",
+      "Todos tienen algo ingenioso que decir... hasta que sienten las cuchillas en su garganta."
+    ]
+  },
+
+  "ivern": {
+    "Nombre": "Ivern",
+    "CriptedName": "tgpcy",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Fréljord", "Jonia"],
+    "ReleaseYear": "2016",
+    "IconUrl": "https://www.dropbox.com/s/k7kizrxwyb4wy4n/Ivern.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/b8r21xh4k32c4tm/tgpcy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/tdx5o1mbk16s7v3/tgpcy.png?dl=1",
+    "Abilities": [
+      "Amigo del Bosque",
+      "Invocador de Raíces",
+      "Creador de Maleza",
+      "Detonar Semilla",
+      "¡Daisy!"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Las papas, lo ven todo...",
+      "Mi color favorito es... ¡la primavera!",
+      "Los animales tienen más que ofrecer que sólo pieles y carne.",
+      "Creo que entre más extraña es la vida, más sentido tiene.",
+      "Siempre remplaza lo que sea que te lleves.",
+      "Algunos brotes necesitan un empujón para florecer.",
+      "La naturaleza no siempre es gentil."
+    ]
+  },
+
+  "jarvaniv": {
+    "Nombre": "Jarvan IV",
+    "CriptedName": "ulcglytg",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Demacia",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/gp54ke941ph0wgz/JarvanIV.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/zuypssv4ijwo5qo/ulcglytg.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ubax4l5s54b9ejr/ulcgly.png?dl=1",
+    "Abilities": [
+      "Cadencia Marcial",
+      "Golpe Dragón",
+      "Égida Dorada",
+      "Estandarte Demaciano",
+      "Cataclismo"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Por mi voluntad esto terminará.",
+      "¿Quién osa desafiar mi voluntad?",
+      "¿Te gusta mi arma? Pues ven a verla de cerca."
+    ]
+  },
+
+  "janna": {
+    "Nombre": "Janna",
+    "CriptedName": "ulyyl",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Dios", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Shurima", "Zaun"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/gqfwv188egx6hss/Janna.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/qozzh7vcigntgtj/ulyyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/lqqt2kzpweb1l1n/ulyyl.png?dl=1",
+    "Abilities": [
+      "Viento a Favor",
+      "Vendaval Aullante",
+      "Céfiro",
+      "Ojo de la Tormenta",
+      "Monzón"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La tempestad está a tu servicio.",
+      "Sí, es cierto, te dejo sin aliento por solo $2.95 el minuto."
+    ]
+  },
+
+  "jax": {
+    "Nombre": "Jax",
+    "CriptedName": "uli",
+    "Gender": "Masculino",
+    "Positions": ["Superior", "Jungla"],
+    "Species": "Desconocida",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Icathia", "Runeterra", "Shurima"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/l5lh88dfm7rxmrk/Jax.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/hdj99kgkevgs861/uli.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/rjuv3fg9tiu94wj/uli.png?dl=1",
+    "Abilities": [
+      "Asalto Implacable",
+      "Salto Brutal",
+      "Potenciación",
+      "Contraataque",
+      "Gran Maestro de Armas"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Hagámoslo!",
+      "¡Sorpresa! He vuelto.",
+      "Va por ti, chico.",
+      "¿Quién quiere un pedazo de campeón?",
+      "¡Imagínate si tuviera un arma de verdad!",
+      "¡Listo para la batalla!"
+    ]
+  },
+
+  "jayce": {
+    "Nombre": "Jayce",
+    "CriptedName": "uljnp",
+    "Gender": "Masculino",
+    "Positions": ["Superior", "Central"],
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": ["Cuerpo A Cuerpo", "De Rango"],
+    "Region": "Piltóver",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/293ip6f1x0gn0gs/Jayce.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/v35c6kzakjbrc3b/uljnp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/dsm22ylaldc355l/uljnp.png?dl=1",
+    "Abilities": [
+      "Condensador Hextech",
+      "¡Hacia los Cielos!/Descarga Eléctrica",
+      "Campo Electrificado/Hipercarga",
+      "Golpe Relámpago/Portal de Aceleración",
+      "Cañón de Mercurio/Martillo de Mercurio"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Hora del Martillo!",
+      "Energizar.",
+      "Impactante.",
+      "Lucho por un mañana mejor.",
+      "Nunca miro atrás."
+    ]
+  },
+
+  "jhin": {
+    "Nombre": "Jhin",
+    "CriptedName": "usty",
+    "Gender": "Masculino",
+    "Positions": "Inferior",
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Jonia",
+    "ReleaseYear": "2016",
+    "IconUrl": "https://www.dropbox.com/s/reigic9vkjufeq5/Jhin.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/o965bjmnkxhlezk/usty.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/knkh7wjk4ls5oj9/usty.png?dl=1",
+    "Abilities": [
+      "Murmullo",
+      "Granada Bailarina",
+      "Brote Mortal",
+      "Audiencia Cautiva",
+      "Llamado a Escena"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "A veces el silencio puede ser ensordecedor.",
+      "El arte debe existir mas allá de la razón.",
+      "Todos usan máscaras, yo solo elegí crear la mía.",
+      "Solo a la audiencia muestro mi rostro verdadero.",
+      "Cada bala es un trozo de mi alma, cada disparo es parte de mí.",
+      "La muerte es definitiva, pero asesinar no tiene por que ser feo.",
+      "Broto en la masacre, como una flor al amanecer.",
+      "El arte surgirá de tu temor.",
+      "Yo vivo por los aplausos, tú morirás por ellos.",
+      "La gente se asusta más, cuando está a punto de morir.",
+      "No hay duda de que fueron diseñados por un cavernicola.",
+      "El arte requiere de cierta... crueldad.",
+      "Estás empezando a aburrirme.",
+      "Mi genio florece en la masacre, como un lirio al amanecer.",
+      "Trascenderás... a través de mi obra.",
+      "Yo nunca daño a nadie, el arte es lo que mata.",
+      "Quiero sentirlo todo, el arma me lo concede."
+    ]
+  },
+
+  "jinx": {
+    "Nombre": "Jinx",
+    "CriptedName": "utyi",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": ["Alterado Quimicamente", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Zaun",
+    "ReleaseYear": "2013",
+    "IconUrl": "https://www.dropbox.com/s/lx0xc4zhcojanbh/Jinx.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/nwsxtzqrx2xomlg/utyi.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/534ktnn131lukt7/utyi.png?dl=1",
+    "Abilities": [
+      "¡Comienza a Emocionarte!",
+      "¡Cambio de Armas!",
+      "¡Chispas!",
+      "¡Mascafuegos!",
+      "¡¡Supermegacohete Requetemortal!!"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Hay un placer en la locura que solo los locos conocen.",
+      "Incluso el mal en estado puro, no tiene objetivos.",
+      "Espérate que piense... Vale ya acabe.",
+      "Traigo pistolas para la pelea de cuchillos.",
+      "No hay motivo para asustarse, ni para seguir con vida.",
+      "Me encanta desperdiciar balas contigo.",
+      "Todo es parte del plan... ¡Que se me acaba de ocurrir!",
+      "¿Crees que estoy loca? Pues deberías conocer a mi hermana.",
+      "Pregúntame si te estoy escuchando. Respuesta. No.",
+      "Tus últimas palabras... ¡Já! Cállate y muere.",
+      "Algún día tendrás que morir."
+    ]
+  },
+
+  "ksante": {
+    "Nombre": "K'Sante",
+    "CriptedName": "vdlyep",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Shurima",
+    "ReleaseYear": "2022",
+    "IconUrl": "https://www.dropbox.com/s/3s8v06nhbsr5t48/KSante.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/b14g9cl7w0j89yk/vdlyep.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/4lwghr75crcmhdr/vdlyep.png?dl=1",
+    "Abilities": [
+      "Instinto Intrépido",
+      "Ntofazos",
+      "Trazacaminos",
+      "Juego de Pies",
+      "Con Todo"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Aunque carezcas de columna vertebral, ¡tienes que sostenerte por ti mismo!",
+      "No tenemos que ser amigos, pero si tenemos que pelear juntos.",
+      "No todos llegaremos al final. Recuerden a los caídos al derramar la sangre del enemigo.",
+      "Fuimos amigos, luego amantes, luego nos separamos. Algunas cacerías salen mal y algunas historias de amor también.",
+      "Es imposible que pierda ante alguien como tú.",
+      "Los egos grandes se desinflan más rápido."
+    ]
+  },
+
+  "kaisa": {
+    "Nombre": "Kai'Sa",
+    "CriptedName": "vltdl",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": ["Humano", "Ser Del Vacio"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Shurima", "El Vacío"],
+    "ReleaseYear": "2018",
+    "IconUrl": "https://www.dropbox.com/s/j9hbp8r45sb7lx1/Kaisa.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/fnfrhhmvum69ucj/vltdl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/hiuekww47tz5o7a/vltdl.png?dl=1",
+    "Abilities": [
+      "Segunda Piel",
+      "Lluvia de Icathia",
+      "Buscadora del Vacío",
+      "Supercarga",
+      "Instinto Asesino"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Para mí, la ira es inútil. Es una herida que nunca deja de infectarse.",
+      "La memoria es como una compañera que te brinda consuelo.",
+      "Cuando era niña, me aterraba lo que acechaba en la oscuridad. Qué tonta era... ahora es mi hogar.",
+      "¡Alimenta a la bestia, o conviértete en su presa!",
+      "Perdonar es difícil. Pero vale la pena.",
+      "Cuando los recuerdos se desvanezcan y la oscuridad te rodee, busca tu fuerza interior.",
+      "Puedo salvarlos de los monstruos. Pero quién los salvará de ellos mismos?",
+      "Sobrevivir significa: nunca detenerse.",
+      "La vida y la muerte están separadas por tan solo un tropiezo.",
+      "El peligro es real. El miedo es una ilusión.",
+      "La vida y la muerte están a un traspiés de distancia."
+    ]
+  },
+
+  "kalista": {
+    "Nombre": "Kalista",
+    "CriptedName": "vlwtdel",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": "No Muerto",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Camavor", "Islas De La Sombra"],
+    "ReleaseYear": "2014",
+    "IconUrl": "https://www.dropbox.com/s/lrqgm7fi5lxpncb/Kalista.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/6qixvowuujaye3x/vlwtdel.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ymxtjhkbh8v9mwk/vlwtdel.png?dl=1",
+    "Abilities": [
+      "Elegancia Marcial",
+      "Atravesar",
+      "Guardián",
+      "Desgarrar",
+      "Llamada del Destino"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "No hay nada más vil que la traición.",
+      "Veamos cuantas lanzas puedes soportar.",
+      "Cuando nos ofenden, buscamos justicia. Cuando nos hieren, respondemos. ¡Y cuando nos traicionan, el espíritu de la venganza golpea!",
+      "Espalda con espalda, estábamos así.",
+      "Conoce nuestro dolor, conoce nuestra verdad.",
+      "Nada es más odioso que la traición.",
+      "Recordaremos tu lealtad.",
+      "Sí, castiga a los traidores.",
+      "El remordimiento es inaceptable.",
+      "Vemos su culpa.",
+      "Nada los protejera de nuestra venganza."
+    ]
+  },
+
+  "karma": {
+    "Nombre": "Karma",
+    "CriptedName": "vlcxl",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Jonia",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/ohbaf9gnew16uov/Karma.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/rkozrnext4gwfms/vlcxl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/y8anfdpupqxgi0z/vlcxl.png?dl=1",
+    "Abilities": [
+      "Fuego Reunificador",
+      "Llama Interna",
+      "Resolución Enfocada",
+      "Inspiración",
+      "Mantra"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Confía siempre en tu espíritu.",
+      "Nunca más me quedaré inactiva",
+      "He visto dos caminos, y he hecho otro entre ambos",
+      "¡Si deseas la paz, debes prepararte para la guerra!",
+      "Todos tenemos que tomar decisiones."
+    ]
+  },
+
+  "karthus": {
+    "Nombre": "Karthus",
+    "CriptedName": "vlcesfd",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "No Muerto",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Noxus", "Islas De La Sombra"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/l3skie47f47ffkg/Karthus.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/wrbvp1trofc2ms4/vlcesfd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/oqul90kygoiz68f/vlcesfd.png?dl=1",
+    "Abilities": [
+      "Desafío a la Muerte",
+      "Sembrar la Desolación",
+      "Muro de Dolor",
+      "Profanación",
+      "Réquiem"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La muerte no es el final del camino, solo el principio...",
+      "Agonía, éxtasis, paz. Cada pasaje tiene algo de belleza",
+      "Ah, el beso de la muerte.",
+      "Todos tenemos un lugar en la divinidad. Solo debemos aceptarlo.",
+      "¡Despedazaré tu cuerpo e incendiaré tu alma!",
+      "Sentir las caricias de la muerte por primera vez... ¡te envidio!",
+      "¿Tienes un momento para hablar acerca de la muerte?",
+      "Lo siento, tengo mi agenda llena hasta... er, brrrr...el final de los tiempos."
+    ]
+  },
+
+  "kassadin": {
+    "Nombre": "Kassadin",
+    "CriptedName": "vlddloty",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": ["Humano", "Ser Del Vacio"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Shurima", "El Vacío"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/dqshpsyp8j6ebfu/Kassadin.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/werordtax4t2ppd/vlddloty.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/b4ca2r0ul9nn7vq/vlddloty.png?dl=1",
+    "Abilities": [
+      "Piedra del Vacío",
+      "Esfera Nula",
+      "Cuchilla Infernal",
+      "Pulso de Fuerza",
+      "Ruptura en el Camino"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Silencio!",
+      "¡Tu magia es inutil contra mí!",
+      "Se hará justicia.",
+      "El equilibrio es lo más importante.",
+      "Se debe conservar el equilibrio de poder.",
+      "Un día intenté callar a mi madre. Cómo me arrepiento.",
+      "No vales nada."
+    ]
+  },
+
+  "katarina": {
+    "Nombre": "Katarina",
+    "CriptedName": "vlelctyl",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": "Humano",
+    "Resource": "Ninguno",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Noxus",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/pbl00u5g01h3xp2/Katarina.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/xfwg1l3pwwzxtsf/vlelctyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/gh5wfggbbof13j4/vlelctyl.png?dl=1",
+    "Abilities": [
+      "Voracidad",
+      "Hoja Rebotante",
+      "Preparación",
+      "Shunpo",
+      "Loto Mortal"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La violencia lo arregla todo.",
+      "Antes muerta que aburrida.",
+      "¿Lo que huelo es miedo?",
+      "Las cuchillas son el mejor amigo de una chica.",
+      "Si corres, no verás como te apuñalo.",
+      "Tus elecciones me agradan... por ahora."
+    ]
+  },
+
+  "kayle": {
+    "Nombre": "Kayle",
+    "CriptedName": "vljwp",
+    "Gender": "Femenino",
+    "Positions": "Superior",
+    "Species": ["Aspecto", "Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": ["Cuerpo A Cuerpo", "De Rango"],
+    "Region": ["Demacia", "Targón"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/lm1d8xg0zve0ndn/Kayle.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/hr3761izrscdnma/vljwp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/70a077bhpwkff54/vljwp.png?dl=1",
+    "Abilities": [
+      "Ascenso Divino",
+      "Explosión Radiante",
+      "Bendición Celestial",
+      "Espadafuego Celeste",
+      "Juicio Divino"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Solo aquellos con malicia en sus corazón deben temerle a la luz!",
+      "La injusticia es una herida supurante, y yo soy la cuchilla cauterizadora.",
+      "¡Acabaré con la maldad de este mundo, y el fuego de la Justicia vencerá a la oscuridad!",
+      "¡Ríndete ante la luz y perdonaré tu alma!",
+      "Purificaré esta tierra, y lo haré con fuego si es necesario.",
+      "¡Ser humana implica ser imperfecta, pero yo no soy humana!",
+      "Con la mano justa de la ley me uno a la batalla que esta mezquindad mortal desató."
+    ]
+  },
+
+  "kayn": {
+    "Nombre": "Kayn",
+    "CriptedName": "vljy",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": ["Darkin", "Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Noxus", "Runeterra"],
+    "ReleaseYear": "2017",
+    "IconUrl": "https://www.dropbox.com/s/kv9v753rr6h6ivx/Kayn.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/h3o3yk7ltejrf4t/vljy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/hi89tcmj60fj3sf/vljy.png?dl=1",
+    "Abilities": [
+      "La Guadaña Darkin",
+      "Corte Segador",
+      "Alcance de Cuchilla",
+      "Paso Sombrío",
+      "Transgresión de Umbral"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Jamás subestimes al odio.",
+      "La luz no ofrece ningún santuario.",
+      "Mientras más enemigos envíen, más habrá bajo tierra!",
+      "La muerte los encuentra a todos...y muy rápido.",
+      "Los tontos mueren y son olvidados.",
+      "El niño ha quedado atrás. ¡El asesino permanece!",
+      "Cuando un humano se arrodilla, rara vez vuelve a levantarse.",
+      "La muerte los encuentra a todos... y muy rápido."
+    ]
+  },
+
+  "kennen": {
+    "Nombre": "Kennen",
+    "CriptedName": "vpyypy",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Yordle",
+    "Resource": "Energia",
+    "RangeType": "De Rango",
+    "Region": "Jonia",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/y4l066t25bl9uqj/Kennen.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/kdx2deukmto2ilj/vpyypy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/t7z8j4g44vzynzh/vpyypy.png?dl=1",
+    "Abilities": [
+      "Marca de la Tormenta",
+      "Shuriken Trueno",
+      "Tensión Eléctrica",
+      "Impulso Relámpago",
+      "Tempestad Cercenante"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "El Corazón de la tempestad late eternamente... y aquellos por él azotados lo recuerdan eternamente."
+    ]
+  },
+
+  "khazix": {
+    "Nombre": "Kha'Zix",
+    "CriptedName": "vslkti",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "Ser Del Vacio",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "El Vacío",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/wa4falrezmed6gc/Khazix.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/28e1vxjjae5ftpo/vslkti.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/fn9mnnrfthh5gga/vslkti.png?dl=1",
+    "Abilities": [
+      "Amenaza Invisible",
+      "Saborea su Miedo",
+      "Púas del Vacío",
+      "Salto",
+      "Ataque del Vacío"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡No temas a la muerte, lo mejor de ti siempre vivirá!",
+      "Los cambios son buenos.",
+      "Me tienen miedo.",
+      "Sangre en el aire.",
+      "Creaturas inteligentes.",
+      "Hambre infinita"
+    ]
+  },
+
+  "kindred": {
+    "Nombre": "Kindred",
+    "CriptedName": "vtyocpo",
+    "Gender": "Otro",
+    "Positions": "Jungla",
+    "Species": ["Dios", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Runeterra",
+    "ReleaseYear": "2015",
+    "IconUrl": "https://www.dropbox.com/s/dchbymseg13oh2t/Kindred.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/3p16lr9ls1zgs02/vtyocpo.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/d57vd7gm0fmyhlp/vtyocpo.png?dl=1",
+    "Abilities": [
+      "Marca de los Kindred",
+      "Danza de Flechas",
+      "Frenesí de Lobo",
+      "Terror Creciente",
+      "Alivio de Cordero"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Aquel que huye de la muerte, vivió su vida inmóvil.",
+      "Un paso en falso, y luego mis dientes.",
+      "Como mueres demuestra como viviste.",
+      "Abrazar la vida significa aceptar la muerte.",
+      "La belleza se desvanece, por eso es bella.",
+      "Quienes nos temen, son los que más poder nos otorgan.",
+      "Sus pedazos, pegajosos en mis zarpas.",
+      "Si huyes de la muerte, no tendrás tiempo de vivir.",
+      "Te dolerá... ¡Mucho!"
+    ]
+  },
+
+  "kled": {
+    "Nombre": "Kled",
+    "CriptedName": "vwpo",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Yordle",
+    "Resource": "Coraje",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Noxus",
+    "ReleaseYear": "2016",
+    "IconUrl": "https://www.dropbox.com/s/lqune0vb0y15crf/Kled.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/i0rule4tu6itcjs/vwpo.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/e9mgheqdl7umhq7/vwpo.png?dl=1",
+    "Abilities": [
+      "Skaarl, la Lagartija Cobarde",
+      "Trampa para Osos",
+      "Tendencias Violentas",
+      "Justa",
+      "¡¡¡A la cargaaaaaaa!!!"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Bueno, mi pie quiere proponerle matrimonio a tu trasero y esa sí que será una boda sangrienta!",
+      "¡Vengo de todos lados, cerca de ninguna parte y de cállate la boca!",
+      "Respeto la locura, pero, ¿qué clase de tonto recarga en medio de una pelea?",
+      "¡Ups! ¡Parece que \"accidentalmente\" te herí con mi hacha, hasta verte morir!",
+      "¿Viste mi letrero de bienvenida? ¿No? ¡Es el cráneo de tu amigo!",
+      "Las batallas no se ganan con la cabeza. La cabeza es lo que termina aplastado."
+    ]
+  },
+
+  "kogmaw": {
+    "Nombre": "Kog'Maw",
+    "CriptedName": "vzrxlh",
+    "Gender": "Masculino",
+    "Positions": "Inferior",
+    "Species": "Ser Del Vacio",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "El Vacío",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/a374xw8y8u8wemy/KogMaw.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/1itvnopj5bqxjhg/vzrxlh.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/394li4qur5y0m8e/vzrxlh.png?dl=1",
+    "Abilities": [
+      "Sorpresa Icathiana",
+      "Baba Cáustica",
+      "Descarga Bioarcana",
+      "Vacío Supurante",
+      "Artillería Viviente"
+    ],
+    "Emojis": "",
+    "Frases": ["El terror viene... ¡ papá viene!"]
+  },
+
+  "tahmkench": {
+    "Nombre": "Tahm Kench",
+    "CriptedName": "elsxvpyns",
+    "Gender": "Masculino",
+    "Positions": ["Superior", "Soporte"],
+    "Species": ["Demonio", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Runeterra", "Aguasturbias"],
+    "ReleaseYear": "2015",
+    "IconUrl": "https://www.dropbox.com/s/i38tcjimkd9s3jz/TahmKench.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/enngpfx1cex7h25/elsxvpyns.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/g4e1pzcitprbf9v/elsxvpyns.png?dl=1",
+    "Abilities": [
+      "Un Gusto Adquirido",
+      "Lengüetazo",
+      "Inmersión Abisal",
+      "Piel Dura",
+      "Devorar"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "El único pecado genuino es reprimir el apetito.",
+      "Todos nos damos un atracón de vez en cuando.",
+      "¡Me niego a sucumbir a la degeneración culinaria!",
+      "Al final, todo río llega a su desembocadura.",
+      "Toda creación nace con hambre.",
+      "Quien comparte, pasa hambre.",
+      "Nada sacia el hambre verdadera.",
+      "No hay sitio en el que no haya estado, ni sitio al que no pueda volver.",
+      "Las aguas más negras fluyen desde el corazón."
+    ]
+  },
+
+  "leblanc": {
+    "Nombre": "Leblanc",
+    "CriptedName": "wpmwlyn",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Noxus",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/4idqhp640xalyno/Leblanc.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/jkh7tzlzoiqk6xw/wpmwlyn.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/lo4hgrrgsa32s5p/wpmwlyn.png?dl=1",
+    "Abilities": [
+      "Imagen Especular",
+      "Sello de la Maldad",
+      "Distorsión",
+      "Cadenas Etéreas",
+      "Mímica"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Ya verás, con mi siguiente truco de magia haré desaparecer su barra de vida.",
+      "La Rosa Negra florecerá una vez más.",
+      "¿Te sorprende verme?",
+      "Mentir es, como, noventa y cinco por ciento de lo que hago.",
+      "¿Mentiría yo?"
+    ]
+  },
+
+  "leesin": {
+    "Nombre": "Lee Sin",
+    "CriptedName": "wppdty",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Energia",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/hxyz89ys73qoo5j/LeeSin.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ghcwvayasx7lzbu/wppdty.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/mrh583nx2jd0kkw/wppdty.png?dl=1",
+    "Abilities": [
+      "Ráfaga",
+      "Onda Sónica / Golpe Resonante",
+      "Salvaguarda / Voluntad de Hierro",
+      "Tempestad / Incapacitar",
+      "Furia del Dragón"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Lucharé, fracasare pero rendirme es un privilegio que no tengo.",
+      "¿Dónde se me necesita?",
+      "Domínate a ti mismo, domina al enemigo.",
+      "Vuelvo a mi entrenamiento.",
+      "Sus corazones se aceleran.",
+      "La ceguera no es problema contra un enemigo apestoso.",
+      "Hoy no es el día en que lograrás la victoria."
+    ]
+  },
+
+  "leona": {
+    "Nombre": "Leona",
+    "CriptedName": "wpzyl",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Aspecto", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Targón",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/npfyy995t9ntuw1/Leona.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/f5ast7e71y1xpvx/wpzyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/2uztmpm5ulfzc62/wpzyl.png?dl=1",
+    "Abilities": [
+      "Luz Solar",
+      "Escudo del Amanecer",
+      "Eclipse",
+      "Espada del Cénit",
+      "Llamarada Solar"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Qué groseramente incandescente",
+      "El amanecer ha llegado.",
+      "No debo fallar."
+    ]
+  },
+
+  "lillia": {
+    "Nombre": "Lillia",
+    "CriptedName": "wtwwtl",
+    "Gender": "Femenino",
+    "Positions": ["Superior", "Jungla"],
+    "Species": "Espíritu",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2020",
+    "IconUrl": "https://www.dropbox.com/s/ofa42ih12uuzvpf/Lillia.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/8smgcqglnfuerce/wtwwtl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/y3pxnltm0z09b99/wtwwtl.png?dl=1",
+    "Abilities": [
+      "Rama de los Sueños",
+      "Golpes Florecedores",
+      "¡Cuidado! ¡Hip!",
+      "Semilla Remolino",
+      "Arrullo Rítmico"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Me parece que probaste... demasiado morado.",
+      "Algunos se pierden y llegan al jardín. Otros vienen para perderse como tu Ahri..."
+    ]
+  },
+
+  "lissandra": {
+    "Nombre": "Lissandra",
+    "CriptedName": "wtddlyocl",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": ["Humano", "Hijo(a) Del Hielo"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Fréljord",
+    "ReleaseYear": "2013",
+    "IconUrl": "https://www.dropbox.com/s/4zpqd2536kafqmx/Lissandra.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/0vxq5nm4lo24cjl/wtddlyocl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/341bbmvrycvrxfk/wtddlyocl.png?dl=1",
+    "Abilities": [
+      "Sometimiento de Hielo",
+      "Fragmento de Hielo",
+      "Anillo de Escarcha",
+      "Sendero Glacial",
+      "Tumba Congelada"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "El mundo comenzó y terminará en el hielo.",
+      "El frío mitigara el dolor.",
+      "Soy hija del hielo.",
+      "Enterraré el mundo en hielo."
+    ]
+  },
+
+  "lucian": {
+    "Nombre": "Lucian",
+    "CriptedName": "wfntly",
+    "Gender": "Masculino",
+    "Positions": "Inferior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Demacia", "Islas De La Sombra"],
+    "ReleaseYear": "2013",
+    "IconUrl": "https://www.dropbox.com/s/dti47nxwzrp73ll/Lucian.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/c95e84x23p0ymul/wfntly.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ftq4ecs6bt9mit2/wfntly.png?dl=1",
+    "Abilities": [
+      "Balas Luminosas",
+      "Luz Lacerante",
+      "Resplandor Ardiente",
+      "Persecución Implacable",
+      "El Sacrificio"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Te llevaste lo mejor de mí, Tresh. ¡Y dejaste en mí un enemigo feroz!",
+      "Todos mueren... Algunos necesitan ayuda.",
+      "Abramos esas latas Mordekaiser, veamos que llevas dentro.",
+      "Algunos lo llaman magia, yo lo llamo buena puntería.",
+      "No es que te tema Hecarim, pero odio desperdiciar un buen caballo.",
+      "La muerte debería ser el final."
+    ]
+  },
+
+  "lulu": {
+    "Nombre": "Lulu",
+    "CriptedName": "wfwf",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Ciudad De Bandle",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/rpwm5uj04mej3v2/Lulu.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ihedknyxu98tjcl/wfwf.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/uawptzglm9esgru/wfwf.png?dl=1",
+    "Abilities": [
+      "Pix, Compañero Hadástico",
+      "Lanza Brillantina",
+      "Capricho",
+      "¡Ayudita, Pix!",
+      "Enormamiento"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Sip, sabe a púrpura.",
+      "Esto no les va a gustar.",
+      "Una sonrisita debería bastar.",
+      "Usemos todos los colores.",
+      "Verás más con los ojos cerrados."
+    ]
+  },
+
+  "lux": {
+    "Nombre": "Lux",
+    "CriptedName": "wfi",
+    "Gender": "Femenino",
+    "Positions": ["Central", "Soporte"],
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Demacia",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/d0p0d9w3bkhh9x1/Lux.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/0psu5zx0wk87ott/wfi.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/gq8sle3gw6utddz/wfi.png?dl=1",
+    "Abilities": [
+      "Iluminación",
+      "Hechizo Luminoso",
+      "Barrera Prismática",
+      "Singularidad Brillante",
+      "Chispa Final"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Espero que el brillo de mi sonrisa haya iluminado tu día.",
+      "Iluminemos la batalla.",
+      "El mañana es el brillo de las promesas de hoy.",
+      "Con tu nivel de potencia, te sugiero que pierdas.",
+      "¡En nombre de Demacia, te castigaré!"
+    ]
+  },
+
+  "malphite": {
+    "Nombre": "Malphite",
+    "CriptedName": "xlwastep",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Golem",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Ixtal", "Shurima"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/qvrhxtklmvti5ar/Malphite.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/aecc2aqy3heo5k4/xlwastep.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ji2398vy3iyqusj/xlwastep.png?dl=1",
+    "Abilities": [
+      "Escudo de Granito",
+      "Fragmento Sísmico",
+      "Estruendo",
+      "Golpe en el Suelo",
+      "Fuerza Imparable"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Duro como la piedra.",
+      "Herir.",
+      "Voy tan rápido como puedo.",
+      "Estás entre la espada y la pared... de piedra.",
+      "Vas a perder."
+    ]
+  },
+
+  "malzahar": {
+    "Nombre": "Malzahar",
+    "CriptedName": "xlwklslc",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": ["Humano", "Ser Del Vacio"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Shurima", "El Vacío"],
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/eohmef3yjjqftsv/Malzahar.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/2llwtwqvr4v4icm/xlwklslc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/544bk5ze5c9xcm9/xlwklslc.png?dl=1",
+    "Abilities": [
+      "Suspensión del Vacío",
+      "Llamado del Vacío",
+      "Enjambre del Vacío",
+      "Visiones Maléficas",
+      "Agarre Infernal"
+    ],
+    "Emojis": "",
+    "Frases": ["¡Cómo estaba predicho!", "La clarividencia lo dispone."]
+  },
+
+  "maokai": {
+    "Nombre": "Maokai",
+    "CriptedName": "xlzvlt",
+    "Gender": "Masculino",
+    "Positions": ["Soporte", "Jungla", "Superior"],
+    "Species": "Espíritu",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Islas De La Sombra",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/2ybp4jsvz7449mc/Maokai.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/a7mu4ulw155ewy1/xlzvlt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/fo83xt1wqmvpa8w/xlzvlt.png?dl=1",
+    "Abilities": [
+      "Extracción de Magia",
+      "Aplastamiento Espinoso",
+      "Avance Retorcido",
+      "Lanzamiento de Retoño",
+      "Agarre de la Naturaleza"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Ni siquiera marco mi tronco.",
+      "Las islas volverán a florecer.",
+      "No importa, el día de tu juicio llegará.",
+      "Hare lo que ordenes... por ahora...",
+      "La venganza de la fruta más dulce."
+    ]
+  },
+
+  "maestroyi": {
+    "Nombre": "Maestro Yi",
+    "CriptedName": "xlpdeczjt",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/1t3ekmb8q23d3s9/MaestroYi.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/x0rznsjnhyod3f3/xlpdeczjt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/rss2rp0o5i2spz4/xlpdeczjt.png?dl=1",
+    "Abilities": [
+      "Golpe Doble",
+      "Golpe Alfa",
+      "Meditación",
+      "Estilo Wuju",
+      "Imparable"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "No dejes que el orgullo te ciegue.",
+      "Te mostraré el camino.",
+      "La duda es el mayor de los enemigos.",
+      "Un verdadero maestro nunca deja de estudiar.",
+      "Una mente enfocada puede taladrar una piedra.",
+      "Deseas aprender por las malas, según veo.",
+      "Me quedaré con tus ojos... ja, como si no tuviera ya suficientes."
+    ]
+  },
+
+  "mordekaiser": {
+    "Nombre": "Mordekaiser",
+    "CriptedName": "xzcopvltdpc",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Renacido",
+    "Resource": "Escudo",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Noxus",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/06jf7vtpvw9r7mx/Mordekaiser.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/5fbfqfr02v6bsrv/xzcopvltdpc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ffcc5ewjgq8ip36/xzcopvltdpc.png?dl=1",
+    "Abilities": [
+      "Oscuridad Creciente",
+      "Aniquilación",
+      "Indestructible",
+      "Garra del Inframundo",
+      "Reino de la Muerte"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "El mundo trató de olvidar mi existencia. ¡Es hora de recordarles por qué deben temer!",
+      "Doblegué el reino de los muertos a mi voluntad. Este mundo será el proximo.",
+      "Soy el único baluarte entre la existencia eterna y el olvido.",
+      "Todos servirán al amo verdadero de los vivos y los muertos.",
+      "Una vez más, mi voluntad está atada al hierro."
+    ]
+  },
+
+  "morgana": {
+    "Nombre": "Morgana",
+    "CriptedName": "xzcrlyl",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Aspecto", "Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Demacia", "Targón"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/iqgcl0nahhf34un/Morgana.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/7u49t8huuuz80yq/xzcrlyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/uodjblt89hjdpv6/xzcrlyl.png?dl=1",
+    "Abilities": [
+      "Sifón del Alma",
+      "Hechizo Oscuro",
+      "Sombra Maldita",
+      "Escudo Negro",
+      "Grilletes del Alma"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La oscuridad será quien logre mantener su fuerza, las sombras son el único poder ilimitado.",
+      "Mis alas están atadas pero mi alma vuela.",
+      "Ya sea con cadenas o con alas, todos estamos atados.",
+      "¡Estoy atada pero nada me detiene!.",
+      "¡Tus malas decisiones te perseguirán!"
+    ]
+  },
+
+  "nami": {
+    "Nombre": "Nami",
+    "CriptedName": "ylxt",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": "Vastaya",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Runeterra",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/0axew7gm2hl5veu/Nami.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/0wrim5mz0y74et0/ylxt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/5zw5bnegvpd3zsi/ylxt.png?dl=1",
+    "Abilities": [
+      "Oleaje",
+      "Prisión de Agua",
+      "Flujo y Reflujo",
+      "Bendición de la Marea",
+      "Maremoto"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Soy la marea y como tal, no se me puede detener.",
+      "La belleza brilla en el interior, donde baila el corazón.",
+      "Eww, aliento de ballena.",
+      "Todos estamos ligados al océano."
+    ]
+  },
+
+  "nasus": {
+    "Nombre": "Nasus",
+    "CriptedName": "yldfd",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Dios Guerrero",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Shurima",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/uhgo31hazs1yftc/Nasus.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/3gzflyhea21kkw2/yldfd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/2r9oabwtc3r23h7/yldfd.png?dl=1",
+    "Abilities": [
+      "Devorador de Almas",
+      "Golpe Absorbente",
+      "Marchitar",
+      "Fuego Espiritual",
+      "Furia de las Arenas"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "El ciclo de la vida y la muerte prosigue, nosotros viviremos, ellos moriran.",
+      "Palabras equivocadas hacen caer imperios.",
+      "El destino es una manifestación de mi voluntad.",
+      "El cielo no es más que estrellas moribundas."
+    ]
+  },
+
+  "nautilus": {
+    "Nombre": "Nautilus",
+    "CriptedName": "ylfetwfd",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": "Renacido",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/btp9nf6whqoch67/Nautilus.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/n9z5bj3m3o791w2/ylfetwfd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/vzi63t6s81f1589/ylfetwfd.png?dl=1",
+    "Abilities": [
+      "Golpe Maestro",
+      "Línea de Dragado",
+      "Ira del Titán",
+      "Aguas Revueltas",
+      "Carga de las Profundidades"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "A veces creo que esta ancla es demasiada pesada.",
+      "La marea está bajando.",
+      "Abandonado...",
+      "¡Que sientan el peso del océano!",
+      "¡Los arrastraré al fondo!"
+    ]
+  },
+
+  "neeko": {
+    "Nombre": "Neeko",
+    "CriptedName": "yppvz",
+    "Gender": "Femenino",
+    "Positions": ["Central", "Soporte"],
+    "Species": "Vastaya",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Ixtal",
+    "ReleaseYear": "2018",
+    "IconUrl": "https://www.dropbox.com/s/u3p1emfwntkbkti/Neeko.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/og1szpfy3puqrl7/yppvz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/8anzw1zir75nbhl/yppvz.png?dl=1",
+    "Abilities": [
+      "Ilusión de Camaleón",
+      "Estallido Floral",
+      "División de Esencia",
+      "Espiral Enredadiza",
+      "Detonación Silvestre"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Los espíritus están a mi alrededor, son cálidos como... abrazos.",
+      "No te ates a un solo cuerpo, hay muchísimos más.",
+      "Este lugar sabe a... muchas emociones: entusiasmo, enojo, alegría y... salado. ¿Salado es un sentimiento?",
+      "Personas que no tienen cola, ¿se sienten solas? Sí.",
+      "La belleza brilla en el interior, donde baila el corazón."
+    ]
+  },
+
+  "nidalee": {
+    "Nombre": "Nidalee",
+    "CriptedName": "ytolwpp",
+    "Gender": "Femenino",
+    "Positions": "Jungla",
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Maná",
+    "RangeType": ["Cuerpo A Cuerpo", "De Rango"],
+    "Region": "Ixtal",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/cyvn98mld4p3prj/Nidalee.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/oxoql8gbqu0hnde/ytolwpp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/g8mforyovpt0c6c/ytolwpp.png?dl=1",
+    "Abilities": [
+      "Merodear",
+      "Jabalina / Tumbar",
+      "Trampa / Salto",
+      "Arrebato Primitivo / Zarpazo",
+      "Piel de Puma"
+    ],
+    "Emojis": "",
+    "Frases": ["hmmm... sabe a cobarde.", "Temerán lo salvaje."]
+  },
+
+  "nilah": {
+    "Nombre": "Nilah",
+    "CriptedName": "ytwls",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2022",
+    "IconUrl": "https://www.dropbox.com/s/1sdus32y9ni65o2/Nilah.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/h528vg6am6dl40j/ytwls.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/6ddzfqkzg8hjjgf/ytwls.png?dl=1",
+    "Abilities": [
+      "Felicidad Infinita",
+      "Filo sin Forma",
+      "Velo de Júbilo",
+      "Estela Acuática",
+      "Apoteosis"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Un enemigo perfecto para probar mis habilidades.",
+      "Ahora ya sabes a qué te enfrentas",
+      "El mal se esconde en cada rincón del mundo, pero yo siempre lo encuentro.",
+      "Me enfrentaré a los grandiosos villanos de los mitos y seré inmortalizada en una canción."
+    ]
+  },
+
+  "nocturne": {
+    "Nombre": "Nocturne",
+    "CriptedName": "yznefcyp",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": ["Demonio", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Runeterra",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/0wo6f5r8q9dwje3/Nocturne.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/m838k224qg764bt/yznefcyp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/c6fqcegdmtcfk3k/yznefcyp.png?dl=1",
+    "Abilities": [
+      "Navajas de la Penumbra",
+      "Portador del Anochecer",
+      "Manto de Oscuridad",
+      "Horror Inenarrable",
+      "Paranoia"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¿Pronóstico del tiempo para esta noche? Oscuro con posibilidad de sangre...",
+      "Abraza la oscuridad."
+    ]
+  },
+
+  "nunuywillump": {
+    "Nombre": "Nunu y Willump",
+    "CriptedName": "yfyfjhtwwfxa",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": ["Humano", "Yeti"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/wrgqdijg0tqq7ok/Nunu.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/woeoqfwjlsh3anv/yfyfjhtwwfxa.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/eie5rsagc38omzm/yfyfjhtwwfxa.png?dl=1",
+    "Abilities": [
+      "Llamado del Fréljord",
+      "Voracidad",
+      "¡Gigantobola de nieve!",
+      "¡Come Nieve!",
+      "Cero Absoluto"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Mi mamá me dijo que mientras siempre la recuerde ella siempre volverá... como Anivia.",
+      "Sé que debería sentirme feliz pero... me siento solo, Willump.",
+      "Aveces el azul es el único color en el Fleljord, recuerdo que mi mamá tenia los ojos azules...",
+      "Nunca abandones a tus mejores amigos."
+    ]
+  },
+
+  "olaf": {
+    "Nombre": "Olaf",
+    "CriptedName": "zwlq",
+    "Gender": "Masculino",
+    "Positions": ["Superior", "Jungla"],
+    "Species": ["Humano", "Hijo(a) Del Hielo"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/flp4h3fayw4n5nn/Olaf.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/8fv5o4ugpvywo4t/zwlq.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/0femtgevo6cimb3/zwlq.png?dl=1",
+    "Abilities": [
+      "Ira del Berserker",
+      "Corriente Marina",
+      "Golpes Sanguinarios",
+      "Lance Temerario",
+      "Ragnarok"
+    ],
+    "Emojis": "🪓🪓👨😡",
+    "Frases": ["¡No dejes nada atrás!", "Ven, no te haré daño. Lo prometo."]
+  },
+
+  "orianna": {
+    "Nombre": "Orianna",
+    "CriptedName": "zctlyyl",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": "Golem",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Piltóver",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/r7xugmbx4ozh2n0/Orianna.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/qnk1o7o4xqom0gq/zctlyyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ir5ls04x8njcu9d/zctlyyl.png?dl=1",
+    "Abilities": [
+      "Mecanismo de Cuerda",
+      "Orden: Atacar",
+      "Orden: Disonancia",
+      "Orden: Proteger",
+      "Orden: Onda de Choque"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Se rompen tan fácilmente... ¿Qué hay que hacer para arreglarlos?",
+      "Baila conmigo, mascota mía. Baila conmigo hacia el olvido."
+    ]
+  },
+
+  "ornn": {
+    "Nombre": "Ornn",
+    "CriptedName": "zcyy",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": ["Dios", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2017",
+    "IconUrl": "https://www.dropbox.com/s/sig5uq7aocyr77v/Ornn.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/rh5mue5310gavnx/zcyy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/0lwrijxdql618g7/zcyy.png?dl=1",
+    "Abilities": [
+      "Forja Viviente",
+      "Ruptura Volcánica",
+      "Rugido de Fuego",
+      "Embestida Abrasadora",
+      "Llamado del Dios de la Forja"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Una buena hacha derriba un árbol. Una gran hacha derriba un ejército.",
+      "Los humanos hicieron algunas cosas bien...la cerveza. La cerveza oscura.",
+      "La soledad siempre cumple mis espectativas.",
+      "El trabajo agotador es el placer más grande de la vida."
+    ]
+  },
+
+  "pantheon": {
+    "Nombre": "Pantheon",
+    "CriptedName": "alyespzy",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Soporte", "Jungla"],
+    "Species": ["Aspecto", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Targón",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/90my6hr2st4pg9t/Pantheon.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/2imao41sb1j6rdd/alyespzy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/irsv8oxslwc2d14/alyespzy.png?dl=1",
+    "Abilities": [
+      "Voluntad del Mortal",
+      "Lanza Cometa",
+      "Salto con escudo",
+      "Égida de Asalto",
+      "Gran Descarga Estelar"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Debemos encontrar nuestro lugar, el mio es reforjarme para luchar una y otra vez.",
+      "Nuestro destino es pelear y solo los más valientes lo aceptan.",
+      "El arte de la guerra es escuchar el latido de tu corazón, ¡sentir que estás vivo!",
+      "El más allá podrá tenerme cuando yo haya terminado."
+    ]
+  },
+
+  "poppy": {
+    "Nombre": "Poppy",
+    "CriptedName": "azaaj",
+    "Gender": "Femenino",
+    "Positions": ["Jungla", "Superior"],
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Demacia",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/dee1ror9mret688/Poppy.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/kjx5au1rqx65i8v/azaaj.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/tteahv1sacy05dm/azaaj.png?dl=1",
+    "Abilities": [
+      "Embajadora de Hierro",
+      "Impacto de Martillo",
+      "Presencia Inalterable",
+      "Carga Heroica",
+      "Veredicto de la Guardiana"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Cada paso es uno menos.",
+      "Solo soy una yordle con un martillo."
+    ]
+  },
+
+  "pyke": {
+    "Nombre": "Pyke",
+    "CriptedName": "ajvp",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": "Renacido",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Aguasturbias",
+    "ReleaseYear": "2018",
+    "IconUrl": "https://www.dropbox.com/s/vsw7n7ms8rt2l2z/Pyke.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/5w97l0vjxri23ly/ajvp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/1nezsowsu4vtqdr/ajvp.png?dl=1",
+    "Abilities": [
+      "Don de los Ahogados",
+      "Mondahuesos",
+      "Aguas Espectrales",
+      "Corriente Fantasma",
+      "De lo profundo"
+    ],
+    "Emojis": "",
+    "Frases": ["Ya estoy muerto, Un poco más no me hará daño..."]
+  },
+
+  "qiyana": {
+    "Nombre": "Qiyana",
+    "CriptedName": "btjlyl",
+    "Gender": "Femenino",
+    "Positions": ["Central", "Jungla"],
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Ixtal",
+    "ReleaseYear": "2019",
+    "IconUrl": "https://www.dropbox.com/s/364w3xldvgfmqno/Qiyana.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/iipgnabnx0jy6z1/btjlyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/h1irxorawkadxyd/btjlyl.png?dl=1",
+    "Abilities": [
+      "Privilegio Real",
+      "Furia Elemental / Filo de Ixtal",
+      "Terraformación",
+      "Osadía",
+      "Talento Supremo"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Inclina la cabeza o piérdela!",
+      "Húmeda, como las lágrimas de mis enemigos. Verde, como la envidia de mis hermanas.",
+      "Los secretos de mis enemigos se los lleva el viento.",
+      "El trabajo duro es para quienes carecen de talento.",
+      "En esta competencia hay niveles...mejor quédate en el tuyo.",
+      "Ser joven implica vivir para ver a todos tus enemigos morir primero.",
+      "Para mí, la ira es inútil. Es una herida que nunca deja de infectarse.",
+      "La memoria es como una compañera que te brinda consuelo."
+    ]
+  },
+
+  "quinn": {
+    "Nombre": "Quinn",
+    "CriptedName": "bftyy",
+    "Gender": "Femenino",
+    "Positions": "Superior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Demacia",
+    "ReleaseYear": "2013",
+    "IconUrl": "https://www.dropbox.com/s/9d71giguot7bki3/Quinn.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/o2uneah5quo82ro/bftyy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/py6utsaoq8fnn2z/bftyy.png?dl=1",
+    "Abilities": [
+      "Hostigador",
+      "Ataque Cegador",
+      "Sentidos Aguzados",
+      "Asalto",
+      "Detrás de las Líneas Enemigas"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La sombra de Valor sera lo último que verán tus ojos.",
+      "¿Quién es? ¿Qué Fiora? ¡Valor, no seas cruel!",
+      "¿Quién es? ¿Qué Garen? Ah sí, supongo que dice eso muy seguido.",
+      "¿Quién es? ¿Qué Jarvan? Hah. ¡Valor!",
+      "Solo es un pájaro presumido.",
+      "Esto es como cazar pajaritos."
+    ]
+  },
+
+  "rakan": {
+    "Nombre": "Rakan",
+    "CriptedName": "clvly",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": "Vastaya",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2017",
+    "IconUrl": "https://www.dropbox.com/s/mdke70axtnl507g/Rakan.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/7low0e3mia0teqm/clvly.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/3onjkef2uesr93z/clvly.png?dl=1",
+    "Abilities": [
+      "Plumas Encantadas",
+      "Cálamo Reluciente",
+      "Gran Entrada",
+      "Danza de Combate",
+      "Celeridad"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡La única manera de entender la magia es sumergirse en ella, moverse con ella, bailar y bailar!",
+      "Nombra un solo genio que no está loco.",
+      "¿Sabes? No me gusta burlarme de la gente, pero tú... haces que sea fácil.",
+      "Es todo sucio y peligroso... ¡Por eso me encanta!",
+      "¡Ha! Soy la O y soy la D, Oro y Diamantes, chico. ¡WOW!",
+      "Me han maltratado desde que nací... está bien, todo muy bien, ¡SIGO VIVO!"
+    ]
+  },
+
+  "rammus": {
+    "Nombre": "Rammus",
+    "CriptedName": "clxxfd",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "Dios Guerrero",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Shurima",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/jwy0lpvo4tcyyth/Rammus.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/by6axym41g99dft/clxxfd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/56zcpea7tgu9871/clxxfd.png?dl=1",
+    "Abilities": [
+      "Caparazón de Púas",
+      "Bola Rodante",
+      "Posición Defensiva",
+      "Provocación Frenética",
+      "Salto de Temblores"
+    ],
+    "Emojis": "",
+    "Frases": ["OK.", "Sobre ruedas.", "Muy bien."]
+  },
+
+  "reksai": {
+    "Nombre": "Rek'Sai",
+    "CriptedName": "cpvdlt",
+    "Gender": "Femenino",
+    "Positions": "Jungla",
+    "Species": "Ser Del Vacio",
+    "Resource": "Furia",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Shurima", "El Vacío"],
+    "ReleaseYear": "2014",
+    "IconUrl": "https://www.dropbox.com/s/5p7fxyh3tpx39yp/RekSai.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/1gzb3s45o6rprxf/cpvdlt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/vyo6ybfvtaqn3dl/cpvdlt.png?dl=1",
+    "Abilities": [
+      "Furia Xer'Sai",
+      "Ira de la Reina/Rastreadora",
+      "Excavar/Emerger",
+      "Mordedura Feroz/Túnel",
+      "Impulso del Vacío"
+    ],
+    "Emojis": "",
+    "Frases": ["*Gruñidos del vacío*"]
+  },
+
+  "rell": {
+    "Nombre": "Rell",
+    "CriptedName": "cpww",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Noxus",
+    "ReleaseYear": "2020",
+    "IconUrl": "https://www.dropbox.com/s/985s9nvkm4sqak7/Rell.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/qb457wzupr04si5/cpww.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/yzx9oa37yignby1/cpww.png?dl=1",
+    "Abilities": [
+      "Rompemoldes",
+      "Golpe Devastador",
+      "Ferromancia: Desplome",
+      "Atraer y Repeler",
+      "Tormenta Magnética"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Estos sellos son un recordatorio. al diablo con mis sellos.",
+      "Yo sobreviví a la academia. Mis instructores, no.",
+      "La decisión mas tonta de tu vida",
+      "Los noxianos no son los heroes que creen ser."
+    ]
+  },
+
+  "renekton": {
+    "Nombre": "Renekton",
+    "CriptedName": "cpypvezy",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Dios Guerrero",
+    "Resource": "Furia",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Shurima",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/y7udd7g09qur177/Renekton.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/yctsdjnjz7ehs2d/cpypvezy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/xv2xbd5fkf5xebc/cpypvezy.png?dl=1",
+    "Abilities": [
+      "Reino de la Ira",
+      "Sacrifica al Débil",
+      "Depredador Implacable",
+      "Cortar y Trocear",
+      "Dominus"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Vivo para dar muerte.",
+      "Tus lágrimas no son de cocodrilo.",
+      "Despedacen sus cuerpos frágiles.",
+      "¡Los destriparé a todos!",
+      "Ahora sabrán lo que es agonía.",
+      "No perdonaré a nadie."
+    ]
+  },
+
+  "rengar": {
+    "Nombre": "Rengar",
+    "CriptedName": "cpyrlc",
+    "Gender": "Masculino",
+    "Positions": ["Jungla", "Superior"],
+    "Species": "Vastaya",
+    "Resource": "Ferocidad",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Ixtal", "Shurima"],
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/5buhdjyzbsjqzw0/Rengar.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/wwf28q77g1ywlnc/cpyrlc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/gx25tb1onb2uv2w/cpyrlc.png?dl=1",
+    "Abilities": [
+      "Depredador Invisible",
+      "Fiereza",
+      "Rugido de Batalla",
+      "Boleadoras",
+      "Adrenalina del Cazador"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Caza a los débiles y sobrevivirás, caza a los fuertes y vivirás.",
+      "Incluso los monstruos pueden temer.",
+      "La comodidad alimenta la debilidad.",
+      "Un premio apropiado.",
+      "Esta noche... iremos de caza."
+    ]
+  },
+
+  "riven": {
+    "Nombre": "Riven",
+    "CriptedName": "ctgpy",
+    "Gender": "Femenino",
+    "Positions": "Superior",
+    "Species": "Humano",
+    "Resource": "Ninguno",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Noxus",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/cog8ch98lz0rpzo/Riven.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/md7mewe51b8v7aq/ctgpy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/t4725s4he5evzus/ctgpy.png?dl=1",
+    "Abilities": [
+      "Espada Rúnica",
+      "Alas Rotas",
+      "Estallido de Ki",
+      "Valor",
+      "Espada del Exilio"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Lo que está roto puede reforjarse.",
+      "¡Una cuchilla rota es más que suficiente para ti!"
+    ]
+  },
+
+  "rumble": {
+    "Nombre": "Rumble",
+    "CriptedName": "cfxmwp",
+    "Gender": "Masculino",
+    "Positions": ["Superior", "Central"],
+    "Species": "Yordle",
+    "Resource": "Calor",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Ciudad De Bandle",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/5ajuo3ezvl1za9j/Rumble.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/h7c4baluv6jdkno/cfxmwp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/mbrwgp8x84iho1f/cfxmwp.png?dl=1",
+    "Abilities": [
+      "Titán del Desguazadero",
+      "Escupellamas",
+      "Escudo de Chatarra",
+      "Arpón Eléctrico",
+      "El Equilibrador"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Que empiece el combate.",
+      "¿Quieres bailar una pieza con mi nena?",
+      "¿A que nunca habías visto a un yordle más grandote que tú?",
+      "¡Mira, ni siquiera tengo las manos en los controles!",
+      "¡Turbo activado! Ah... gah... Tan solo necesita una patadita.",
+      "¡Ciudad de Bandle! ¡Aaay! Ups, olvidé poner el embrague.",
+      "Así sí baila mi nena con el señor."
+    ]
+  },
+
+  "ryze": {
+    "Nombre": "Ryze",
+    "CriptedName": "cjkp",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Superior"],
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Runeterra",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/dcmclw2lp2zjqv8/Ryze.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/f2w57a3ytn47bt8/cjkp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/m2wqzlyhfoveuad/cjkp.png?dl=1",
+    "Abilities": [
+      "Maestría Arcana",
+      "Descarga Eléctrica",
+      "Prisión Rúnica",
+      "Flujo de Hechizos",
+      "Distorsión del Entorno"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "No camines a través de la historia, ¡Corre!.",
+      "Recuerdo cuando se derramaron tales lágrimas.",
+      "Provisiones adquiridas.",
+      "Lo destruiría, si no lo necesitara.",
+      "Estupendo, más cosas que cargar.",
+      "Busco las runas para que no las encuentre ninguna otra persona, o \"cosa\".",
+      "Lo que he visto en los rincones oscuros de Runaterra es mejor que nadie lo vea.",
+      "Si sueno grosero, es porque tengo que salvar al mundo.",
+      "Saben tan poco del mundo que recorren"
+    ]
+  },
+
+  "samira": {
+    "Nombre": "Samira",
+    "CriptedName": "dlxtcl",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Noxus", "Shurima"],
+    "ReleaseYear": "2020",
+    "IconUrl": "https://www.dropbox.com/s/r42vj5z9479uidc/Samira.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/jhdmzfltzkely8z/dlxtcl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/pb00quu8dmnmw55/dlxtcl.png?dl=1",
+    "Abilities": [
+      "Impulso Temerario",
+      "Instinto",
+      "Corte Torbellino",
+      "Carrera Salvaje",
+      "Gatillo Infernal"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Yo soy la bellay la bestia.",
+      "Nunca paso de moda.",
+      "¡Hora de la función.",
+      "¡Premio mayor!",
+      "Eres un peso muerto.",
+      "Creeme, me he enfrentado a cosas peores.",
+      "La gente insiste en que debo sentar cabeza.",
+      "Solo me importan mi cuadrilla y mi familia."
+    ]
+  },
+
+  "sejuani": {
+    "Nombre": "Sejuani",
+    "CriptedName": "dpuflyt",
+    "Gender": "Femenino",
+    "Positions": ["Jungla", "Superior"],
+    "Species": ["Humano", "Hijo(a) Del Hielo"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/gsm01qjgvgze0y6/Sejuani.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/7bfd4fb3j90rmwj/dpuflyt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/u8fiad0o37o1m1n/dpuflyt.png?dl=1",
+    "Abilities": [
+      "la Furia del Norte",
+      "Asalto Ártico",
+      "Ira del Invierno",
+      "Permahielo",
+      "Prisión Glacial"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "No confíes en nada salvo en tu fuerza.",
+      "Nadie me detendrá.",
+      "Un regalo del Fréljord."
+    ]
+  },
+
+  "senna": {
+    "Nombre": "Senna",
+    "CriptedName": "dpyyl",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Humano", "No Muerto"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Islas De La Sombra",
+    "ReleaseYear": "2019",
+    "IconUrl": "https://www.dropbox.com/s/84ur2ujun7v25zy/Senna.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/e4qqlf7rb3qwhtr/dpyyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/lxlbccmbb9jl827/dpyyl.png?dl=1",
+    "Abilities": [
+      "Absolución",
+      "Oscuridad Lacerante",
+      "Abrazo Final",
+      "Maldición de la Niebla Negra",
+      "Cañón de Sombras"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Sólo un hombre tan terco como para pelear contra mí, sería tan terco como para amarme.",
+      "En la oscuridad nos encontramos a nosotros mismos.",
+      "Cuando escucho cadenas, busco mi arma.",
+      "Cuando te ahogas, y aún recuerdas como respirar, pero no puedes hacerlo... esa es la niebla.",
+      "Mientras más sangre haya en tus manos, más difícil será olvidar.",
+      "Me veo en ellos, en los ojos de quienes he salvado y me veo en la oscuridad que se refleja ahí.",
+      "La pistola no tiene gatillo, yo soy el gatillo.",
+      "Yo disparo mis palabras como ráfagas de luz.",
+      "Lo único mas grande que ésta arma, es el error que cometiste al ponerte en su mira.",
+      "Sobrevive a la pelea, no al miedo.",
+      "Cuando no haya más luz, yo me llevaré su oscuridad.",
+      "Cada muerte es un sacrificio. Si solo moriste, considérate afortunado.",
+      "El pasado es como una ola, siempre vuelve."
+    ]
+  },
+
+  "seraphine": {
+    "Nombre": "Seraphine",
+    "CriptedName": "dpclastyp",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Piltóver", "Zaun"],
+    "ReleaseYear": "2020",
+    "IconUrl": "https://www.dropbox.com/s/79wrbjfh2ivtpz9/Seraphine.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/878my2fw9wc5ccg/dpclastyp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/w9q0vgqqcrw2pfe/dpclastyp.png?dl=1",
+    "Abilities": [
+      "Presencia Escénica",
+      "Nota Alta",
+      "Sonido Envolvente",
+      "¡Siente el Ritmo!",
+      "¡Otra!"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Algún día la música parará. ¡Baila mientras puedas!",
+      "Todos luchan para ser escuchados. Yo lucho para escuchar.",
+      "Nos acercamos lo más que podemos a la muerte, para sentirnos vivos.",
+      "La gente no siempre escucha, pero esa no es razón para callarse.",
+      "Todos buscamos una respuesta, incluso después de encontrarla.",
+      "Pelearé si quieres, pero en vez de eso podríamos cantar."
+    ]
+  },
+
+  "sett": {
+    "Nombre": "Sett",
+    "CriptedName": "dpee",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": ["Humano", "Vastaya"],
+    "Resource": "Coraje",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2020",
+    "IconUrl": "https://www.dropbox.com/s/2a3arjfomn31ry9/Sett.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/70g1g8e697vl7uu/dpee.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ap1gc8k2cvz17li/dpee.png?dl=1",
+    "Abilities": [
+      "Determinación de la Arena",
+      "Saluda a mis Nudillos",
+      "Mi Turno",
+      "Ahora Bésense",
+      "Hora del Show"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Es fácil hablar así, cuando aún tienes todos tus dientes!",
+      "Mira esa cara, ¡Me pide a gritos que la golpee!",
+      "Hay algún médico disponible? Es para mis oponentes.",
+      "¿Adónde te lleva una vida honrada? ¡A la ruina!",
+      "Tienes agallas. ¡Lástima que las atravesaré con mis puños!",
+      "Si en tus sueños me das una golpiza, Será mejor que despiertes y te disculpes.",
+      "Todo es risas y diversión, hasta que a alguien le parten la carota!",
+      "Lo que mas detesta la gente, es a un hombre que hizo algo con su vida.",
+      "La gente dice que no le gusta la violencia, pero a todos les gusta mirar.",
+      "La violencia es mi negocio, y el negocio va muy bien.",
+      "Ahora bésense.",
+      "Cosas que amo: mi mami, romper cuellos y la seda fina de Jonia.",
+      "Recuerdo mi primera pelea...corrí a casa y lloré con mi mami. Ella limpió mis lágrimas con sus garras.¡ains!"
+    ]
+  },
+
+  "shaco": {
+    "Nombre": "Shaco",
+    "CriptedName": "dslnz",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "Espíritu",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Runeterra",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/zgusvcq2m2xrzw6/Shaco.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/3f31fg6qpbiyoxg/dslnz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/t9k698x2ky3v978/dslnz.png?dl=1",
+    "Abilities": [
+      "Puñalada en la Espalda",
+      "Engaño",
+      "Caja Sorpresa",
+      "Veneno de Doble Filo",
+      "Alucinación"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Para mi próximo truco, ¡te haré desaparecer!",
+      "¿Qué tal un truco de magia?",
+      "¡Esto no ha tenido gracia!",
+      "¡Me ves, ahora no me ves!",
+      "Te salió el tiro por la culata."
+    ]
+  },
+
+  "shen": {
+    "Nombre": "Shen",
+    "CriptedName": "dspy",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Energia",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/mjzlhzqxjtfshrd/Shen.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/7y1v5awiwqtc6se/dspy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/qihdmosltyazp8s/dspy.png?dl=1",
+    "Abilities": [
+      "Barrera de Ki",
+      "Ataque de Crepúsculo",
+      "Refugio del Espíritu",
+      "Ataque de Sombra",
+      "Unidos"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Una demostración de criterio superior.",
+      "Impongo el equilibrio.",
+      "Me resultan indignos.",
+      "Con paso .",
+      "Nuestras voluntades se alinean.",
+      "Ya estás muerto, pero aún no te has dado cuenta.",
+      "Si la luz es tan rápida, ¿por qué nunca ha atrapado a un ninja?"
+    ]
+  },
+
+  "shyvana": {
+    "Nombre": "Shyvana",
+    "CriptedName": "dsjglyl",
+    "Gender": "Femenino",
+    "Positions": "Jungla",
+    "Species": ["Dragon", "Alterado Magicamente"],
+    "Resource": "Furia",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Demacia",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/nijavwt700mbfho/Shyvana.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/75tem64bf24enbq/dsjglyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/10b4wpqwm07npbl/dsjglyl.png?dl=1",
+    "Abilities": [
+      "Furia de la Hija del Dragón",
+      "Mordida Gemela",
+      "Quemadura",
+      "Aliento de Fuego",
+      "Descendiente del Dragón"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Soy el miedo que hace temblar a mis rivales",
+      "Sufran mi furia.",
+      "No son nada ante mi.",
+      "Por la sangre de mi padre, acabaré con ellos.",
+      "Los enemigos de Demacia caerán derrotados."
+    ]
+  },
+
+  "singed": {
+    "Nombre": "Singed",
+    "CriptedName": "dtyrpo",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": ["Humano", "Alterado Quimicamente"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Piltóver", "Zaun"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/quhu81v1ukfyesn/Singed.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/hc9s704a0qkno0i/dtyrpo.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/88mrtdwy25zhdma/dtyrpo.png?dl=1",
+    "Abilities": [
+      "Estela Nociva",
+      "Rastro de Veneno",
+      "Megadhesivo",
+      "Arrojar",
+      "Poción Demencial"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¿Qué tal un trago?",
+      "Ya es casi la hora.",
+      "Mezclar, mezclar, girar, mezclar.",
+      "Agitar, o no agitar.",
+      "Voy en camino.",
+      "¿A qué sabría eso?",
+      "Agitado, pero no revuelto.",
+      "Voy de camino."
+    ]
+  },
+
+  "sion": {
+    "Nombre": "Sion",
+    "CriptedName": "dtzy",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Renacido",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Noxus",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/nem85vxxkxq4n4m/Sion.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/0x0ijfovzsauka4/dtzy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ouqekg5157euzlp/dtzy.png?dl=1",
+    "Abilities": [
+      "Gloria en la Muerte",
+      "Impacto Aniquilador",
+      "Horno del Alma",
+      "Rugido del Asesino",
+      "Embestida Imparable"
+    ],
+    "Emojis": "🪓🧟‍♂️❤📈",
+    "Frases": [
+      "La sangre es el vino de la victoria.",
+      "¡Mata a los fuertes y aplasta a los débiles!",
+      "Solo los cobardes temen morir."
+    ]
+  },
+
+  "sivir": {
+    "Nombre": "Sivir",
+    "CriptedName": "dtgtc",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Shurima",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/0qcsp1uutbt1rok/Sivir.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/pzosnfnjj062um1/dtgtc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/hoa36qutxdjke87/dtgtc.png?dl=1",
+    "Abilities": [
+      "Pies Ligeros",
+      "Cuchilla Búmeran",
+      "Rebote",
+      "Escudo Antihechizos",
+      "Cazadora"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Mis valores son dorados y los guardo en un cofre.",
+      "El honor no es más que óxido en una espada inservible.",
+      "Los héroes siempre pasan hambre.",
+      "La lealtad no se gana, se compra.",
+      "La vida es gratis la muerte sale cara."
+    ]
+  },
+
+  "skarner": {
+    "Nombre": "Skarner",
+    "CriptedName": "dvlcypc",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "Brackern",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Shurima",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/5d5d9q29x0nps2j/Skarner.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/xd8v2c7hocsq316/dvlcypc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ifhu60a0v1xxbv3/dvlcypc.png?dl=1",
+    "Abilities": [
+      "Agujas de Cristal",
+      "Cuchillada de Cristal",
+      "Exoesqueleto Cristalino",
+      "Fractura",
+      "Empalar"
+    ],
+    "Emojis": "",
+    "Frases": ["La cicatriz de cristal está llorando."]
+  },
+
+  "sona": {
+    "Nombre": "Sona",
+    "CriptedName": "dzyl",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Demacia", "Jonia"],
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/vi3glrm01wj93f9/Sona.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/2d9wvcq42t3uwe9/dzyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/gqeuze00tyrojq3/dzyl.png?dl=1",
+    "Abilities": [
+      "Acorde de Potencia",
+      "Himno del Valor",
+      "Aria de la Perseverancia",
+      "Canción de la Celeridad",
+      "Crescendo"
+    ],
+    "Emojis": "",
+    "Frases": ["De mi mente a la tuya."]
+  },
+
+  "soraka": {
+    "Nombre": "Soraka",
+    "CriptedName": "dzclvl",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": "Celestial",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Jonia", "Targón"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/t05dtlob4j3dkwd/Soraka.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/592uo603nsfgxop/dzclvl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/s4ho889d3t5q3t8/dzclvl.png?dl=1",
+    "Abilities": [
+      "Salvación",
+      "Invocación Estelar",
+      "Infusión Astral",
+      "Equinoccio",
+      "Plegaria"
+    ],
+    "Emojis": "",
+    "Frases": ["Cada paso es un nuevo viaje."]
+  },
+
+  "swain": {
+    "Nombre": "Swain",
+    "CriptedName": "dhlty",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Soporte"],
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Noxus",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/cvh0p711do1yl46/Swain.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/xsscvh3y3ejwmaa/dhlty.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/my16od1dowkgz8b/dhlty.png?dl=1",
+    "Abilities": [
+      "Parvada Hambrienta",
+      "Mano de la Muerte",
+      "Visión Imperial",
+      "Nunca Más",
+      "Ascenso Demoniaco"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Dime una vez mas todos los crímenes que cometí, y te diré el precio de la victoria.",
+      "Naci siendo un patricio, me convertí en soldado.",
+      "Otro adversario, otra decepción."
+    ]
+  },
+
+  "sylas": {
+    "Nombre": "Sylas",
+    "CriptedName": "djwld",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Jungla"],
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Demacia", "Fréljord"],
+    "ReleaseYear": "2019",
+    "IconUrl": "https://www.dropbox.com/s/z4vr9qhgppfe9dr/Sylas.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/g5169asco09uow8/djwld.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/bf96iw19kqg7bw5/djwld.png?dl=1",
+    "Abilities": [
+      "Ráfaga de Petricita",
+      "Azote de Cadenas",
+      "Matarreyes",
+      "Fuga/Abducción",
+      "Usurpación"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Este lugar tiene potencial. ¡Hay que derribarlo!",
+      "Entonces... ¿Quién quiere matar al rey?",
+      "¡La gran rebelión de los magos comienza ahora!",
+      "Escapar no fue nada... Veanme arrasar con un reino.",
+      "Quienes esperan ser liberados no merecen la libertad. ¡Adelante hermanos y hermanas!",
+      "Las sombras no me son desconocidas.",
+      "Una corona, una corona para todos.",
+      "Traeremos el cataclismo a casa.",
+      "La magia no se puede enjaular",
+      "Te lo devolveré, lo prometo.",
+      "Lo que es tuyo es mío."
+    ]
+  },
+
+  "syndra": {
+    "Nombre": "Syndra",
+    "CriptedName": "djyocl",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Jonia",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/ozzsfa926swkkv5/Syndra.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/4txfkjxhgl57ock/djyocl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/e0pm1pdmvaf0dnv/djyocl.png?dl=1",
+    "Abilities": [
+      "Trascendencia",
+      "Esfera Oscura",
+      "Fuerza de Voluntad",
+      "Dispersar a los Débiles",
+      "Poder Desatado"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Una legión no pudo detenerme... ¿qué vas a poder hacer tú?",
+      "¡Tanto poder sin explotar!"
+    ]
+  },
+
+  "taliyah": {
+    "Nombre": "Taliyah",
+    "CriptedName": "elwtjls",
+    "Gender": "Femenino",
+    "Positions": ["Jungla", "Jungla"],
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Shurima",
+    "ReleaseYear": "2016",
+    "IconUrl": "https://www.dropbox.com/s/c4g587sbcogvq4l/Taliyah.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/7va04emszkkmy6l/elwtjls.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/nre1q0tmhszw7l3/elwtjls.png?dl=1",
+    "Abilities": [
+      "Surfista de Rocas",
+      "Descarga Pétrea",
+      "Empujón Sísmico",
+      "Tierra Desatada",
+      "Muro de la Tejedora"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Cada lección es un obsequio.",
+      "El mundo es mi telar y cada piedra mi hilo.",
+      "Me mantengo en movimiento, pero mis pisadas son firmes.",
+      "La distancia importa tan poco cuando la familia importa tanto.",
+      "Una tribu sin tradiciones es como un rebaño sin pastor.",
+      "La gran tejedora dice que cada leccion es un obsequio."
+    ]
+  },
+
+  "talon": {
+    "Nombre": "Talon",
+    "CriptedName": "elwzy",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Jungla"],
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Noxus",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/oooyuog53odcgge/Talon.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/d690quylprvkaln/elwzy.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/xn652qkdie5n945/elwzy.png?dl=1",
+    "Abilities": [
+      "Filo de la Hoja",
+      "Diplomacia Noxiana",
+      "Rastrillar",
+      "Sendero del Asesino",
+      "Asalto Sombrío"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Vive y muere bajo la cuchilla.",
+      "Estos huesos conocerán mi cuchilla.",
+      "Tienes algo mas que ¡Debilidad!",
+      "Tus lealtades son insignificantes.",
+      "Solo un necio daría su vida por honor."
+    ]
+  },
+
+  "taric": {
+    "Nombre": "Taric",
+    "CriptedName": "elctn",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": ["Aspecto", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Demacia", "Targón"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/uuhap5y281r0ktl/Taric.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/6m9hburdeh6af91/elctn.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/dburbzpyr3hgau8/elctn.png?dl=1",
+    "Abilities": [
+      "Bravata",
+      "Toque de Luz Estelar",
+      "Baluarte",
+      "Deslumbramiento",
+      "Resplandor Cósmico"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Al final, solo lamentamos lo que no hemos hecho.",
+      "No es fácil llegar a la cima, pero las vistas son gloriosas.",
+      "El fracaso es mi mejor mentor.",
+      "La joya más valiosa es la que guardamos en el corazón.",
+      "La belleza fría también es bella.",
+      "Tu juicio está nublado. Busca la claridad.",
+      "Toda vida es preciosa... excepto la tuya.",
+      "Yo escalé el monte Targon, no tú.",
+      "Sirvo a la vida, pero reparto muerte.",
+      "La belleza puede ser mortal...y masculina. ¡Muy masculina!",
+      "He visto demasiada luz para temer a la oscuridad."
+    ]
+  },
+
+  "teemo": {
+    "Nombre": "Teemo",
+    "CriptedName": "eppxz",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Ciudad De Bandle",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/tzbqy4vbtl1emib/Teemo.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ow8u6cl3mpnk8os/eppxz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/9sub4rzi10um1d6/eppxz.png?dl=1",
+    "Abilities": [
+      "Tácticas de Guerrilla",
+      "Dardo Cegador",
+      "Movimiento Rápido",
+      "Tiro Tóxico",
+      "Trampa Nociva"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Lo siento pequeñín, ya no me quedan lágrimas.",
+      "Asesino por naturaleza.",
+      "Deja que el veneno se apodere de ti.",
+      "La lealtad no se gana, se compra.",
+      "A todos les llega la hora, menos a mí."
+    ]
+  },
+
+  "thresh": {
+    "Nombre": "Thresh",
+    "CriptedName": "escpds",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": "No Muerto",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Islas De La Sombra",
+    "ReleaseYear": "2013",
+    "IconUrl": "https://www.dropbox.com/s/qekc4u85d5aib04/Thresh.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/o1uhzok1ty45gf2/escpds.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ntlgdszgoer9v9s/escpds.png?dl=1",
+    "Abilities": [
+      "Condenación",
+      "Sentencia de Muerte",
+      "Pasaje Oscuro",
+      "Despellejar",
+      "La Caja"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Que agradable agonía vamos a provocar.",
+      "¿Yo loco? Pues un poquito sí.",
+      "Los perros malos van con la correa."
+    ]
+  },
+
+  "tristana": {
+    "Nombre": "Tristana",
+    "CriptedName": "ectdelyl",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Ciudad De Bandle",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/yvq17w9xkpzbrpl/Tristana.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/m46vr0zsyytz4g0/ectdelyl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/873rgvd2bi2tfcz/ectdelyl.png?dl=1",
+    "Abilities": [
+      "En la Mira",
+      "Fuego Rápido",
+      "Salto Cohete",
+      "Carga Explosiva",
+      "Tiro Destructor"
+    ],
+    "Emojis": "",
+    "Frases": ["¡Es como la espada explosiva que siempre soñé!"]
+  },
+
+  "trundle": {
+    "Nombre": "Trundle",
+    "CriptedName": "ecfyowp",
+    "Gender": "Masculino",
+    "Positions": ["Jungla", "Superior"],
+    "Species": ["Hijo(a) Del Hielo", "Troll"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/zby698webfrl84b/Trundle.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/q3bytpxmk0yjcfn/ecfyowp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/j5dvzukp8nwvhmk/ecfyowp.png?dl=1",
+    "Abilities": [
+      "Tributo del Rey",
+      "Mascar",
+      "Reino Congelado",
+      "Pilar de Hielo",
+      "Subyugar"
+    ],
+    "Emojis": "",
+    "Frases": ["¡Si quieres que te golpee menos, muere antes!"]
+  },
+
+  "tryndamere": {
+    "Nombre": "Tryndamere",
+    "CriptedName": "ecjyolxpcp",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Furia",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/wt8f4b3n0zadlkb/Tryndamere.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/llkqy16aidfjc7t/ecjyolxpcp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/vi2b1hxzyo982jl/ecjyolxpcp.png?dl=1",
+    "Abilities": [
+      "Furia de Batalla",
+      "Ansia de Sangre",
+      "Grito Burlón",
+      "Cuchillada Giratoria",
+      "Furia Inmortal"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¡Soy tu peor pesadilla!",
+      "Esto va a ser una masacre.",
+      "¡Sigue mi espada!",
+      "Nunca tuviste ninguna oportunidad.",
+      "¡Tengo el brazo derecho mucho más fuerte que el izquierdo!",
+      "Como tú quieras.",
+      "¡Tengo el brazo derecho mucho más fuerte que el izquierdo!"
+    ]
+  },
+
+  "twitch": {
+    "Nombre": "Twitch",
+    "CriptedName": "ehtens",
+    "Gender": "Masculino",
+    "Positions": "Inferior",
+    "Species": ["Alterado Quimicamente", "Rata"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Zaun",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/6lij83nylxi7l3g/Twitch.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/s9qki343sk5t6wv/ehtens.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/b1c5ypgur3fkdqb/ehtens.png?dl=1",
+    "Abilities": [
+      "Veneno Mortal",
+      "Emboscada",
+      "Tonel de Veneno",
+      "Contaminar",
+      "Lluvia de Proyectiles"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Lo que no te mata, te infecta.",
+      "Es mio!",
+      "Vas a tener mas agujeros que mi queso favorito.",
+      "¡Exijo mi sandwich!",
+      "Disparar es fácil. Apuntar, no tanto."
+    ]
+  },
+
+  "udyr": {
+    "Nombre": "Udyr",
+    "CriptedName": "fojc",
+    "Gender": "Masculino",
+    "Positions": ["Jungla", "Superior"],
+    "Species": ["Humano", "Espiritualista"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Fréljord", "Jonia"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/s2sdxi6r2s3lup7/Udyr.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/tk7o2sxpspsav9z/fojc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/giej3coyte3eypa/fojc.png?dl=1",
+    "Abilities": [
+      "Puente entre Mundos",
+      "Garra Salvaje",
+      "Manto Férreo",
+      "Estampida Abrasadora",
+      "Tormenta Invernal"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Esta... cosa está vacía.",
+      "Gracias por negarte a fortalecer a mis enemigos.",
+      "Un momento de silencio.",
+      "El circulo continúa, ininterrumpido, inquebrantable."
+    ]
+  },
+
+  "urgot": {
+    "Nombre": "Urgot",
+    "CriptedName": "fcrze",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": ["Alterado Quimicamente", "Cyborg", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Noxus", "Zaun"],
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/sawc63erwhiwzjo/Urgot.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/jayu6qhk9615vlk/fcrze.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/w29w8lmugpigpuu/fcrze.png?dl=1",
+    "Abilities": [
+      "Flamas Reverberantes",
+      "Carga Corrosiva",
+      "Purga",
+      "Desdén",
+      "Miedo de Ultratumba"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¿Qué harás para sobrevivir? ¡Dímelo!",
+      "¡Quiebra a los hombres para quebrar sus cadenas!",
+      "No sabrás lo que es la fuerza, hasta que seas destrozado.",
+      "Soy más fuerte que el hombre y que la máquina. Soy una idea."
+    ]
+  },
+
+  "varus": {
+    "Nombre": "Varus",
+    "CriptedName": "glcfd",
+    "Gender": "Masculino",
+    "Positions": ["Inferior", "Central"],
+    "Species": ["Darkin", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Jonia", "Runeterra", "Shurima"],
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/0s7u8mz2pyyk8yi/Varus.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/xbtutf2cefop899/glcfd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/cteyh3qdwpbu1b4/glcfd.png?dl=1",
+    "Abilities": [
+      "Venganza Viviente",
+      "Flecha Penetrante",
+      "El Carcaj Maldito",
+      "Tormenta de Flechas",
+      "Cadena de Corrupción"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Te regalo mi dolor.",
+      "La culpa dará lugar a la agonía.",
+      "Solo los cobardes huyen de su destino.",
+      "Témanle a un hombre que no tiene nada que perder."
+    ]
+  },
+
+  "vayne": {
+    "Nombre": "Vayne",
+    "CriptedName": "gljyp",
+    "Gender": "Femenino",
+    "Positions": ["Inferior", "Superior"],
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Demacia",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/8meaaajtlcdgi81/Vayne.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/mazl1b2pnzg4iy4/gljyp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/9fh7kdhpwlxvskv/gljyp.png?dl=1",
+    "Abilities": [
+      "Cazadora Nocturna",
+      "Voltereta",
+      "Proyectiles de Plata",
+      "Condena",
+      "Hora Final"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Cazemos a los que han caido en la oscuridad.",
+      "Hay demonios entre nosotros pretendiendo ser humanos.",
+      "Aún hay monstruos acechando cada sombra de Demacia.",
+      "Los que matan inocentes no son más que demonios.",
+      "¡Los liberaré de su dolor!",
+      "Proyectiles purificadores.",
+      "¡Acabaré con su sufrimiento!",
+      "¡Purgaré hasta el último monstruo!"
+    ]
+  },
+
+  "veigar": {
+    "Nombre": "Veigar",
+    "CriptedName": "gptrlc",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Ciudad De Bandle", "Runeterra"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/7ysseqj9k28xevk/Veigar.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/1p8k0p46aqwl26l/gptrlc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ikwl42c5uk0hip3/gptrlc.png?dl=1",
+    "Abilities": [
+      "Poder Maligno Fenomenal",
+      "Ataque Maligno",
+      "Materia Oscura",
+      "Horizonte de Sucesos",
+      "Estallido Primordial"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Devoraré tu alma.",
+      "Incluso la muerte tiembla ante mi presencia.",
+      "¡Tus seres queridos están sufriendo!",
+      "Puedo ver el miedo que habita en tu corazón.",
+      "Haré de tu alma uno más de mis lacayos.",
+      "¡Soy malo, muy malo! ¡No te rías!",
+      "¡Si niegas la oscuridad en tu alma! ¡Niegas tu poder!",
+      "¡La magia, me llama!",
+      "Cuando era pequeño... ¡No, no te burles! alguna vez fui más pequeño",
+      "Huele a tu muerte.",
+      "Estoy cansado de tus órdenes."
+    ]
+  },
+
+  "velkoz": {
+    "Nombre": "Vel'Koz",
+    "CriptedName": "gpwvzk",
+    "Gender": "Masculino",
+    "Positions": ["Soporte", "Central"],
+    "Species": "Ser Del Vacio",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "El Vacío",
+    "ReleaseYear": "2014",
+    "IconUrl": "https://www.dropbox.com/s/waoj9tsngwg0md0/Velkoz.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/6a677y8f1yz2jsy/gpwvzk.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/rxz6z0om15q2rdt/gpwvzk.png?dl=1",
+    "Abilities": [
+      "Deconstrucción Orgánica",
+      "Fisión de Plasma",
+      "Grieta del Vacío",
+      "Perturbación Tectónica",
+      "Rayo Desintegrador de Seres Vivos"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Se requiere una infinidad de muestras.",
+      "El conocimiento mediante... la desintegración.",
+      "Las lágrimas no parecen tener ninguna función."
+    ]
+  },
+
+  "vex": {
+    "Nombre": "Vex",
+    "CriptedName": "gpi",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Ciudad De Bandle", "Islas De La Sombra"],
+    "ReleaseYear": "2021",
+    "IconUrl": "https://www.dropbox.com/s/d6fdushvg9dowlg/Vex.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/vaz21vchnvlokn0/gpi.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/3cbtobfvdb76kxp/gpi.png?dl=1",
+    "Abilities": [
+      "Pena y Pesar",
+      "Descarga Mistral",
+      "Espacio Personal",
+      "Amenaza Umbría",
+      "¡Haz lo tuyo, Sombra!"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Tienes suerte. ¡Ser un fantasma es cool!",
+      "Sombra, creo que voy a empezar a llamarte \"cicatriz\".",
+      "¡No es un nombre estúpido! ¡Sombra es un nombre estúpido!"
+    ]
+  },
+
+  "vi": {
+    "Nombre": "Vi",
+    "CriptedName": "gt",
+    "Gender": "Femenino",
+    "Positions": "Jungla",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Piltóver", "Zaun"],
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/mzkaipo360aougl/Vi.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/e0banl9wdcs7ep2/gt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/y09b99b7d8sscx9/gt.png?dl=1",
+    "Abilities": [
+      "Escudo Explosivo",
+      "Rompebóvedas",
+      "Golpes Abollantes",
+      "Fuerza Implacable",
+      "Cesar y Desistir"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Buen tiro cielo.",
+      "Es una pena. Tengo dos puños pero tú sólo tienes una cara.",
+      "Golpea primero, pregunta mientras golpeas.",
+      "Podemos hacer esto por las buenas o... Espera, no, solo por las malas.",
+      "Uhm... Me gusta tu sonrisa, algo a lo que apuntar."
+    ]
+  },
+
+  "viego": {
+    "Nombre": "Viego",
+    "CriptedName": "gtprz",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "No Muerto",
+    "Resource": "Ninguno",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Camavor", "Islas De La Sombra"],
+    "ReleaseYear": "2021",
+    "IconUrl": "https://www.dropbox.com/s/kjbn5zmrsgurws6/Viego.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/gj1b94e2rougfcm/gtprz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/xen8mlikte3to57/gtprz.png?dl=1",
+    "Abilities": [
+      "Dominio del Soberano",
+      "Espada del Rey Arruinado",
+      "Fauces Espectrales",
+      "Sendero Arruinado",
+      "Rompecorazones"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "No puedo oírte por encima del temblor de tu voz.",
+      "Qué es un espectro? Sino la sombra voraz de un hombre.",
+      "En un mundo sin amor, la muerte no significa nada.",
+      "El amor es cruel, sin embargo, ¡vencerá!",
+      "Esta niebla tiene sólo una cura y yo la encontraré.",
+      "Que cosa tan pequeña y frágil es el amor.",
+      "No hay salvación de la oscuridad... ¡pues la oscuridad soy yo!",
+      "Deseo tan poco y sin embargo debo matar para obtenerlo."
+    ]
+  },
+
+  "viktor": {
+    "Nombre": "Viktor",
+    "CriptedName": "gtvezc",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": ["Cyborg", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Piltóver", "Zaun"],
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/vkxuqkkxwulo2tc/Viktor.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ehb73op2b7e5gfy/gtvezc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/3oodq3tdpeaoc46/gtvezc.png?dl=1",
+    "Abilities": [
+      "Gloriosa Evolución",
+      "Transferencia de Potencia",
+      "Campo Gravitatorio",
+      "Rayo de la Muerte",
+      "Tormenta del Caos"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Únete a la evolución.",
+      "Creaciones inferiores",
+      "Con suma eficiencia.",
+      "Todos cambiarán.",
+      "Renuncien a la carne.",
+      "La función por encima de la forma.",
+      "El acero puede arreglar tus fallas... je, je, je."
+    ]
+  },
+
+  "vladimir": {
+    "Nombre": "Vladimir",
+    "CriptedName": "gwlotxtc",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Vida",
+    "RangeType": "De Rango",
+    "Region": ["Camavor", "Noxus", "Islas De La Sombra"],
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/a28jieefhc6746d/Vladimir.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ztf2infzai8y40x/gwlotxtc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/maa9pyz6221c2ea/gwlotxtc.png?dl=1",
+    "Abilities": [
+      "Pacto Carmesí",
+      "Transfusión",
+      "Charco de Sangre",
+      "Marea Roja",
+      "Hemoplaga"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Mi copa está medio vacía",
+      "Rojos se tornarán los ríos.",
+      "Me estoy poniendo lívido.",
+      "Aquello que fluye por tus venas va a pasar a hacerlo fuera de ellas."
+    ]
+  },
+
+  "volibear": {
+    "Nombre": "Volibear",
+    "CriptedName": "gzwtmplc",
+    "Gender": "Masculino",
+    "Positions": ["Superior", "Jungla"],
+    "Species": ["Dios", "Espíritu"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Fréljord",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/98ljww74d9tue90/Volibear.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/248girwia6we808/gzwtmplc.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/1t84905fzehbzbi/gzwtmplc.png?dl=1",
+    "Abilities": [
+      "La Tormenta Implacable",
+      "Choque Estruendoso",
+      "Zarpazo Frenético",
+      "Rompecielos",
+      "Invocador de Tormentas"
+    ],
+    "Emojis": "",
+    "Frases": ["Tus mentiras alimentan el suelo."]
+  },
+
+  "warwick": {
+    "Nombre": "Warwick",
+    "CriptedName": "hlchtnv",
+    "Gender": "Masculino",
+    "Positions": ["Jungla", "Superior"],
+    "Species": ["Alterado Quimicamente", "Cyborg", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Zaun",
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/u80c3rjrp5v17c6/Warwick.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/bqo8jo46wjstkqd/hlchtnv.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/3p7g51v3b4sn8nf/hlchtnv.png?dl=1",
+    "Abilities": [
+      "Sed Insaciable",
+      "Fauces de la Bestia",
+      "Cacería de Sangre",
+      "Aullido Primigenio",
+      "Opresión Infinita"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "El hombre que yo era, fue mi primer víctima.",
+      "Un monstruo vive en ti, lo sacaré con mis garras.",
+      "Se necesita un monstruo para matar a otro."
+    ]
+  },
+
+  "wukong": {
+    "Nombre": "Wukong",
+    "CriptedName": "hfvzyr",
+    "Gender": "Masculino",
+    "Positions": ["Jungla", "Superior"],
+    "Species": "Vastaya",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/t21tfgv26hfkvhg/Wukong.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/hucsblfjup00vmt/hfvzyr.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/bj2v4whshxnxh03/hfvzyr.png?dl=1",
+    "Abilities": [
+      "Piel de Piedra",
+      "Golpe Aplastante",
+      "Guerrero Bromista",
+      "Golpe de Nimbo",
+      "Ciclón"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Solo en combate descubres quién eres en realidad.",
+      "Mi viaje no ha hecho más que empezar.",
+      "Mi viaje aún no ha comenzado."
+    ]
+  },
+
+  "xayah": {
+    "Nombre": "Xayah",
+    "CriptedName": "iljls",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": "Vastaya",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Jonia",
+    "ReleaseYear": "2017",
+    "IconUrl": "https://www.dropbox.com/s/e8htcy54oku093e/Xayah.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/nhv2q51ucii30fe/iljls.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/bwojim00x0unwbk/iljls.png?dl=1",
+    "Abilities": [
+      "Cortes Limpios",
+      "Dagas Dobles",
+      "Plumaje Letal",
+      "Invocadora de Cuchillas",
+      "Tormenta de Plumas"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "¿Se supone que debo sentirme intimidada? No estoy segura de que este pasando eso.",
+      "Que estés hablando no ayuda a este maravilloso silencio.",
+      "Si el amor es tan intenso que te dan ganas de meterte lo salvaje dentro de su piel, entonces amo a Rakan.",
+      "Estos cientos de cortes son solo el comienzo.",
+      "Los vencedores son los únicos autores de la historia. Es hora de escribir nuestro capítulo.",
+      "La visión es el primer paso al entendimiento.",
+      "Dicen que no se cuando abandonar. Como si eso fuera un defecto.",
+      "La vida es demasiado corta como para tener miedo."
+    ]
+  },
+
+  "xerath": {
+    "Nombre": "Xerath",
+    "CriptedName": "ipcles",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Soporte"],
+    "Species": "Dios Guerrero",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Shurima",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/m0d791fa0wtareg/Xerath.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/0vd2g5t242zapvx/ipcles.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/njhmmbqicrthyp7/ipcles.png?dl=1",
+    "Abilities": [
+      "Sobrecarga de Maná",
+      "Pulso Arcano",
+      "Ojo de la Destrucción",
+      "Impacto Orbital",
+      "Rito del Arcano"
+    ],
+    "Emojis": "",
+    "Frases": ["Las emociones son solo distracciones."]
+  },
+
+  "xinzhao": {
+    "Nombre": "Xin Zhao",
+    "CriptedName": "itykslz",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "Humano",
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": ["Demacia", "Jonia", "Noxus"],
+    "ReleaseYear": "2010",
+    "IconUrl": "https://www.dropbox.com/s/vb3wh4rof2dxk7r/XinZhao.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ieu9jrfqa8i3q58/itykslz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/dj23ev2o9r5b25y/itykslz.png?dl=1",
+    "Abilities": [
+      "Determinación",
+      "Golpe de Garra Triple",
+      "El Viento se Vuelve Tormenta",
+      "Carga Audaz",
+      "Guardia Creciente"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La muerte es inevitable; solo es posible evitar la derrota.",
+      "El espíritu de un guerrero es inquebrantable.",
+      "¡A combatir!",
+      "Denme un objeto inmóvil y les contestaré tu pregunta",
+      "Toma un consejo y una lanza de propina"
+    ]
+  },
+
+  "yasuo": {
+    "Nombre": "Yasuo",
+    "CriptedName": "jldfz",
+    "Gender": "Masculino",
+    "Positions": "Central",
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Flujo",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2013",
+    "IconUrl": "https://www.dropbox.com/s/nlmb254ezv51zlk/Yasuo.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/11ywotuum6eql5n/jldfz.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/a91w0axunjmvmkr/jldfz.png?dl=1",
+    "Abilities": [
+      "Camino del Vagabundo",
+      "Tempestad de Acero",
+      "Muro de Viento",
+      "Hoja al Viento",
+      "Último Aliento"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "La muerte es como el viento, siempre a mi lado.",
+      "¿Mi hermano ha vuelto? Tal parece que la muerte era la parte fácil.",
+      "¿Qué pesa más, Riven? ¿Tu espada o tu pasado?",
+      "Una espada deshonrada frente a una máscara maldita.",
+      "Solo hay tres certezas en la vida... El honor, la muerte y la resaca."
+    ]
+  },
+
+  "yone": {
+    "Nombre": "Yone",
+    "CriptedName": "jzyp",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Superior"],
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Ninguno",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2020",
+    "IconUrl": "https://www.dropbox.com/s/40o297cdonj3nri/Yone.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/0qhrmp0hbyjzdd6/jzyp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/ch1undreh7k6nwk/jzyp.png?dl=1",
+    "Abilities": [
+      "Camino del Cazador",
+      "Acero Letal",
+      "Cercenamiento Espiritual",
+      "Alma Desatada",
+      "Destino Sellado"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Una para cortar, otra para sellar",
+      "¿Crees que soy yo a quien debes temer?",
+      "Eres parte de los atormentados.",
+      "El equilibrio. Es una ilusión Shen. Seguro ahora lo puedes ver.",
+      "Ríndete o cae ante mis espadas.",
+      "Muchos me confunden con las pesadillas que asesino. Que así sea.",
+      "Hermano, nuestros caminos se cruzan una vez mas. ¿Harán lo mismo nuestras espadas?",
+      "Acero y espíritu!"
+    ]
+  },
+
+  "yorick": {
+    "Nombre": "Yorick",
+    "CriptedName": "jzctnv",
+    "Gender": "Masculino",
+    "Positions": "Superior",
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Islas De La Sombra",
+    "ReleaseYear": "2011",
+    "IconUrl": "https://www.dropbox.com/s/hrnempxgt7b3ww9/Yorick.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ictuzuohfphf4ma/jzctnv.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/55vbe9a3w9rce76/jzctnv.png?dl=1",
+    "Abilities": [
+      "Pastor de Almas",
+      "Extremaunción",
+      "Procesión Oscura",
+      "Niebla del Lamento",
+      "Elegía de las Islas"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Recuerda mi nombre. Por un día, no lo haré.",
+      "Las islas recuerdan.",
+      "Recordar es dolorozo.",
+      "No vivo en la esperanza, me esfuerzo en generarla.",
+      "Prevaleceremos, la eternidad es nuestra."
+    ]
+  },
+
+  "yuumi": {
+    "Nombre": "Yuumi",
+    "CriptedName": "jffxt",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": ["Gato", "Alterado Magicamente"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Ciudad De Bandle",
+    "ReleaseYear": "2019",
+    "IconUrl": "https://www.dropbox.com/s/zv0igd5on88wfu5/Yuumi.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/ucfspyfsgw3ennz/jffxt.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/hlhj4v88gysqz1n/jffxt.png?dl=1",
+    "Abilities": [
+      "Manotazo Mágico",
+      "Proyectil Acechador",
+      "¡Tú y Yo!",
+      "¡Acelera!",
+      "Últimas Páginas"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Repiteme el plan.",
+      "Espera. Pescado. Alguien tiene pescado.",
+      "¿Donde esta el pescado?"
+    ]
+  },
+
+  "zac": {
+    "Nombre": "Zac",
+    "CriptedName": "kln",
+    "Gender": "Masculino",
+    "Positions": "Jungla",
+    "Species": "Golem",
+    "Resource": "Vida",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Zaun",
+    "ReleaseYear": "2013",
+    "IconUrl": "https://www.dropbox.com/s/wmf65ifbpb3dykd/Zac.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/cw3y5nyxzhxlz2u/kln.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/kf39rjkuvkfulrd/kln.png?dl=1",
+    "Abilities": [
+      "División Celular",
+      "Golpes de Estiramiento",
+      "Materia Inestable",
+      "Honda Elástica",
+      "¡Rebotemos!"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Todo el mundo es un crítico",
+      "Naci para esto, literalmete.",
+      "No soy tan blando como parezco.",
+      "Debería conseguir un traje.",
+      "Aunque carezcas de columna vertebral, ¡tienes que sostenerte por ti mismo!"
+    ]
+  },
+
+  "zed": {
+    "Nombre": "Zed",
+    "CriptedName": "kpo",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Jungla"],
+    "Species": ["Humano", "Alterado Magicamente"],
+    "Resource": "Energia",
+    "RangeType": "Cuerpo A Cuerpo",
+    "Region": "Jonia",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/kt681y42y58m4vd/Zed.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/esfqq3d5e85o1t1/kpo.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/f6jx20xtzkayfm9/kpo.png?dl=1",
+    "Abilities": [
+      "Desprecio hacia los Débiles",
+      "Navaja Shuriken",
+      "Sombra Viviente",
+      "Cuchillada Sombría",
+      "Marca de la Muerte"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Lo que he hecho no puede deshacerse.",
+      "Siguen al maestro equivocado.",
+      "La sombra está en el interior.",
+      "Soy el filo en la oscuridad.",
+      "Camina en las sombras, halla la verdad."
+    ]
+  },
+
+  "zeri": {
+    "Nombre": "Zeri",
+    "CriptedName": "kpct",
+    "Gender": "Femenino",
+    "Positions": "Inferior",
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Zaun",
+    "ReleaseYear": "2022",
+    "IconUrl": "https://www.dropbox.com/s/zg6mljvtkxwby0q/Zeri.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/tpt8hztdl5oajlh/kpct.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/7lzxisfghd61een/kpct.png?dl=1",
+    "Abilities": [
+      "Batería Humana",
+      "Ráfaga de Luz",
+      "Láser Ultracargado",
+      "Chispazo",
+      "Estallido Eléctrico"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Jamás me subestimes.",
+      "Le devolví el disparo.",
+      "¿Piensos meterte con nosotros?",
+      "Enfrentame a mí primero.",
+      "mucho blablabla",
+      "Veamos si puedes pelear",
+      "Vamos Zeri, lucha para ganar, nunca lo olvides.",
+      "Ahhg... quizá me apresuré, no importa, lo haré mejor.",
+      "Si los quimo barones no pudieron detenerme, nadie lo hará.",
+      "Un segundo, debo hacer ajustes a mi arma."
+    ]
+  },
+
+  "ziggs": {
+    "Nombre": "Ziggs",
+    "CriptedName": "ktrrd",
+    "Gender": "Masculino",
+    "Positions": ["Central", "Inferior"],
+    "Species": "Yordle",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Piltóver", "Zaun"],
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/mj8xzgq8y4cn955/Ziggs.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/x4nroydtw5kosen/ktrrd.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/uzwmiwv7ek8vzht/ktrrd.png?dl=1",
+    "Abilities": [
+      "Mecha Corta",
+      "Bomba Rebotante",
+      "Carga Concentrada",
+      "Minas Hexplosivas",
+      "Bomba Megainfernal"
+    ],
+    "Emojis": "",
+    "Frases": ["Me encanta el olor de los explosivos por la mañana."]
+  },
+
+  "zilean": {
+    "Nombre": "Zilean",
+    "CriptedName": "ktwply",
+    "Gender": "Masculino",
+    "Positions": "Soporte",
+    "Species": ["Humano", "Ser Mágico"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": ["Icathia", "Runeterra", "Shurima"],
+    "ReleaseYear": "2009",
+    "IconUrl": "https://www.dropbox.com/s/yf4jj05w22yipcx/Zilean.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/tis8pxjdipvflq4/ktwply.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/h77ipqmqrkeboz4/ktwply.png?dl=1",
+    "Abilities": [
+      "Tiempo Embotellado",
+      "Bomba de Tiempo",
+      "Retroceder",
+      "Distorsión Temporal",
+      "Cronoviaje"
+    ],
+    "Emojis": "",
+    "Frases": ["El tiempo pasa como una flecha, la fruta como una uva pasa."]
+  },
+
+  "zoe": {
+    "Nombre": "Zoe",
+    "CriptedName": "kzp",
+    "Gender": "Femenino",
+    "Positions": "Central",
+    "Species": ["Aspecto", "Humano"],
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Targón",
+    "ReleaseYear": "2017",
+    "IconUrl": "https://www.dropbox.com/s/0r8gobnutcz3k9z/Zoe.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/9lyohjzl9hkz32v/kzp.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/cx37kvlii4grl0v/kzp.png?dl=1",
+    "Abilities": [
+      "¡Más chispas!",
+      "¡Estrella Saltarina!",
+      "Ladrona de Hechizos",
+      "Burbuja Dormilona",
+      "Salto de Portal"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "El ojo que siempre busca el camino seguro, se cierra para siempre.",
+      "El tiempo es como la marea: todo lo que te da, también te lo quita.",
+      "Nadie tiene que madurar si no quiere. Bueno, a lo mejor sí. Pero yo no.",
+      "Hay agujeros en la realidad. Y en las rosquillas."
+    ]
+  },
+
+  "zyra": {
+    "Nombre": "Zyra",
+    "CriptedName": "kjcl",
+    "Gender": "Femenino",
+    "Positions": "Soporte",
+    "Species": "Desconocida",
+    "Resource": "Maná",
+    "RangeType": "De Rango",
+    "Region": "Ixtal",
+    "ReleaseYear": "2012",
+    "IconUrl": "https://www.dropbox.com/s/7ve6wiklny890mk/Zyra.png?dl=1",
+    "CriptedChampIconUrl": "https://www.dropbox.com/s/unxc3u8tmiagy25/kjcl.png?dl=1",
+    "CriptedQuoteIconUrl": "https://www.dropbox.com/s/pep8lwnd4vsr6kt/kjcl.png?dl=1",
+    "Abilities": [
+      "Jardín de Espinas",
+      "Espinas Mortales",
+      "Crecimiento Desenfrenado",
+      "Raíces Atrapadoras",
+      "Tuercespinas"
+    ],
+    "Emojis": "",
+    "Frases": [
+      "Cuanto más cerca de la flor, más cerca de las espinas.",
+      "Espera que mis semillas echen raíces.",
+      "El bosque esconde muchas sorpresas.",
+      "La cosecha se nos hecha en flor.",
+      "Nadie escapará de mi alcance.",
+      "Mi presa se cree inteligente.",
+      "La muerte, está en flor.",
+      "¡Siente el abrazo de las espinas!"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "#utils": ["src/utils/utils.js"],
+      "#commands/*": ["src/commands/*"],
+      "#controllers/*": ["src/utils/utils.js"],
+      "#events/*": ["src/utils/utils.js"],
+      "#mongo": ["src/database/mongo.js"],
+      "#embeds": ["src/embeds/embeds.js"],
+      "#localChampionModel": ["src/models/champions.js"]
+    }
+  }
+}

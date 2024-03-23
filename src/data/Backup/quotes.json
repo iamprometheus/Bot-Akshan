@@ -1,0 +1,800 @@
+{
+  "akshan": {
+    "Nombre": "Akshan",
+    "Frases": [
+      "Shadya aprobaría esto creo... Nunca se sabía con ella.",
+      "Con que así se siente tener amigos.",
+      "Esta capa no cumple con las normas de los centinelas. Aunque, tampoco el gancho. Ni el Boomerang.",
+      "No estamos indefensos somos los que forjamos nuestro destino. ¡Ahora a dispararles a los villanos en la cara!",
+      "No existe el destino. Pero sí existe Akshan.",
+      "Es importante avanzar hacia el viento. Para que la capa ondee dramáticamente.",
+      "La venganza no es un impulso saludable. ¡Salud por lo no saludable!",
+      "La gente dice que soy muy rencoroso. Pero esa gente está muerta.",
+      "¿Qué más puedo agregarle a esta arma? Tal vez vez una pala. ¡No! Una escalera.",
+      "¿Cómo es que el Boomerang regresa? Algún día aprenderé sus secretos.",
+      "\"No uses la redentora\", dijeron. \"Nadie debe empuñar un arma así\", agh, difiero."
+    ]
+  },
+
+  "ornn": {
+    "Nombre": "Ornn",
+    "Frases": [
+      "Una buena hacha derriba un árbol. Una gran hacha derriba un ejército.",
+      "Los humanos hicieron algunas cosas bien...la cerveza. La cerveza oscura.",
+      "La soledad siempre cumple mis espectativas.",
+      "El trabajo agotador es el placer más grande de la vida."
+    ]
+  },
+
+  "skarner": {
+    "Nombre": "Skarner",
+    "Frases": ["La cicatriz de cristal está llorando."]
+  },
+
+  "ekko": {
+    "Nombre": "Ekko",
+    "Frases": [
+      "Mi segunda primera vez.",
+      "He visto tu futuro y está lleno de huesos rotos.",
+      "El viaje en el cerebro no me afecta el tiempo.",
+      "Si no eres capaz de aprovechar cada momento no mereces un solo segundo mas.",
+      "La gente desperdicia mucho tiempo, y luego quieren más. Desean más horas en sus días, más días en sus años, más años en sus vidas.",
+      "Yo no necesito días, horas, años, ¡solo segundos!"
+    ]
+  },
+
+  "evelynn": {
+    "Nombre": "Evelynn",
+    "Frases": ["Sangre fría... como yo."]
+  },
+
+  "illaoi": {
+    "Nombre": "Illaoi",
+    "Frases": [
+      "Vivir es pelear, Vive tu vida, busca lo que deseas que más podría importar.",
+      "Vive tu vida, busca lo deseas, que más podría importar."
+    ]
+  },
+
+  "braum": {
+    "Nombre": "Braum",
+    "Frases": [
+      "Un corazón helado solo necesita una sonrisa cálida.",
+      "Hasta las puertas más pesadas puede ser abiertas.",
+      "Entre más negra la noche más brillan las estrellas.",
+      "Alistar, tengo una vaca que deberías conocer.",
+      "¡Si insisten en pelear, les voy a dar el gusto!"
+    ]
+  },
+
+  "leesin": {
+    "Nombre": "Lee Sin",
+    "Frases": [
+      "Lucharé, fracasare pero rendirme es un privilegio que no tengo."
+    ]
+  },
+
+  "volibear": {
+    "Nombre": "Volibear",
+    "Frases": ["Tus mentiras alimentan el suelo."]
+  },
+
+  "swain": {
+    "Nombre": "Swain",
+    "Frases": [
+      "Dime una vez mas todos los crímenes que cometí, y te diré el precio de la victoria.",
+      "Naci siendo un patricio, me convertí en soldado.",
+      "Otro adversario, otra decepción."
+    ]
+  },
+
+  "viego": {
+    "Nombre": "Viego",
+    "Frases": [
+      "No puedo oírte por encima del temblor de tu voz.",
+      "Qué es un espectro? Sino la sombra voraz de un hombre.",
+      "En un mundo sin amor, la muerte no significa nada.",
+      "El amor es cruel, sin embargo, ¡vencerá!",
+      "Esta niebla tiene sólo una cura y yo la encontraré.",
+      "Que cosa tan pequeña y frágil es el amor.",
+      "No hay salvación de la oscuridad... ¡pues la oscuridad soy yo!",
+      "Deseo tan poco y sin embargo debo matar para obtenerlo."
+    ]
+  },
+
+  "vex": {
+    "Nombre": "Vex",
+    "Frases": [
+      "Tienes suerte. ¡Ser un fantasma es cool!",
+      "Sombra, creo que voy a empezar a llamarte \"cicatriz\".",
+      "¡No es un nombre estúpido! ¡Sombra es un nombre estúpido!"
+    ]
+  },
+
+  "seraphine": {
+    "Nombre": "Seraphine",
+    "Frases": [
+      "Algún día la música parará. ¡Baila mientras puedas!",
+      "Todos luchan para ser escuchados. Yo lucho para escuchar.",
+      "Nos acercamos lo más que podemos a la muerte, para sentirnos vivos.",
+      "La gente no siempre escucha, pero esa no es razón para callarse.",
+      "Todos buscamos una respuesta, incluso después de encontrarla.",
+      "Pelearé si quieres, pero en vez de eso podríamos cantar."
+    ]
+  },
+
+  "fiddlesticks": {
+    "Nombre": "Fiddlesticks",
+    "Frases": [
+      "Maderos podridos y decadentes; Tela y metal; Cuervos y dientes."
+    ]
+  },
+
+  "yummi": {
+    "Nombre": "Yummi",
+    "Frases": [
+      "Repiteme el plan.",
+      "Espera. Pescado. Alguien tiene pescado.",
+      "¿Donde esta el pescado?"
+    ]
+  },
+
+  "ryze": {
+    "Nombre": "Ryze",
+    "Frases": ["No camines a través de la historia, ¡Corre!."]
+  },
+
+  "lillia": {
+    "Nombre": "Lillia",
+    "Frases": [
+      "Me parece que probaste... demasiado morado.",
+      "Algunos se pierden y llegan al jardín. Otros vienen para perderse como tu Ahri..."
+    ]
+  },
+
+  "nunuywillump": {
+    "Nombre": "Nunu y Willump",
+    "Frases": [
+      "Mi mamá me dijo que mientras siempre la recuerde ella siempre volverá... como Anivia.",
+      "Sé que debería sentirme feliz pero... me siento solo, Willump.",
+      "Aveces el azul es el único color en el Fleljord, recuerdo que mi mamá tenia los ojos azules...",
+      "Nunca abandones a tus mejores amigos."
+    ]
+  },
+
+  "sett": {
+    "Nombre": "Sett",
+    "Frases": [
+      "¡Es fácil hablar así, cuando aún tienes todos tus dientes!",
+      "Mira esa cara, ¡Me pide a gritos que la golpee!",
+      "Hay algún médico disponible? Es para mis oponentes.",
+      "¿Adónde te lleva una vida honrada? ¡A la ruina!",
+      "Tienes agallas. ¡Lástima que las atravesaré con mis puños!",
+      "Si en tus sueños me das una golpiza, Será mejor que despiertes y te disculpes.",
+      "Todo es risas y diversión, hasta que a alguien le parten la carota!",
+      "Lo que mas detesta la gente, es a un hombre que hizo algo con su vida.",
+      "La gente dice que no le gusta la violencia, pero a todos les gusta mirar.",
+      "La violencia es mi negocio, y el negocio va muy bien.",
+      "Ahora bésense.",
+      "Cosas que amo: mi mami, romper cuellos y la seda fina de Jonia.",
+      "Recuerdo mi primera pelea...corrí a casa y lloré con mi mami. Ella limpió mis lágrimas con sus garras.¡ains!"
+    ]
+  },
+
+  "aphelios": {
+    "Nombre": "Aphelios",
+    "Frases": [
+      "Para convertirse en un receptáculo de los cielos, sólo se necesita fe.",
+      "Los solari nos llaman herejes. Pero cuando llegue la oscuridad hermano, necesitarán nuestra luz.",
+      "Te transformas en un arma para no sentir, pero no eres un arma, eres mi hermano.",
+      "Incluso desde el velo celestial, estaré contigo, hermano.",
+      "Incluso con los ojos cerrados, jamás desviaré la mirada.",
+      "Avanzamos a través de la violencia, nacidos de la sombra y de la luz.",
+      "Si lo que nos espera en la oscuridad es el dolor, hermano, debemos ir hacia ella sin miedo.",
+      "Recorres el camino de la oscuridad, pero no lo haces solo hermano.",
+      "Mientras más brille mi luz, mas poderosa será tu sombra.",
+      "Lo que queremos, lo que necesitamos, lo que debemos hacer...envidio a los ignorantes.",
+      "Ver más allá del velo celestial, lo que llamamos verdad, es sombra."
+    ]
+  },
+
+  "senna": {
+    "Nombre": "Senna",
+    "Frases": [
+      "Sólo un hombre tan terco como para pelear contra mí, sería tan terco como para amarme.",
+      "En la oscuridad nos encontramos a nosotros mismos.",
+      "Cuando escucho cadenas, busco mi arma.",
+      "Cuando te ahogas, y aún recuerdas como respirar, pero no puedes hacerlo... esa es la niebla.",
+      "Mientras más sangre haya en tus manos, más difícil será olvidar.",
+      "Me veo en ellos, en los ojos de quienes he salvado y me veo en la oscuridad que se refleja ahí.",
+      "La pistola no tiene gatillo, yo soy el gatillo.",
+      "Yo disparo mis palabras como ráfagas de luz.",
+      "Lo único mas grande que ésta arma, es el error que cometiste al ponerte en su mira.",
+      "Sobrevive a la pelea, no al miedo.",
+      "Cuando no haya más luz, yo me llevaré su oscuridad.",
+      "Cada muerte es un sacrificio. Si solo moriste, considérate afortunado.",
+      "El pasado es como una ola, siempre vuelve."
+    ]
+  },
+
+  "gangplank": {
+    "Nombre": "Gangplank",
+    "Frases": ["Ni las llamas, ni las profundidades... pudieron reclamarme."]
+  },
+
+  "pyke": {
+    "Nombre": "Pyke",
+    "Frases": ["Ya estoy muerto, Un poco más no me hará daño..."]
+  },
+
+  "ezreal": {
+    "Nombre": "Ezreal",
+    "Frases": [
+      "Los exploradores auténticos siguen la brújula de su corazón.",
+      "Casi nunca se lo que estoy buscando, pero siempre lo encuentro."
+    ]
+  },
+
+  "qiyana": {
+    "Nombre": "Qiyana",
+    "Frases": [
+      "¡Inclina la cabeza o piérdela!",
+      "Húmeda, como las lágrimas de mis enemigos. Verde, como la envidia de mis hermanas.",
+      "Los secretos de mis enemigos se los lleva el viento.",
+      "El trabajo duro es para quienes carecen de talento.",
+      "En esta competencia hay niveles...mejor quédate en el tuyo.",
+      "Ser joven implica vivir para ver a todos tus enemigos morir primero.",
+      "Para mí, la ira es inútil. Es una herida que nunca deja de infectarse.",
+      "La memoria es como una compañera que te brinda consuelo."
+    ]
+  },
+
+  "kaisa": {
+    "Nombre": "Kai'Sa",
+    "Frases": [
+      "Para mí, la ira es inútil. Es una herida que nunca deja de infectarse.",
+      "La memoria es como una compañera que te brinda consuelo.",
+      "Cuando era niña, me aterraba lo que acechaba en la oscuridad. Qué tonta era... ahora es mi hogar.",
+      "¡Alimenta a la bestia, o conviértete en su presa!",
+      "Perdonar es difícil. Pero vale la pena.",
+      "Cuando los recuerdos se desvanezcan y la oscuridad te rodee, busca tu fuerza interior.",
+      "Puedo salvarlos de los monstruos. Pero quién los salvará de ellos mismos?",
+      "Sobrevivir significa: nunca detenerse.",
+      "La vida y la muerte están separadas por tan solo un tropiezo.",
+      "El peligro es real. El miedo es una ilusión.",
+      "La vida y la muerte están a un traspiés de distancia."
+    ]
+  },
+
+  "xayah": {
+    "Nombre": "Xayah",
+    "Frases": [
+      "¿Se supone que debo sentirme intimidada? No estoy segura de que este pasando eso.",
+      "Que estés hablando no ayuda a este maravilloso silencio.",
+      "Si el amor es tan intenso que te dan ganas de meterte lo salvaje dentro de su piel, entonces amo a Rakan.",
+      "Estos cientos de cortes son solo el comienzo.",
+      "Los vencedores son los únicos autores de la historia. Es hora de escribir nuestro capítulo.",
+      "La visión es el primer paso al entendimiento.",
+      "Dicen que no se cuando abandonar. Como si eso fuera un defecto."
+    ]
+  },
+
+  "ivern": {
+    "Nombre": "Ivern",
+    "Frases": ["Las papas, lo ven todo..."]
+  },
+
+  "ahri": {
+    "Nombre": "Ahri",
+    "Frases": [
+      "Ven a probar suerte, si crees que juegas en mí liga.",
+      "¿Qué es lo que deseas?",
+      "Cuéntame un secreto.",
+      "¿No confías en mí?",
+      "No te detengas.",
+      "Han agotado su utilidad.",
+      "Nadie se interpondrá en mí camino.",
+      "Vamos a pasarla en grande.",
+      "Ya no sirve de nada la piedad.",
+      "Ahora son míos.",
+      "Se acabaron los juegos."
+    ]
+  },
+
+  "lissandra": {
+    "Nombre": "Lissandra",
+    "Frases": [
+      "El mundo comenzó y terminará en el hielo.",
+      "El frío mitigara el dolor.",
+      "Soy hija del hielo.",
+      "Enterraré el mundo en hielo."
+    ]
+  },
+
+  "quinn": {
+    "Nombre": "Quinn",
+    "Frases": [
+      "La sombra de Valor sera lo último que verán tus ojos.",
+      "¿Quién es? ¿Qué Fiora? ¡Valor, no seas cruel!",
+      "¿Quién es? ¿Qué Garen? Ah sí, supongo que dice eso muy seguido.",
+      "¿Quién es? ¿Qué Jarvan? Hah. ¡Valor!",
+      "Solo es un pájaro presumido.",
+      "Esto es como cazar pajaritos."
+    ]
+  },
+
+  "kindred": {
+    "Nombre": "Kindred",
+    "Frases": [
+      "Aquel que huye de la muerte, vivió su vida inmóvil.",
+      "Un paso en falso, y luego mis dientes.",
+      "Como mueres demuestra como viviste.",
+      "Abrazar la vida significa aceptar la muerte."
+    ]
+  },
+
+  "malzahar": {
+    "Nombre": "Malzahar",
+    "Frases": ["¡Cómo estaba predicho!", "La clarividencia lo dispone."]
+  },
+
+  "lulu": {
+    "Nombre": "Lulu",
+    "Frases": ["Sip, sabe a púrpura."]
+  },
+
+  "tristana": {
+    "Nombre": "Tristana",
+    "Frases": ["¡Es como la espada explosiva que siempre soñé!"]
+  },
+
+  "fizz": {
+    "Nombre": "Fizz",
+    "Frases": ["¡Déjamelos a mí!"]
+  },
+
+  "soraka": {
+    "Nombre": "Soraka",
+    "Frases": ["Cada paso es un nuevo viaje."]
+  },
+
+  "zoe": {
+    "Nombre": "Zoe",
+    "Frases": [
+      "El ojo que siempre busca el camino seguro, se cierra para siempre.",
+      "El tiempo es como la marea: todo lo que te da, también te lo quita.",
+      "Nadie tiene que madurar si no quiere. Bueno, a lo mejor sí. Pero yo no.",
+      "Hay agujeros en la realidad. Y en las rosquillas."
+    ]
+  },
+
+  "urgot": {
+    "Nombre": "Urgot",
+    "Frases": [
+      "¿Qué harás para sobrevivir? ¡Dímelo!",
+      "¡Quiebra a los hombres para quebrar sus cadenas!",
+      "No sabrás lo que es la fuerza, hasta que seas destrozado.",
+      "Soy más fuerte que el hombre y que la máquina. Soy una idea."
+    ]
+  },
+
+  "kayn": {
+    "Nombre": "Kayn",
+    "Frases": [
+      "Jamás subestimes al odio.",
+      "La luz no ofrece ningún santuario.",
+      "Mientras más enemigos envíen, más habrá bajo tierra!",
+      "La muerte los encuentra a todos...y muy rápido.",
+      "Los tontos mueren y son olvidados.",
+      "El niño ha quedado atrás. ¡El asesino permanece!",
+      "Cuando un humano se arrodilla, rara vez vuelve a levantarse."
+    ]
+  },
+
+  "vi": {
+    "Nombre": "Vi",
+    "Frases": [
+      "Buen tiro cielo.",
+      "Es una pena. Tengo dos puños pero tú sólo tienes una cara.",
+      "Golpea primero, pregunta mientras golpeas.",
+      "Podemos hacer esto por las buenas o... Espera, no, solo por las malas."
+    ]
+  },
+
+  "azir": {
+    "Nombre": "Azir",
+    "Frases": [
+      "¿Y qué es el desierto? Sino las cenizas de mis enemigos.",
+      "Nunca traiciones a un emperador.",
+      "No hay rival para un emperador Xerath, solo responsabilidades."
+    ]
+  },
+
+  "camille": {
+    "Nombre": "Camille",
+    "Frases": [
+      "La venganza se puede comprar por el precio de un alma.",
+      "Aveces las cicatrices son el atuendo más elegante que puedes lucir.",
+      "La moralidad es un bello sirviente y un peligroso maestro.",
+      "Una espada veloz gana la batalla , pero na mente aguda gana la guerra.",
+      "La mediocridad es la raíz de todos los males.",
+      "El progreso está por encima del sufrimiento.",
+      "La hostilidad funciona cuando la cortesía falla.",
+      "La virtud de un arma se demuestra en el combate. "
+    ]
+  },
+
+  "talon": {
+    "Nombre": "Talon",
+    "Frases": [
+      "Vive y muere bajo la cuchilla.",
+      "Estos huesos conocerán mi cuchilla.",
+      "Tienes algo mas que ¡Debilidad!",
+      "Tus lealtades son insignificantes.",
+      "Solo un necio daría su vida por honor."
+    ]
+  },
+
+  "yasuo": {
+    "Nombre": "Yasuo",
+    "Frases": [
+      "La muerte es como el viento, siempre a mi lado.",
+      "¿Mi hermano ha vuelto? Tal parece que la muerte era la parte fácil.",
+      "¿Qué pesa más, Riven? ¿Tu espada o tu pasado?",
+      "Una espada deshonrada frente a una máscara maldita.",
+      "Solo hay tres certezas en la vida... El honor, la muerte y la resaca."
+    ]
+  },
+
+  "darius": {
+    "Nombre": "Darius",
+    "Frases": [
+      "Hagan lo que quieran con los demás, yo me encargo de Garen.",
+      "El rey tirano vino para morir, cumplamos su deseo.",
+      "Nunca le des la espalda a un lobo.",
+      "¡Yo puedo llevarlos a la victoria!",
+      "Bajo tierra, con los otros debiluchos.",
+      "Los adverarios dignos son las piedras que afilan nuestras garras."
+    ]
+  },
+
+  "zilean": {
+    "Nombre": "Zilean",
+    "Frases": ["El tiempo pasa como una flecha, la fruta como una uva pasa."]
+  },
+
+  "akali": {
+    "Nombre": "Akali",
+    "Frases": [
+      "Te sugiero que corras, quiero saborear esto.",
+      "Como dicta el equilibrio.",
+      "Demasiados novatos, ¿se alcanzará alguna vez el equilibrio en los emparejamientos?"
+    ]
+  },
+
+  "nocturne": {
+    "Nombre": "Nocturne",
+    "Frases": [
+      "¿Pronóstico del tiempo para esta noche? Oscuro con posibilidad de sangre...",
+      "Abraza la oscuridad."
+    ]
+  },
+
+  "brand": {
+    "Nombre": "Brand",
+    "Frases": ["¡¿Y si quemamos el mundo?!"]
+  },
+
+  "blitzcrank": {
+    "Nombre": "Blitzcrank",
+    "Frases": [
+      "Golem que duerme se lo lleva la corriente.",
+      "Encendido y listo para el servicio.",
+      "La hora del hombre ha llegado a su fin.",
+      "El metal es más duro que la carne.",
+      "¡EXTERMINIO... EXTERMINIO!"
+    ]
+  },
+
+  "alistar": {
+    "Nombre": "Alistar",
+    "Frases": [
+      "¡No hay nada que me detenga!",
+      "No puedes ordeñar estas.",
+      "Si te metes con el toro recibirás una cornada."
+    ]
+  },
+
+  "nasus": {
+    "Nombre": "Nasus",
+    "Frases": [
+      "El ciclo de la vida y la muerte prosigue, nosotros viviremos, ellos moriran.",
+      "Palabras equivocadas hacen caer imperios.",
+      "El destino es una manifestación de mi voluntad.",
+      "El cielo no es más que estrellas moribundas."
+    ]
+  },
+
+  "twistedfate": {
+    "Nombre": "Twisted Fate",
+    "Frases": [
+      "Solo hay dos bufones en la baraja.... y me tocas tú.",
+      "Tramposo es una forma bonita de decir ganador.",
+      "Solo un tonto juega con la mano que le dan.",
+      "La fortuna me sonríe."
+    ]
+  },
+
+  "katarina": {
+    "Nombre": "Katarina",
+    "Frases": ["La violencia lo arregla todo."]
+  },
+
+  "nami": {
+    "Nombre": "Nami",
+    "Frases": ["Soy la marea y como tal, no se me puede detener."]
+  },
+
+  "graves": {
+    "Nombre": "Graves",
+    "Frases": [
+      "Me gustan dos tipos de enemigos, los muertos y aspirantes a difunto.",
+      "Todo el mundo es un héroe, hasta que les disparas en una o dos piernas."
+    ]
+  },
+
+  "leblanc": {
+    "Nombre": "Leblanc",
+    "Frases": [
+      "Ya verás, con mi siguiente truco de magia haré desaparecer su barra de vida."
+    ]
+  },
+
+  "gragas": {
+    "Nombre": "Gragas",
+    "Frases": [
+      "Si me pagas una ronda, me apunto.",
+      "Solo tengo problemas con la bebida cuando se me acaba."
+    ]
+  },
+
+  "rengar": {
+    "Nombre": "Rengar",
+    "Frases": [
+      "Caza a los débiles y sobrevivirás, caza a los fuertes y vivirás.",
+      "Incluso los monstruos pueden temer.",
+      "La comodidad alimenta la debilidad.",
+      "Un premio apropiado.",
+      "Esta noche... iremos de caza."
+    ]
+  },
+
+  "missfortune": {
+    "Nombre": "Miss Fortune",
+    "Frases": ["Vigila esa lengua joven, o te mando a casa a regenerarte."]
+  },
+
+  "jinx": {
+    "Nombre": "Jinx",
+    "Frases": [
+      "Hay un placer en la locura que solo los locos conocen.",
+      "Incluso el mal en estado puro, no tiene objetivos.",
+      "Espérate que piense... Vale ya acabe.",
+      "Traigo pistolas para la pelea de cuchillos.",
+      "No hay motivo para asustarse, ni para seguir con vida.",
+      "Me encanta desperdiciar balas contigo."
+    ]
+  },
+
+  "lucian": {
+    "Nombre": "Lucian",
+    "Frases": [
+      "Te llevaste lo mejor de mí, Tresh. ¡Y dejaste en mí un enemigo feroz!",
+      "Todos mueren... Algunos necesitan ayuda.",
+      "Abramos esas latas Mordekaiser, veamos que llevas dentro.",
+      "Algunos lo llaman magia, yo lo llamo buena puntería.",
+      "No es que te tema Hecarim, pero odio desperdiciar un buen caballo."
+    ]
+  },
+
+  "syndra": {
+    "Nombre": "Syndra",
+    "Frases": [
+      "Una legión no pudo detenerme... ¿qué vas a poder hacer tú?",
+      "¡Tanto poder sin explotar!"
+    ]
+  },
+
+  "orianna": {
+    "Nombre": "Orianna",
+    "Frases": [
+      "Se rompen tan fácilmente... ¿Qué hay que hacer para arreglarlos?",
+      "Baila conmigo, mascota mía. Baila conmigo hacia el olvido."
+    ]
+  },
+
+  "sion": {
+    "Nombre": "Sion",
+    "Frases": [
+      "La sangre es el vino de la victoria.",
+      "¡Mata a los fuertes y aplasta a los débiles!",
+      "Solo los cobardes temen morir."
+    ]
+  },
+
+  "aatrox": {
+    "Nombre": "Aatrpx",
+    "Frases": [
+      "La guerra saca a relucir nuestro verdadero ser.",
+      "Sé lo que se esconde en el corazón de los hombres.",
+      "Que el miedo se vuelva furia.",
+      "El dolor es temporal, la victoria es eterna.",
+      "Tryndamere... Mi mayor creación."
+    ]
+  },
+
+  "varus": {
+    "Nombre": "Varus",
+    "Frases": [
+      "Te regalo mi dolor.",
+      "La culpa dará lugar a la agonía.",
+      "Solo los cobardes huyen de su destino."
+    ]
+  },
+
+  "velkoz": {
+    "Nombre": "Vel'Koz",
+    "Frases": [
+      "Se requiere una infinidad de muestras.",
+      "El conocimiento mediante... la desintegración.",
+      "Las lágrimas no parecen tener ninguna función."
+    ]
+  },
+
+  "sivir": {
+    "Nombre": "Sivir",
+    "Frases": [
+      "Mis valores son dorados y los guardo en un cofre.",
+      "El honor no es más que óxido en una espada inservible.",
+      "Los héroes siempre pasan hambre.",
+      "La lealtad no se gana, se compra.",
+      "La vida es gratis la muerte sale cara."
+    ]
+  },
+
+  "teemo": {
+    "Nombre": "Teemo",
+    "Frases": [
+      "Lo siento pequeñín, ya no me quedan lágrimas.",
+      "Asesino por naturaleza.",
+      "Deja que el veneno se apodere de ti.",
+      "La lealtad no se gana, se compra.",
+      "A todos les llega la hora, menos a mí."
+    ]
+  },
+
+  "khazix": {
+    "Nombre": "Kha'Zix",
+    "Frases": [
+      "¡No temas a la muerte, lo mejor de ti siempre vivirá!",
+      "Los cambios son buenos."
+    ]
+  },
+
+  "sona": {
+    "Nombre": "Sona",
+    "Frases": ["De mi mente a la tuya."]
+  },
+
+  "karma": {
+    "Nombre": "Karma",
+    "Frases": ["Confía siempre en tu espíritu."]
+  },
+
+  "zed": {
+    "Nombre": "Zed",
+    "Frases": [
+      "Lo que he hecho no puede deshacerse.",
+      "Siguen al maestro equivocado.",
+      "La sombra está en el interior.",
+      "Soy el filo en la oscuridad."
+    ]
+  },
+
+  "fiora": {
+    "Nombre": "Fiora",
+    "Frases": [
+      "Me agradas, odio tener que matarte.",
+      "Soy una artista con la espada en todos los sentidos.",
+      "¿Seguro que esto es un desafío?"
+    ]
+  },
+
+  "draven": {
+    "Nombre": "Draven",
+    "Frases": [
+      "La excelencia está allá donde yo decida poner el listón cada día."
+    ]
+  },
+
+  "wukong": {
+    "Nombre": "Wukong",
+    "Frases": ["Solo en combate descubres quién eres en realidad."]
+  },
+
+  "zyra": {
+    "Nombre": "Zyra",
+    "Frases": ["Cuanto más cerca de la flor, más cerca de las espinas."]
+  },
+
+  "kennen": {
+    "Nombre": "Kennen",
+    "Frases": [
+      "El Corazón de la tempestad late eternamente... y aquellos por él azotados lo recuerdan eternamente."
+    ]
+  },
+
+  "diana": {
+    "Nombre": "Diana",
+    "Frases": ["Ciegos ante la verdad."]
+  },
+
+  "kalista": {
+    "Nombre": "Kalista",
+    "Frases": [
+      "No hay nada más vil que la traición.",
+      "Veamos cuantas lanzas puedes soportar."
+    ]
+  },
+
+  "nautilus": {
+    "Nombre": "Nautilus",
+    "Frases": [
+      "A veces creo que esta ancla es demasiada pesada.",
+      "La marea está bajando.",
+      "Abandonado...",
+      "¡Que sientan el peso del océano!",
+      "¡Los arrastraré al fondo!"
+    ]
+  },
+
+  "caitlyn": {
+    "Nombre": "Caitlyn",
+    "Frases": ["¿Disparos? Y ¿Qué tal un puñetazo en la cara?"]
+  },
+
+  "ziggs": {
+    "Nombre": "Ziggs",
+    "Frases": ["Me encanta el olor de los explosivos por la mañana."]
+  },
+
+  "morgana": {
+    "Nombre": "Morgana",
+    "Frases": [
+      "La oscuridad será quien logre mantener su fuerza, las sombras son el único poder ilimitado."
+    ]
+  },
+
+  "ashe": {
+    "Nombre": "Ashe",
+    "Frases": [
+      "Sigue mirando, pero no mires detrás de ti.",
+      "Abre bien los ojos, será lo último que veras.",
+      "¿Más veloz que mi flecha? No lo creo.",
+      "¿Te gustan las curvas? Me refiero al arco."
+    ]
+  },
+
+  "chogath": {
+    "Nombre": "Cho'Gath",
+    "Frases": ["Tu sufrimiento no tendrá fin.", "La muerte no será el fin."]
+  },
+
+  "heimerdinger": {
+    "Nombre": "Heimerdinger",
+    "Frases": [
+      "Preferiría una batalla de intelectos pero no cuentas con ese tipo de arma.",
+      "Una revolucionaria innovación hextecnológica puesta al servicio de, los puños."
+    ]
+  }
+}
